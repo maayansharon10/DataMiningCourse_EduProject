@@ -1,0 +1,2455 @@
+,Unnamed: 0,instNum,instName,city,s\bagrut- list of schools.xlsx,es\main list - highschool.xlsx,all_files\school - bagrut.xlsx,list from students report.xlsx,nts/all_files\schools_utm.xlsx, list from school - money.xlsx
+0,0,117002.0,אל-מוטראן,ירושלים,False,False,False,True,True,True
+1,1,117010.0,"ביה""ס אל-פריר",ירושלים,False,False,False,True,True,True
+2,2,118158.0,איבן אל-היית'ם,ירושלים,False,False,False,False,False,False
+3,3,120014.0,נוף הרים,איתנים,False,False,False,False,True,False
+4,4,120030.0,"אלי""ן",ירושלים,False,False,False,False,True,False
+5,5,120055.0,בית חנוך עוורים מד,ירושלים,False,False,False,True,True,False
+6,6,120071.0,"בן יהודה מ""מ",ירושלים,False,False,False,True,True,False
+7,7,120105.0,"בי""ח הדסה - מ. ילדים",ירושלים,False,False,False,False,True,False
+8,8,120113.0,בית ספר תיכון מקצועי,ירושלים,False,False,False,True,True,False
+9,9,120121.0,מיוחד כיח לחרשים,ירושלים,False,False,False,True,True,False
+10,10,120154.0,מיוחד ניצנים מד,ירושלים,False,False,False,True,True,False
+11,11,120212.0,בית רחל שטראוס,ירושלים,False,False,False,True,True,False
+12,12,120238.0,קרית יערים,קרית יערים(מוסד),False,True,True,True,True,True
+13,13,120287.0,"אילנות מ""מ",ירושלים,False,False,False,True,True,False
+14,14,120329.0,מחלקת ילדים,ירושלים,False,False,False,False,False,False
+15,15,120428.0,המעין,ירושלים,False,False,False,True,True,False
+16,16,120436.0,הטנה,ירושלים,False,False,False,True,True,False
+17,17,120477.0,מגן אברהם,ירושלים,False,False,False,False,False,False
+18,18,120485.0,אוצר ירושלים שיח סוד,ירושלים,False,False,False,True,True,False
+19,19,120493.0,"דקלים ממ""ד",ירושלים,False,False,False,True,True,False
+20,20,120527.0,אלונים,ירושלים,False,False,False,True,True,False
+21,21,120543.0,פוירשטיין,ירושלים,False,False,False,True,True,False
+22,22,124024.0,קרן אור,ירושלים,False,False,False,True,True,False
+23,23,128017.0,אלנור מעון יום ים,ירושלים,False,False,False,True,True,False
+24,24,128033.0,אל אמל,ירושלים,False,False,False,True,True,False
+25,25,128041.0,בכריה אלוין,ירושלים,False,False,False,True,True,False
+26,26,132019.0,עלה ירושלים,ירושלים,False,False,False,True,True,False
+27,27,132241.0,הבן יקיר לי,ירושלים,False,False,False,True,True,False
+28,28,140012.0,אולפנא תורנית חורב,ירושלים,False,False,True,True,True,True
+29,29,140038.0,עירוני דתי רוטשילד,ירושלים,False,True,True,True,True,True
+30,30,140046.0,עירוני ג',ירושלים,False,True,True,True,True,True
+31,31,140053.0,אקדמיה למוסיקה,ירושלים,False,True,True,True,True,True
+32,32,140061.0,תכון ליד האוניברסיטה,ירושלים,False,True,True,True,True,True
+33,33,140079.0,הגמנסיה העברית,ירושלים,False,True,True,True,True,True
+34,34,140087.0,רנה קסין דרכא,ירושלים,False,True,True,True,True,True
+35,35,140095.0,חוות הנוער הציוני,ירושלים,False,True,True,True,True,True
+36,36,140103.0,"תיכון ע""ש בויאר",ירושלים,False,False,True,True,True,True
+37,37,140129.0,קרית נוער ירושלים,ירושלים,False,True,True,True,True,True
+38,38,140137.0,ישיבת נתיב מאיר,ירושלים,False,True,True,True,True,True
+39,39,140145.0,ישיבת חורב,ירושלים,False,False,True,True,True,True
+40,40,140160.0,ישיבת ים לצעירים,ירושלים,False,True,True,True,True,True
+41,41,140186.0,"תורני ע""ש פ. הימלפרב",ירושלים,False,True,True,True,True,True
+42,42,140202.0,"אמי""ת שחר",בית שמש,False,True,True,True,True,True
+43,43,140236.0,תורני נסויי בנות פלך,ירושלים,False,True,True,True,True,True
+44,44,140251.0,ישיבת תיכון קול מבשר,מבשרת ציון,False,True,True,True,True,True
+45,45,140269.0,מקיף דנמרק,ירושלים,False,True,True,True,True,True
+46,46,140277.0,מדרשיית עמליה,ירושלים,False,True,True,True,True,True
+47,47,140434.0,ישיבת תורת אמת,ירושלים,False,True,False,True,True,True
+48,48,140442.0,ישיבת אור ברוך,ירושלים,False,True,False,True,True,True
+49,49,140491.0,אולפנת צביה ירושלים,ירושלים,False,True,True,True,True,True
+50,50,140525.0,אולפנא ירושלים,ירושלים,False,True,True,True,True,True
+51,51,140541.0,ישיבת עטרת ישראל,ירושלים,False,True,False,True,True,True
+52,52,140574.0,ישיבת בית מרדכי,ירושלים,False,True,False,True,True,True
+53,53,140582.0,ישיבת אוהל מועד,ירושלים,False,True,False,True,True,True
+54,54,140608.0,מכון הברכה,ירושלים,False,True,True,True,True,True
+55,55,140632.0,מכון אהרון וישראל,ירושלים,False,True,False,True,True,True
+56,56,140665.0,אולפנא לבנות,קרית ארבע,False,True,True,True,True,True
+57,57,140673.0,ישיבת חסידי בעלז,ירושלים,False,True,False,True,True,True
+58,58,140681.0,ישיבת יקירי ירושלים,ירושלים,False,True,False,True,True,True
+59,59,140715.0,תיכון בית יעקב,ירושלים,False,True,True,True,True,True
+60,60,140723.0,"מקיף ע""ש זיו",ירושלים,False,True,True,True,True,True
+61,61,140731.0,מקיף גילה,ירושלים,False,True,True,True,True,True
+62,62,140749.0,ישיבת תפארת ישראל,ירושלים,False,True,False,True,True,True
+63,63,140764.0,ישיבת נוה שמואל,אפרתה,False,True,True,True,True,True
+64,64,140772.0,חטיב פסגת זאב,ירושלים,False,False,False,False,False,False
+65,65,140780.0,ישיבת כוכב מיעקב,ירושלים,False,True,False,True,True,True
+66,66,140798.0,ישיבת אוהל שמעון,ירושלים,False,True,False,True,True,True
+67,67,140806.0,תיכון לאומנויות,ירושלים,False,False,True,True,True,True
+68,68,140814.0,ישיבת אור אלחנן,ירושלים,False,True,False,True,True,True
+69,69,140822.0,בית מלכה,ירושלים,False,True,False,True,True,True
+70,70,140848.0,קרית חינוך,בית שמש,False,True,True,True,True,True
+71,71,140855.0,"חט""ב מבשרת",מבשרת ציון,False,False,False,False,False,False
+72,72,140863.0,דקל - וילנאי,מעלה אדומים,False,True,True,True,True,True
+73,73,140871.0,תיכון גבעת גונן,ירושלים,False,True,True,True,True,True
+74,74,140889.0,"חט""ב בנים קרית ארבע",קרית ארבע,False,False,False,False,False,False
+75,75,140913.0,נוה חנה,אלון שבות,False,True,True,True,True,True
+76,76,140921.0,ישיבת בית אברהם,ירושלים,False,True,False,True,True,True
+77,77,140939.0,"ישיבת בנ""ע מטה בנימין",בית אל,False,True,True,True,True,True
+78,78,140947.0,ישיבת מעלות התורה,ירושלים,False,True,False,True,True,True
+79,79,140954.0,ישיבת מערבא,מתתיהו,False,True,True,True,True,True
+80,80,140962.0,עירוני מסורתי,ירושלים,False,True,True,True,True,True
+81,81,140970.0,אולפנא עופרה,עופרה,False,True,True,True,True,True
+82,82,140996.0,ישיבת נזר התורה,ירושלים,False,True,False,True,True,True
+83,83,141002.0,"חט""ב יצחק רבין",גבעת זאב,False,False,False,False,False,False
+84,84,141010.0,"אורט רמות ע""ש י'גדיש",ירושלים,False,True,True,True,False,True
+85,85,141028.0,ישיבת מקור חיים,כפר עציון,False,True,True,True,True,True
+86,86,141044.0,"תיכון ע""ש יעקובזון",ירושלים,False,True,False,True,True,True
+87,87,141069.0,תפארת משה בצלאל,ירושלים,False,True,False,True,True,True
+88,88,141093.0,ישיבת בית דוד,ירושלים,False,True,False,True,True,True
+89,89,141101.0,ישיבת נתיבות יוסף,מצפה יריחו,False,True,True,True,True,True
+90,90,141119.0,נוות ישראל,ירושלים,False,True,True,True,True,True
+91,91,141135.0,ישיבת שפת אמת,ירושלים,False,True,False,True,True,True
+92,92,141143.0,ישיבת שאול ומרי טויל,ירושלים,False,True,False,True,True,True
+93,93,141168.0,תורני לבנות ב.שולמית,ירושלים,False,True,True,True,True,True
+94,94,141176.0,אולפנת צביה מ. אדומים,מעלה אדומים,False,True,True,True,True,True
+95,95,141192.0,ישיבת אוהל שמחה,ירושלים,False,True,False,True,True,True
+96,96,141200.0,ישיבה לצעירים,ירושלים,False,True,False,True,True,True
+97,97,141234.0,ישיבה תורה אור,ירושלים,False,True,False,True,True,True
+98,98,141242.0,ישיבת מגדל תורה,ירושלים,False,True,False,True,True,True
+99,99,141267.0,ישיבת קניני התורה,ירושלים,False,True,False,True,True,True
+100,100,141291.0,ישיבת אהבת חיים,כוכב השחר,False,True,True,True,True,True
+101,101,141309.0,עירוני פסגת זאב,ירושלים,False,True,True,True,True,True
+102,102,141333.0,מ. חינוכי למצטיינות,ירושלים,False,True,False,True,True,True
+103,103,141358.0,ישיבת מעלה חבר,פני חבר,False,True,False,True,True,True
+104,104,141390.0,אולפנא ת. לאומנויות,ירושלים,False,True,True,True,True,True
+105,105,141416.0,ישיבת יד יואב,ירושלים,False,True,False,True,True,True
+106,106,141432.0,בית יעקב דרכי רחל,ירושלים,False,True,False,True,True,True
+107,107,141457.0,ישיבת באר אברהם,ירושלים,False,True,False,True,True,True
+108,108,141481.0,ישיבת באר התורה,ירושלים,False,True,False,True,True,True
+109,109,141499.0,אור תורה סטון לבנים,ירושלים,False,True,True,True,True,True
+110,110,141523.0,ישיבת באור שמואל,ירושלים,False,True,False,True,True,True
+111,111,141549.0,אור תורה סטון לבנות,ירושלים,False,True,True,True,True,True
+112,112,141572.0,ישיבת משכן ציון,ירושלים,False,True,False,True,True,True
+113,113,141580.0,ישיבת דרך התורה,מודיעין עילית,False,True,False,True,True,True
+114,114,141606.0,ישיבת משכן שלמה,ירושלים,False,True,False,True,True,True
+115,115,141614.0,ישיבת אמרי נועם,ירושלים,False,True,False,True,True,True
+116,116,141630.0,ישיבת זהר התורה,ירושלים,False,True,False,True,True,True
+117,117,141689.0,בית יעקב,מודיעין עילית,False,True,False,True,True,True
+118,118,141713.0,תוספות יום-טוב,ירושלים,False,True,False,True,True,True
+119,119,141739.0,ישיבת בני צבי בית אל,בית אל,False,True,True,True,True,True
+120,120,141754.0,ישיבה תיכ' תורה ומדע,ירושלים,False,True,True,True,True,True
+121,121,141762.0,ירים משה,ירושלים,False,True,False,True,True,True
+122,122,141796.0,ישיבת מעין התלמוד,ירושלים,False,True,False,True,True,True
+123,123,141853.0,מעלות בית יעקב,ירושלים,False,True,False,True,True,True
+124,124,141861.0,בי סמינר רמות שמסיאב,ירושלים,False,True,True,True,True,True
+125,125,141895.0,בנות ויזניץ,ירושלים,False,True,False,True,True,True
+126,126,141911.0,דמשק אליעזר ויזניץ,ירושלים,False,True,False,True,True,True
+127,127,141929.0,בית חוה,ירושלים,False,True,False,True,True,True
+128,128,141937.0,ישיבת תורת רפאל,ירושלים,False,True,False,True,True,True
+129,129,141978.0,אנקורי,ירושלים,False,True,True,True,True,True
+130,130,142018.0,ישיבת נתיבות יעקב,ירושלים,False,True,False,True,True,True
+131,131,142034.0,תיכון בית יעקב,בית שמש,False,True,True,True,True,True
+132,132,142075.0,דחסידי גור,ירושלים,False,True,False,True,True,True
+133,133,142083.0,חוות דעת,ירושלים,False,True,False,True,True,True
+134,134,142158.0,אדרת אליהו,ירושלים,False,True,False,True,True,True
+135,135,142166.0,אולפנת לבונה,מעלה לבונה,False,True,True,True,True,True
+136,136,142174.0,"ישיבת בנ""ע אורות יהודה",אפרתה,False,True,True,True,True,True
+137,137,142190.0,בית יעקב עלי באר,ירושלים,False,True,False,True,True,True
+138,138,142216.0,אמרי בינה,בית שמש,False,True,False,True,True,True
+139,139,142232.0,ישיבת תומכי תמימים,ביתר עילית,False,True,False,True,True,True
+140,140,142265.0,"סוסיא-ישיבת בני""ע",סוסיה,False,True,True,True,True,True
+141,141,142281.0,"ישיבת בנ""ע כינור דוד",עטרת,False,True,True,True,True,True
+142,142,142315.0,תפארת לוי,ירושלים,False,True,False,True,True,True
+143,143,142323.0,התיכון התורני,ירושלים,False,True,True,True,True,True
+144,144,142331.0,ישיבת זכרון אליעזר,ירושלים,False,True,False,True,True,True
+145,145,142372.0,שובו ירושלים,ירושלים,False,True,True,True,True,True
+146,146,144071.0,עטרת התורה,ירושלים,False,True,False,True,True,True
+147,147,144097.0,המרכז הישראלי למצוינות בחינוך,ירושלים,False,True,True,True,True,True
+148,148,144147.0,ישיבת זרע יצחק,ירושלים,False,True,False,True,True,True
+149,149,144162.0,ישיבת תפארת התלמוד,ירושלים,False,True,False,True,True,True
+150,150,144170.0,ישיבת בני יוסף,ירושלים,False,True,False,True,True,True
+151,151,144188.0,ישיבת נחלת משה,ירושלים,False,True,False,True,True,True
+152,152,144196.0,מכון לציון ברינה,ביתר עילית,False,True,True,True,True,True
+153,153,144212.0,ישיבה תיכונית,קרית ארבע,False,True,True,True,True,True
+154,154,144220.0,תורני נסויי הרטמן,ירושלים,False,True,True,True,True,True
+155,155,144238.0,מכללת אבראהימיה,ירושלים,False,True,False,True,True,True
+156,156,144246.0,ישיבת מעלות חיים,ירושלים,False,True,False,True,True,True
+157,157,144261.0,ישיבת חיי משה,ירושלים,False,True,False,True,True,True
+158,158,144329.0,תיכון מכבים רעות,מודיעין-מכבים-רעות,False,True,True,True,True,True
+159,159,144337.0,אולפנת רעיה,בית אל,False,True,True,True,True,True
+160,160,144360.0,ישיבת מאור אליהו,קרית יערים,False,True,False,True,True,True
+161,161,144410.0,ישיבת ישמח משה,ירושלים,False,True,False,True,True,True
+162,162,144428.0,ישיבת צביה מ.אדומים,מעלה אדומים,False,True,True,True,True,True
+163,163,144501.0,תיכון הראל,מבשרת ציון,False,True,True,True,True,True
+164,164,144568.0,נעורים,ירושלים,False,False,False,True,True,False
+165,165,144592.0,קדמה ירושלים,ירושלים,False,True,True,True,True,True
+166,166,144600.0,ישיבה שעלי תורה,בית שמש,False,True,True,True,True,True
+167,167,144675.0,"ע""ש יצחק רבין עי""ס",מודיעין-מכבים-רעות,False,True,True,True,True,True
+168,168,144683.0,עירוני א',מודיעין-מכבים-רעות,False,True,True,True,True,True
+169,169,144691.0,ישיבת נעם,ירושלים,False,True,True,True,True,True
+170,170,144717.0,"אולפנת בנ""ע אורות מודיעין",מודיעין-מכבים-רעות,False,True,True,True,True,True
+171,171,144741.0,"ע""ש רא""ל מרדכי גור",מודיעין-מכבים-רעות,False,True,True,True,True,True
+172,172,144758.0,"ישיבת בנ""ע פסגת זאב",ירושלים,False,True,True,True,True,True
+173,173,144766.0,"ישיבת בנ""ע נר תמיד חשמונאים",חשמונאים,False,True,True,True,True,True
+174,174,146878.0,בית הצייר,ירושלים,False,False,False,True,True,False
+175,175,148056.0,תיכון בית צפאפא,ירושלים,False,True,True,True,True,True
+176,176,148064.0,אלקודס מכין לבנים,ירושלים,False,False,False,False,False,False
+177,177,148072.0,חליל אלסכאכיני לבנות,ירושלים,False,False,False,False,False,False
+178,178,148080.0,מקיף אבו גוש,אבו גוש,False,True,True,True,True,True
+179,179,148130.0,ישיבת נר שמואל,ירושלים,False,True,False,True,True,True
+180,180,148148.0,מאמוניה,ירושלים,False,True,False,True,True,True
+181,181,148155.0,תיכון שועפט,ירושלים,False,True,False,True,True,True
+182,182,148163.0,ראשדיה,ירושלים,False,True,False,True,True,True
+183,183,148189.0,טרה סנטה גבשה בנים,ירושלים,False,False,False,True,True,True
+184,184,148197.0,מקיף בית חנינה,ירושלים,False,True,False,True,True,True
+185,185,148239.0,מכין לבנות אלתורי,ירושלים,False,False,False,False,False,False
+186,186,148247.0,מקיף שש שנתי אלטור לבנים,ירושלים,False,True,False,True,True,True
+187,187,160127.0,משכן התורה,ירושלים,False,True,False,True,True,True
+188,188,160242.0,מקיף קשת,ירושלים,False,True,True,True,True,True
+189,189,160259.0,"אולפנת בנ""ע פסגת זאב",ירושלים,False,True,True,True,True,True
+190,190,160325.0,בינה ודעת,ירושלים,False,True,True,True,True,True
+191,191,160358.0,שערי תורה,ירושלים,False,True,False,True,True,True
+192,192,160366.0,ישיבת באר יהודה,ירושלים,False,True,False,True,True,True
+193,193,160374.0,אולפנת דולב,דולב,False,False,False,True,True,False
+194,194,160416.0,רעות קהילה דתית,ירושלים,False,True,True,True,True,True
+195,195,160432.0,ברנקו וייס מקיף בית שמש,בית שמש,False,True,True,True,True,True
+196,196,160457.0,תיכון תורני עש אמתי,ירושלים,False,True,True,True,True,True
+197,197,160523.0,ישיבת מיר לצעירים,ירושלים,False,True,False,True,True,True
+198,198,160549.0,"אמי""ת איתן",מעלה אדומים,False,True,True,True,True,True
+199,199,160556.0,מרכז ישיבות וכוללים,ירושלים,False,True,False,True,True,True
+200,200,160580.0,אולפנת אורות עציון,ראש צורים,False,True,True,True,True,True
+201,201,160598.0,ארץ הצבי,ירושלים,False,True,True,True,True,True
+202,202,160648.0,בית יעקב מרגלית,ירושלים,False,True,True,True,True,True
+203,203,160739.0,מנזר רוזרי,ירושלים,False,False,False,True,True,True
+204,204,160754.0,בית מצודות שיח סוד,ירושלים,False,False,False,True,True,False
+205,205,162016.0,מעוז ירושלים שיח סוד,ירושלים,False,False,False,True,True,False
+206,206,162057.0,אוהל ברכה,ירושלים,False,True,True,True,True,True
+207,207,162628.0,אפיקים סולם,ירושלים,False,False,False,False,False,False
+208,208,165118.0,תפארת בנים,ירושלים,False,False,False,True,False,False
+209,209,165472.0,ישיבת דעת תורה,ירושלים,False,True,False,True,True,True
+210,210,165738.0,אור אליעזר,בית שמש,False,True,False,True,True,True
+211,211,165845.0,תקוה לילד,ירושלים,False,False,False,True,True,False
+212,212,165852.0,"ישיבת בנ""ע לפיד מודיעין",מודיעין-מכבים-רעות,False,True,True,True,True,True
+213,213,166488.0,מבוא התלמוד,ירושלים,False,True,False,True,True,True
+214,214,166538.0,אורה ושמחה,ירושלים,False,True,False,True,True,True
+215,215,166769.0,בית יעקב כה תאמר,בית שמש,False,True,True,True,True,True
+216,216,167262.0,ישיבת פאר השלום,ירושלים,False,True,False,True,True,True
+217,217,168054.0,סדנת שילוב-גבעות,בת עין,False,False,False,True,True,False
+218,218,168393.0,ישיבת פאר התלמוד,ירושלים,False,True,False,True,True,True
+219,219,168419.0,אולפנת צביה יצירתית,ירושלים,False,True,True,True,True,True
+220,220,170035.0,מקצועי בית יעקב,ירושלים,False,True,True,True,True,True
+221,221,170043.0,תיכון דרור,ירושלים,False,True,True,True,True,True
+222,222,170092.0,מקיף סליגסברג,ירושלים,False,True,True,True,True,True
+223,223,170175.0,עמל ליידי דיוייס ירושלים,ירושלים,False,True,True,True,True,True
+224,224,170282.0,בית עולות,ירושלים,False,True,True,True,True,True
+225,225,170399.0,חטיב אורט מינקןף,ירושלים,False,False,False,False,False,False
+226,226,170407.0,"מרכז נוער טכ' אמי""ת",ירושלים,False,True,True,True,True,True
+227,227,170456.0,"אמי""ת טכנולוגי דתי",ירושלים,False,True,True,True,True,True
+228,228,170514.0,"אורט דתי ע""ש ספניאן",ירושלים,False,True,True,True,True,True
+229,229,170803.0,אורט תעופה וחלל,מעלה אדומים,False,True,True,True,True,True
+230,230,171017.0,המכללה לטכנולוגיה,ירושלים,False,True,False,False,True,True
+231,231,174391.0,חינוך ברמה לבנות,ירושלים,False,True,True,True,True,True
+232,232,175448.0,שלב חנמ למדעי הסביבה,בית שמש,False,False,False,True,True,False
+233,233,176487.0,עמל בנות ציון ירושלים,ירושלים,False,True,True,True,True,True
+234,234,176909.0,סמינר לבנות ירים משה,ירושלים,False,True,False,True,True,True
+235,235,177287.0,ישכיל פיהו,ירושלים,False,False,False,True,True,False
+236,236,178053.0,עבדאללה בן חוסין,ירושלים,False,True,False,True,True,True
+237,237,178061.0,אל מוקבר תיכון לבנות,ירושלים,False,True,False,True,True,True
+238,238,178079.0,על יסודי רב נתיבי,ירושלים,False,True,True,True,True,True
+239,239,178137.0,אמירה בסמא,ירושלים,False,False,False,True,True,True
+240,240,178178.0,סאחורה מכין בנות,ירושלים,False,False,False,False,False,False
+241,241,178194.0,יסודי אלחית כפר עקב,ירושלים,False,False,False,True,True,True
+242,242,180018.0,אזורי מקיף עין כרם,"עין כרם-בי""ס חקלאי",False,True,True,True,True,True
+243,243,180034.0,"ישיבת אמי""ת נחשון",נחם,False,True,True,True,True,True
+244,244,182931.0,ישמח משה,ירושלים,False,True,False,True,True,True
+245,245,183269.0,ישיבת חסידי גור,בית שמש,False,True,False,True,True,True
+246,246,184002.0,מורשת דליה חיי שרה,בית שמש,False,True,False,True,True,True
+247,247,184085.0,נתיבות חכמה,ביתר עילית,False,True,False,True,True,True
+248,248,185140.0,אלפורסאן אלחיה,ירושלים,False,True,False,True,True,True
+249,249,185157.0,"עי""ס אלחיה צור באהר",ירושלים,False,True,False,True,True,True
+250,250,185165.0,"ע""ס אלחיה בית חנינה",ירושלים,False,True,False,True,False,True
+251,251,186908.0,אולפנא בני עקיבא נריה,טלמון,False,True,True,True,True,True
+252,252,187575.0,ביס שמידט קולג' בנות,ירושלים,False,False,False,True,True,True
+253,253,189001.0,אולפנת נחלה דרכא,אלעד,False,True,True,True,True,True
+254,254,189076.0,סמינר בית יעקב,ירושלים,False,True,True,True,True,True
+255,255,189084.0,סמינר בית יעקב,ירושלים,False,True,True,True,True,True
+256,256,189092.0,תיכון עלי שור,מודיעין עילית,False,True,True,True,True,True
+257,257,189894.0,נעם מנחם,ביתר עילית,False,True,False,True,True,True
+258,258,190066.0,מכון בית יעקב למורות,ירושלים,False,True,False,True,True,True
+259,259,190108.0,אור אלחנן,מודיעין עילית,False,True,False,True,True,True
+260,260,191031.0,יפתח,אבנת,False,True,True,True,True,True
+261,261,192997.0,"חט""ב עיסוויה בנים",ירושלים,False,False,False,False,False,False
+262,262,193003.0,"חט""ב עיסוואיה בנות",ירושלים,False,True,False,True,True,True
+263,263,193185.0,אולפנת שעלי תורה,בית שמש,False,True,True,True,True,True
+264,264,195404.0,אל סלאם,ירושלים,False,False,False,True,True,False
+265,265,195412.0,אל זהרה,ירושלים,False,False,False,True,True,False
+266,266,195958.0,"מש""י מרכז שקום ילדים",ירושלים,False,False,False,True,True,False
+267,267,197715.0,ישיבת פורת יוסף גאול,ירושלים,False,True,False,True,True,True
+268,268,197723.0,"אח""י חנ""מ מחוזי",מבשרת ציון,False,False,False,True,False,False
+269,269,197798.0,סמינר בית יעקב ב.שמש,בית שמש,False,True,False,True,True,True
+270,270,198085.0,"חט""ב ראס אל-עמוד",ירושלים,False,False,False,False,False,False
+271,271,198192.0,תיכון צור באהר,ירושלים,False,True,False,True,True,True
+272,272,199109.0,"סמינר ב""י אפיקי דעה",ירושלים,False,True,False,True,True,True
+273,273,199919.0,עמל עטרות מ.ירושלים,ירושלים,False,True,True,True,True,True
+274,274,213033.0,אלקבץ,צפת,False,True,False,True,True,True
+275,275,214007.0,אולפנת צביה עפולה,עפולה,False,True,True,True,True,True
+276,276,214098.0,ישיבת אביר יעקב,נהריה,False,False,True,True,True,True
+277,277,214601.0,הדמוקרטי כנף,אלי-עד,False,True,False,True,True,True
+278,278,220020.0,אילנות נהריה,נהריה,False,False,False,True,True,False
+279,279,220038.0,איל יסודי עכו,עכו,False,False,False,True,True,False
+280,280,220046.0,רננים קרית שמונה,קרית שמונה,False,False,False,True,True,False
+281,281,220103.0,מיוחד גולני בית שאן,בית שאן,False,False,False,True,True,False
+282,282,220129.0,כרמים בעמק,עפולה,False,False,False,True,True,False
+283,283,220202.0,בית אורי,עפולה,False,False,False,True,True,False
+284,284,220376.0,דקלים,טבריה,False,False,False,True,True,False
+285,285,220384.0,סי פי עפולה,עפולה,False,False,False,True,True,False
+286,286,220426.0,"בי""ס שחר",כרמיאל,False,False,False,True,True,False
+287,287,220434.0,גלעד,חמדיה,False,False,False,True,True,False
+288,288,220442.0,ניצנים,עכו,False,False,False,True,True,False
+289,289,220459.0,"בי""ס מיוחד זיו",צפת,False,False,False,True,True,False
+290,290,220491.0,"חורשה ע""ש יהודה שביט",נעמן (מילואות),False,False,False,True,True,False
+291,291,220509.0,"בי""ס העמק",עפולה,False,False,False,False,False,False
+292,292,220525.0,כישורית,כישור,False,False,False,True,True,False
+293,293,220533.0,מיתר,בוסתן הגליל,False,False,False,False,True,False
+294,294,221937.0,אפיק נהריה,נהריה,False,False,False,False,True,False
+295,295,221945.0,אור אברהם טשכנוב,ירושלים,False,True,False,True,True,True
+296,296,223362.0,הדביר החדש,ירושלים,False,False,False,True,True,False
+297,297,225128.0,שיקומי שחפים,עמיר,False,False,False,True,True,False
+298,298,225300.0,מכון אורות כרמיאל,כרמיאל,False,False,False,True,False,False
+299,299,226670.0,ברנקו וייס אתגרי בית שמש,בית שמש,False,True,True,True,True,True
+300,300,226688.0,בית יעקב בית בינה,ירושלים,False,True,False,True,True,True
+301,301,226803.0,סמינר בית יעקב,בית שמש,False,True,False,True,True,True
+302,302,227694.0,אורט שלומי,שלומי,False,True,True,True,True,True
+303,303,228015.0,נצרת חרשים עוורים,נצרת,False,False,False,True,True,False
+304,304,228064.0,סווא,נצרת,False,False,False,True,True,False
+305,305,228122.0,משפחה קדושה-נצרת,נצרת,False,False,False,True,True,False
+306,306,228130.0,אלנור מעון יום טמרה,טמרה,False,False,False,True,True,False
+307,307,228163.0,מעון יום אלאמל אעבלי,אעבלין,False,False,False,True,True,False
+308,308,228205.0,אלנור סכנין מעון יום,סח'נין,False,False,False,True,True,False
+309,309,228247.0,"ביה""ס עמלני נצרת",נצרת,False,False,False,True,True,False
+310,310,228254.0,אלנור שפרעם,שפרעם,False,False,False,True,True,False
+311,311,228262.0,אחוה כפר מנדא,כפר מנדא,False,False,False,True,True,False
+312,312,228288.0,אלנור עראבה,עראבה,False,False,False,True,True,False
+313,313,228296.0,אלרחמה-ג'דידה,ג'דיידה-מכר,False,False,False,True,True,False
+314,314,228312.0,רימונים כפר כנא,כפר כנא,False,False,False,True,True,False
+315,315,228338.0,מעון עדנאן-ירכא,ירכא,False,False,False,False,True,False
+316,316,228346.0,מעון דרור -ירכא,ירכא,False,False,False,True,True,False
+317,317,228353.0,מעון יום בועינה נג'א,בועיינה-נוג'ידאת,False,False,False,True,True,False
+318,318,228361.0,אלבסמה,כסרא-סמיע,False,False,False,True,True,False
+319,319,228379.0,סווא בית ספר לחינוך מיוחד,אבו סנאן,False,False,False,True,True,False
+320,320,228445.0,"בי""ס לחינוך מיוחד",מגאר,False,False,False,True,True,False
+321,321,228494.0,רנד,אכסאל,False,False,False,True,True,False
+322,322,228569.0,אל נור,אעבלין,False,False,False,True,True,False
+323,323,228577.0,אלנהדה,טמרה,False,False,False,True,True,False
+324,324,228650.0,רהאם,מג'ד אל-כרום,False,False,False,True,True,False
+325,325,230284.0,מפתן צפת,צפת,False,True,False,True,True,True
+326,326,230821.0,מרכז נוער טבריה,טבריה,False,True,True,True,True,True
+327,327,234021.0,אולפנת צביה כוכב יעקב,כוכב יעקב,False,True,True,True,True,True
+328,328,234047.0,ישיבת אמרי חיים ויזנ,מודיעין עילית,False,True,False,True,True,True
+329,329,234054.0,חדוות התלמוד,מודיעין עילית,False,True,False,True,True,True
+330,330,237354.0,תיכון יחד,מודיעין-מכבים-רעות,False,True,True,True,True,True
+331,331,238014.0,מפתן נצרת,נצרת,False,True,False,True,True,True
+332,332,238022.0,מפתן שפרעם,שפרעם,False,True,False,True,True,True
+333,333,238048.0,מפתן תמרה,טמרה,False,True,False,True,True,True
+334,334,238055.0,מפתן מג'אר,מגאר,False,True,False,True,True,True
+335,335,238121.0,אולפנת נוגה,בית שמש,False,True,True,True,True,True
+336,336,238485.0,"עי""ס אלאימאן בנות",ירושלים,False,True,False,True,True,True
+337,337,238519.0,"עי""ס אלאימאן בנים",ירושלים,False,True,False,True,True,True
+338,338,238527.0,ישיבת מאורות,בית שמש,False,True,True,True,True,True
+339,339,239616.0,מורשת בית יעקב,ירושלים,False,True,False,True,True,True
+340,340,239863.0,מגן הלב (2) בית שמש,בית שמש,False,False,False,True,True,False
+341,341,239871.0,סמהר לבנות,ירושלים,False,False,False,True,True,True
+342,342,239897.0,"ג'רוזלם סקול עי""ס",ירושלים,False,True,False,True,True,True
+343,343,240010.0,דרכא דנציגר,קרית שמונה,False,True,True,True,True,True
+344,344,240036.0,"מקיף דתי אמי""ת קנדי",עכו,False,True,True,True,True,True
+345,345,240051.0,מקיף דתי יהודה,עפולה,False,True,True,True,True,True
+346,346,240077.0,אורט שרת נצרת עילית,נצרת עילית,False,True,True,True,True,True
+347,347,240085.0,עמל אולפנת הראל נהריה,נהריה,False,True,True,True,True,True
+348,348,240093.0,אולפנית לבנות,טבריה,False,True,True,True,True,True
+349,349,240127.0,אורט אמירים,בית שאן,False,True,True,True,True,True
+350,350,240176.0,ישיבת בני עקיבא תקות יעקב,שדה יעקב,False,True,True,True,True,True
+351,351,240192.0,מקיף רוגוזין,מגדל העמק,False,True,True,True,True,True
+352,352,240218.0,ישיבת דרכא המתמיד,קרית שמונה,False,True,True,True,True,True
+353,353,240234.0,"ישיבה תיכונית אמי""ת צפת",צפת,False,True,True,True,True,True
+354,354,240267.0,עמל נופרים בגליל טבריה,טבריה,False,True,True,True,True,True
+355,355,240341.0,מגדל אור,מגדל העמק,False,False,False,False,False,False
+356,356,240358.0,מגדל אור - בנות,מגדל העמק,False,False,False,False,False,False
+357,357,240424.0,ישיבת שפתי צדיק,חצור הגלילית,False,True,False,True,True,True
+358,358,240440.0,אזורי ירדן,מעלה אפרים,False,True,True,True,True,True
+359,359,240457.0,ישיבה תיכונית חיספין,חספין,False,True,True,True,True,True
+360,360,240465.0,מקיף אורט מעלות,מעלות-תרשיחא,False,True,True,True,True,True
+361,361,240481.0,מקיף משגב,עצמון שגב,False,True,True,True,True,True
+362,362,240499.0,מקיף נופי גולן,קצרין,False,True,True,True,True,True
+363,363,240531.0,בית יעקב באר מרים,חצור הגלילית,False,True,False,True,True,True
+364,364,240572.0,מקיף ולדורף הרדוף,הרדוף,False,True,True,True,True,True
+365,365,240580.0,"תיכון חרדי לבנות ב""י",עכו,False,True,True,True,True,True
+366,366,240598.0,נוה חוה,כרמיאל,False,True,True,True,True,True
+367,367,240614.0,עטרת מרדכי,טבריה,False,True,False,True,True,True
+368,368,240622.0,ישיבת אלוני הבשן,אלוני הבשן,False,True,True,True,True,True
+369,369,240630.0,בני הגולן,רמת מגשימים,False,True,True,True,True,True
+370,370,240648.0,תיכון נר הצפון,מגדל העמק,False,True,False,True,True,True
+371,371,240655.0,ברנקו וייס גולן,רמות,False,True,True,True,True,True
+372,372,240697.0,מגדל אור,מגדל העמק,False,True,False,True,True,True
+373,373,240721.0,סמינר בית יעקב צפת,צפת,False,True,False,True,True,True
+374,374,240739.0,"בית לוי יצחק חב""ד",צפת,False,True,False,True,True,True
+375,375,240747.0,ישיבת אור מאיר שמחה,נהריה,False,True,False,True,True,True
+376,376,240770.0,מגן אבות,צפת,False,True,False,True,True,True
+377,377,240788.0,תורת חסד בגליל,טבריה,False,True,False,True,True,True
+378,378,240796.0,ברנקו וייס טבריה,טבריה,False,True,True,True,True,True
+379,379,240804.0,ברנקו וייס קריית שמונה,קרית שמונה,False,True,True,True,True,True
+380,380,240812.0,ישיבת הזורעים,הזורעים,False,True,True,True,True,True
+381,381,240820.0,נירים,בוסתן הגליל,False,True,True,True,True,True
+382,382,240838.0,"בית רבקה חב""ד",נצרת עילית,False,True,True,True,True,True
+383,383,241026.0,בית יעקב אור רחל,כפר גדעון,False,True,True,True,True,True
+384,384,241067.0,"דמוקרטי ע""ש נדב",מודיעין-מכבים-רעות,False,True,True,True,True,True
+385,385,242073.0,יגאל אלון,נצרת עילית,False,True,True,True,True,True
+386,386,242610.0,ישיבת נר ישראל,אלעד,False,True,False,True,True,True
+387,387,244103.0,"אמי""ת תורני מדעי",כרמיאל,False,True,True,True,True,True
+388,388,244111.0,אולפנת צביה מעלות,מעלות-תרשיחא,False,True,True,True,True,True
+389,389,244152.0,עמל שחקים נהריה,נהריה,False,True,True,True,True,True
+390,390,244194.0,"חט""ב היובל",רמת ישי,False,False,False,False,False,False
+391,391,244210.0,שש שנתי אורט טבריה,טבריה,False,True,True,True,True,True
+392,392,244228.0,אולפנת צביה,עפולה,False,True,False,False,False,False
+393,393,244236.0,ישיבת קרן אורה,כרמיאל,False,True,False,True,True,True
+394,394,244269.0,יערת העמק-מגדל העמק,מגדל העמק,False,False,False,False,False,False
+395,395,244285.0,אורט פסגות,כרמיאל,False,True,True,True,True,True
+396,396,244343.0,מקיף שש שנתי סלאמה,סלמה,False,True,True,True,True,True
+397,397,244368.0,מקיף אורט כרמים,כרמיאל,False,True,True,True,True,True
+398,398,244384.0,הישיבה אורט טבריה,טבריה,False,True,True,True,True,True
+399,399,244418.0,ישיבת תורת מאיר,טבריה,False,True,False,True,True,True
+400,400,244483.0,בית הספר אמירים כפר ורדים,כפר ורדים,False,True,True,True,True,True
+401,401,244509.0,ישיבת טבריה,טבריה,False,True,False,True,True,True
+402,402,244517.0,ישיבת תומכי תמימים,מגדל העמק,False,True,False,True,True,True
+403,403,244566.0,ברנקו וייס מרום גליל,מירון,False,True,True,True,True,True
+404,404,244608.0,בנות תפארת,טבריה,False,True,True,True,True,True
+405,405,244616.0,"חט""ב קרית חינוך",עכו,False,False,False,False,False,False
+406,406,244624.0,"ישיבה תיכונית ב""ע",בית שאן,False,True,True,True,True,True
+407,407,244632.0,קשת,נצרת עילית,False,False,False,False,True,False
+408,408,246983.0,מגדל אור בנות שלהבת,מגדל העמק,False,True,True,True,True,True
+409,409,247015.0,טרה סנטה,עכו,False,True,True,True,True,True
+410,410,247023.0,סנט גוזף אקליריקי,נצרת,False,True,True,True,True,True
+411,411,247031.0,נזירות פרנציסקניות,נצרת,False,True,True,True,True,True
+412,412,247049.0,תיכון בפטיסטי,נצרת,False,True,True,True,True,True
+413,413,247056.0,נזירות סנט גוזף,נצרת,False,True,True,True,True,True
+414,414,247064.0,טרה סנטה,נצרת,False,True,True,True,True,True
+415,415,247072.0,גמנסיה הגליל הנוצרית,עיילבון,False,True,True,True,True,True
+416,416,247080.0,נזירות המושיע,נצרת,False,True,True,True,True,True
+417,417,247098.0,תיכון פה הזהב,ג'ש (גוש חלב),False,True,True,True,True,True
+418,418,247106.0,תיכון מר אליאס,אעבלין,False,True,True,True,True,True
+419,419,247122.0,מקיף ביר אל-מכסור,ביר אל-מכסור,False,True,True,True,True,True
+420,420,247130.0,מקיף א'עש שיךס.כניפס,שפרעם,False,True,True,True,True,True
+421,421,247148.0,עומר בן אלח'טאב ד',נצרת,False,False,False,False,False,False
+422,422,247155.0,"חט""ב ע""ש דר' ג.חורי",טורעאן,False,False,False,False,False,False
+423,423,247163.0,מקיף דיר חנא,דייר חנא,False,True,True,True,True,True
+424,424,247189.0,"חט""ב פיאד אסדי דיר א",דייר אל-אסד,False,False,False,False,False,False
+425,425,247205.0,הפטריאכלי הלטיני,ריינה,False,True,True,True,True,True
+426,426,247213.0,בית הספר אורט סאג'ור,סאג'ור,False,True,True,True,True,True
+427,427,247221.0,"בי""ס מקיף השלום דנון",שייח' דנון,False,True,True,True,True,True
+428,428,247239.0,מקיף אעבלין,אעבלין,False,True,True,True,True,True
+429,429,247247.0,מקיף אלבוכארי,עראבה,False,True,True,True,True,True
+430,430,247254.0,"חט""ב חדשה כאבול",כאבול,False,False,False,False,False,False
+431,431,247262.0,"חט""ב כפר כנא",כפר כנא,False,False,False,False,False,False
+432,432,247288.0,מקיף משהד,משהד,False,True,True,True,True,True
+433,433,247296.0,תיכון ינוח ג'ת,יאנוח-ג'ת,False,True,True,True,True,True
+434,434,247304.0,"חט""ב ב' כפר כנא",כפר כנא,False,False,False,False,False,False
+435,435,247312.0,מכללת גרנאטה לחינוך,כפר כנא,False,True,True,True,True,True
+436,436,247320.0,עתיד אום אל פחם,אום אל-פחם,False,True,True,True,True,True
+437,437,247338.0,"חט""ב יפיע",יפיע,False,False,False,False,False,False
+438,438,247346.0,עמל כעביה טבאש חג'אג'רה,כעביה-טבאש-חג'אג'רה,False,True,True,True,True,True
+439,439,247361.0,טכנולוגי אבו סנאן,אבו סנאן,False,True,True,True,True,True
+440,440,247387.0,דרוזי למדעים ומנהיגות דרכא,ירכא,False,True,True,True,True,True
+441,441,247411.0,תיכון סנט טרקמנצ'ץ,ירושלים,False,True,False,True,True,True
+442,442,247478.0,"חט""ב ""אלרואיא""",ירכא,False,False,False,False,False,False
+443,443,247817.0,תיכון מסעדה,מסעדה,False,True,True,True,True,True
+444,444,247833.0,מקיף ג'וליס,ג'ולס,False,True,True,True,True,True
+445,445,247841.0,"חט""ב אלעין",כפר יאסיף,False,False,False,False,False,False
+446,446,247858.0,עיוני מג'דל שמס,מג'דל שמס,False,True,True,True,True,True
+447,447,247866.0,מקיף אורט אחווה,נאעורה,False,True,True,True,True,True
+448,448,247882.0,תיכון שיבלי,שבלי - אום אל-גנם,False,True,True,True,True,True
+449,449,248013.0,"מקיף ע""ש יני",כפר יאסיף,False,True,True,True,True,True
+450,450,248021.0,תיכון הגליל,נצרת,False,True,True,True,True,True
+451,451,248047.0,מקיף ראמה,ראמה,False,True,True,True,True,True
+452,452,248062.0,מקיף תרשיחא,מעלות-תרשיחא,False,True,True,True,True,True
+453,453,248070.0,עירוני מקיף שפרעם,שפרעם,False,True,True,True,True,True
+454,454,248088.0,תיכון השאם אבו רומי,טמרה,False,True,True,True,True,True
+455,455,248104.0,מקיף ב',מגאר,False,True,True,True,True,True
+456,456,248112.0,תיכון אכסאל,אכסאל,False,True,True,True,True,True
+457,457,248138.0,תיכון טורעאן,טורעאן,False,True,True,True,True,True
+458,458,248146.0,"חט""ב ע""ש תאופיק זיאד",נצרת,False,False,False,False,False,False
+459,459,248179.0,"מקיף בית ג'ן חט""ב המנוח גאלב מ",בית ג'ן,False,True,True,True,True,True
+460,460,248187.0,"חט""ב ב' ירכא",ירכא,False,False,False,False,False,False
+461,461,248195.0,מקיף אבן אלהייתם,באקה אל-גרביה,False,True,True,True,True,True
+462,462,248203.0,אלביאן טמרה,טמרה,False,True,True,True,True,True
+463,463,248229.0,מקיף בוסתן אל מרג',ניין,False,True,True,True,True,True
+464,464,248252.0,"חט""ב דיר חנא",דייר חנא,False,False,False,False,False,False
+465,465,248260.0,מכללת אלביאן,בענה,False,True,True,True,True,True
+466,466,248278.0,בית ספר אלבשאאר,סח'נין,True,True,True,True,True,True
+467,467,248302.0,תיכון דיר אל-אסד,דייר אל-אסד,True,True,True,True,True,True
+468,468,248328.0,תיכון יפיע,יפיע,True,True,True,True,True,True
+469,469,248336.0,עמל כסרא סמיע,כסרא-סמיע,True,True,True,True,True,True
+470,470,248344.0,מקיף ג' א. נמר חוסין,שפרעם,True,True,True,True,True,True
+471,471,248419.0,מקיף שש שנתי פקיעין,פקיעין (בוקייעה),True,True,True,True,True,True
+472,472,248427.0,מקיף ריינה,ריינה,True,True,True,True,True,True
+473,473,248435.0,מקיף אל-בטוף,עוזייר,True,True,True,True,True,True
+474,474,248443.0,מקיף אלרסאלה,נחף,True,True,True,True,True,True
+475,475,248534.0,"מקיף ע""ש עפו פאעור",שעב,True,True,True,True,True,True
+476,476,248559.0,אבו-סלים סלמאן אלשיך,אבו סנאן,True,True,True,True,True,True
+477,477,248575.0,מקיף אבן ח'לדון,עראבה,True,True,True,True,True,True
+478,478,248583.0,מקיף שאעור,מג'ד אל-כרום,True,True,True,True,True,True
+479,479,248625.0,מקיף גדידה,ג'דיידה-מכר,True,True,True,True,True,True
+480,480,248641.0,תיכון נחף,נחף,True,True,True,True,True,True
+481,481,248666.0,רב תחומי עמל זרזיר,זרזיר,True,True,True,True,True,True
+482,482,248674.0,בסמת טבעון,בסמת טבעון,True,True,True,True,True,True
+483,483,248682.0,"חט""ב אבן ח'לדון",טמרה,True,False,False,False,False,False
+484,484,248690.0,אל אוסקופיה,שפרעם,True,True,True,True,True,True
+485,485,248708.0,טהא חוסין סכנין,סח'נין,True,False,False,False,False,False
+486,486,248716.0,אלחלאן סכנין,סח'נין,True,False,False,False,False,False
+487,487,248724.0,המשיח האנגליקאני,נצרת,True,True,True,True,True,True
+488,488,248740.0,תיכון אלכוארזמי,טמרה,True,True,True,True,True,True
+489,489,248757.0,"חט""ע מכר-ג'דידה",ג'דיידה-מכר,True,True,True,True,True,True
+490,490,248765.0,"חט""ב ב' כפר מנדא",כפר מנדא,True,False,False,False,False,False
+491,491,248781.0,תיכון אורית,נצרת,True,True,True,True,True,True
+492,492,248815.0,"חט""ב א' כפר מנדא",כפר מנדא,True,False,False,False,False,False
+493,493,248823.0,נוטרדאם,מעיליא,True,True,True,True,True,True
+494,494,248831.0,על יסודי טכנולוגי,מג'ד אל-כרום,True,True,True,True,True,True
+495,495,248856.0,"חט""ב אבן רושד",ג'דיידה-מכר,True,True,False,False,False,True
+496,496,249011.0,"חט""ב עילבון",עיילבון,True,False,False,False,False,False
+497,497,249029.0,"חט""ב א' אבן ח'לדון",נצרת,True,False,False,False,False,False
+498,498,249037.0,תיכון כפר מנדא,כפר מנדא,True,True,True,True,True,True
+499,499,249045.0,אל זהראא - ב',נצרת,True,False,False,False,False,False
+500,500,249052.0,אבן סינא -חטב ג',נצרת,True,False,False,False,False,False
+501,501,249094.0,תיכון כאבול,כאבול,True,True,True,True,True,True
+502,502,249110.0,מקיף בענה,בענה,True,True,True,True,True,True
+503,503,249136.0,"חט""ב ע""ש מחמוד דרויש",מג'ד אל-כרום,True,False,False,False,False,False
+504,504,249144.0,"חט""ב יפיע",יפיע,True,False,False,False,False,False
+505,505,249151.0,"חט""ב אכסאל",אכסאל,True,True,False,True,True,True
+506,506,249169.0,"חט""ב אלפראבי",טמרה,True,False,False,False,False,False
+507,507,249177.0,"חט""ב מסעדה",מסעדה,True,False,False,False,False,False
+508,508,249193.0,מקיף שש - שנתי,חורפיש,True,True,True,True,True,True
+509,509,249219.0,"חט""ב בוקעתה",בוקעאתא,True,True,True,True,True,True
+510,510,249235.0,מקיף בועינה נג'ידאת,בועיינה-נוג'ידאת,True,True,True,True,True,True
+511,511,249250.0,מקיף טומשין טובא,טובא-זנגריה,True,True,True,True,True,True
+512,512,249268.0,"חט""ב ע""ש עאטף חטיב",שפרעם,True,False,False,False,False,False
+513,513,249284.0,מקיף אלבטוף עראבה,עראבה,True,True,True,True,True,True
+514,514,249300.0,רב תחומי עמל עילוט,עילוט,True,True,True,True,True,True
+515,515,249318.0,תיכון סלמאן חטיב,ע'ג'ר,True,True,True,True,True,True
+516,516,249326.0,"חט""ב יאנוח-ג'ת",יאנוח-ג'ת,True,False,False,False,False,False
+517,517,260059.0,מקיף שדה אליהו,שדה אליהו,True,True,True,True,True,True
+518,518,260067.0,מקיף עינות הירדן,עמיר,True,True,True,True,True,True
+519,519,260091.0,הרב תחומי עמק חרוד,עין חרוד (מאוחד),True,True,True,True,True,True
+520,520,260109.0,תיכון אזורי מגידו,עין השופט,True,True,True,True,True,True
+521,521,260125.0,אופק,עברון,True,True,True,True,True,True
+522,522,260133.0,גאון הירדן,נווה איתן,True,True,True,True,True,True
+523,523,260182.0,מקיף עמקים-תבור,מזרע,True,True,True,True,True,True
+524,524,260232.0,מקיף עמק החולה,כפר בלום,True,True,True,True,True,True
+525,525,260240.0,"כברי חט""ע",כברי,True,True,True,True,True,True
+526,526,260257.0,מקיף העמק המערבי,יפעת,True,True,True,True,True,True
+527,527,260307.0,מקיף הר וגיא,דפנה,True,True,True,True,True,True
+528,528,260331.0,מקיף סולם צור,גשר הזיו,True,True,True,True,True,True
+529,529,260471.0,מקיף מנור,אילון,True,True,False,False,False,False
+530,530,260489.0,מקיף גליל מערבי,גורנות הגליל,True,True,True,True,True,True
+531,531,260497.0,ברנקו וייס אופק מעלה אדומים,מעלה אדומים,True,True,True,True,True,True
+532,532,261065.0,מקיף בית ירח,כנרת (קבוצה),True,True,True,True,True,True
+533,533,266809.0,"גוונים חנ""מ",מודיעין-מכבים-רעות,True,False,False,True,True,False
+534,534,267211.0,"בי""ס לחנ""מ אלביק",כפר כנא,True,False,False,True,True,False
+535,535,267476.0,"בי""ס לחנ""מ אלחקמה",מג'ד אל-כרום,True,False,False,True,True,False
+536,536,267724.0,ישיבת שער השמיים,טלמון,True,True,True,True,True,True
+537,537,267930.0,אלמוסתקבל אלאהלייה,ירושלים,True,True,False,True,True,True
+538,538,267955.0,"ביה""ס אמליסון",ירושלים,True,False,False,False,True,True
+539,539,267971.0,בית יעקב נתיב,ירושלים,True,True,False,True,True,True
+540,540,268029.0,"טכנולוגי הארמון חנ""מ",אבו גוש,True,False,False,True,True,False
+541,541,270025.0,רב תחומי עמל בגין צפת,צפת,True,True,True,True,True,True
+542,542,270033.0,"כ""ג יורדי הסירה",עכו,True,True,True,True,True,True
+543,543,270041.0,ק. חינוך אורט עפולה,עפולה,True,True,True,True,True,True
+544,544,270140.0,"מקיף ע""ש יגאל אלון",יקנעם עילית,True,True,True,True,True,True
+545,545,270157.0,אורט פסגות תיכון דתי ישראלי,בית שאן,True,True,True,True,True,True
+546,546,270223.0,הודיות,הודיות,True,True,True,True,True,True
+547,547,270249.0,יד חרוצים,טבריה,True,True,True,True,True,True
+548,548,270280.0,ישיבת בני עקיבא מירון,מירון,True,True,True,True,True,True
+549,549,270298.0,מדעים ואמנויות,נהריה,True,True,True,True,True,True
+550,550,270470.0,מרכז חינוך אורט,בית שאן,True,True,False,True,True,True
+551,551,270538.0,מכללה אזורית ע.הירדן,דגניה א',True,True,False,False,True,True
+552,552,270801.0,בית חנה,צפת,True,True,True,True,True,True
+553,553,271015.0,מכללת אורט בראודה,כרמיאל,True,True,False,False,True,True
+554,554,277012.0,דון בוסקו,נצרת,True,True,True,True,True,True
+555,555,277020.0,על יסודי משהד,משהד,True,True,True,True,True,True
+556,556,278010.0,מדעים וטכנולוגיה נצרת,נצרת,True,True,True,True,True,True
+557,557,278028.0,מקיף ערבי,עכו,True,True,True,True,True,True
+558,558,278044.0,"טכנולוגי נעמ""ת שפרעם",שפרעם,True,True,True,True,True,True
+559,559,278051.0,טכנולוגי נעמת ע.מאהל,עין מאהל,True,True,True,True,True,True
+560,560,278176.0,"טכנולוגי נעמ""ת נחף",נחף,True,True,True,True,True,True
+561,561,278184.0,מרכז חינוך טכנ' נעמת,נצרת,True,True,True,True,True,True
+562,562,278234.0,טכלולוגי נעמת אלכרום,מג'ד אל-כרום,True,True,True,True,True,True
+563,563,278267.0,"טכנולוגי נעמ""ת",ג'דיידה-מכר,True,True,True,True,True,True
+564,564,278275.0,"ב""ס טכנולוגי נעמת",טמרה,True,True,True,True,True,True
+565,565,278283.0,תיכון אלביאן סח'נין,סח'נין,True,True,True,True,True,True
+566,566,280016.0,נוה עמיאל,שדה יעקב,True,True,True,True,True,True
+567,567,280032.0,כפר נוער ניר העמק,עפולה,True,True,True,True,True,True
+568,568,280057.0,מקיף חקלאי נהלל,נהלל,True,True,True,True,True,True
+569,569,280065.0,מקיף חקלאי כדורי,כדורי,True,True,True,True,True,True
+570,570,280115.0,מקיף אנה פרנק,סאסא,True,True,True,True,True,True
+571,571,284026.0,סמינר בית חינוך,מודיעין עילית,True,True,False,True,True,True
+572,572,284083.0,מדרסת דאר אלמערפה,ירושלים,True,True,False,True,False,True
+573,573,284091.0,בית יעקב ביתר,ביתר עילית,True,True,False,True,True,True
+574,574,284307.0,משכן חיים,ירושלים,True,True,False,True,True,True
+575,575,288019.0,תיכון חק' טכ' ראמה,ראמה,True,True,True,True,True,True
+576,576,288126.0,תפארת יוחנן,ביתר עילית,True,True,False,True,True,True
+577,577,288134.0,נהרדעא,גני תקווה,True,True,True,True,True,True
+578,578,288159.0,ישיבת בניין אב,ירושלים,True,True,False,True,True,True
+579,579,288209.0,"חט""ב אלמותנבי",טמרה,True,False,False,False,False,False
+580,580,313569.0,נוה רם,רכסים,True,False,False,True,True,False
+581,581,320036.0,"בי""ס ע""ש גניגר",חיפה,True,False,False,True,True,False
+582,582,320150.0,אהבה,כפר ביאליק,True,False,False,False,True,False
+583,583,320200.0,"בי""ס בית אקשטיין",גן שמואל,True,False,False,True,True,False
+584,584,320317.0,רננים,זכרון יעקב,True,False,False,True,True,False
+585,585,320390.0,אופקים,חיפה,True,False,False,True,True,False
+586,586,320432.0,מיוחד עמית,חדרה,True,False,False,True,True,False
+587,587,320440.0,"בי""ס בית אקשטיין",פרדס חנה-כרכור,True,False,False,True,True,False
+588,588,320457.0,מעון גל-אור,חדרה,True,False,False,True,True,False
+589,589,320515.0,צוהר לטוהר,כפר חסידים א',True,False,False,True,True,False
+590,590,320523.0,הוד,חיפה,True,False,False,True,False,False
+591,591,320531.0,גנאור,קרית אתא,True,False,False,True,True,False
+592,592,320556.0,תמיר,קרית אתא,True,False,False,True,True,False
+593,593,320580.0,מרום,כפר חסידים א',True,False,False,True,True,False
+594,594,320598.0,"בי""ס לחנ""מ נווה אתגר",להבות חביבה,True,False,False,True,True,False
+595,595,322040.0,מאור,טירת כרמל,True,False,False,True,True,False
+596,596,325969.0,עופר,חיפה,True,False,False,True,True,False
+597,597,328039.0,אלאמל חינוך מיוחד,אום אל-פחם,True,False,False,True,True,False
+598,598,328062.0,מפתן אם אלפחם,אום אל-פחם,True,True,False,True,True,True
+599,599,328070.0,אל-מנאר,ערערה,True,False,False,True,True,False
+600,600,328088.0,הלב הקדוש,חיפה,True,False,False,True,True,False
+601,601,328096.0,אלרחמה,באקה אל-גרביה,True,False,False,True,True,False
+602,602,328161.0,אלמסאר,חיפה,True,False,False,True,True,False
+603,603,328179.0,"בי""ס הלן קלר",ירושלים,True,False,False,True,True,False
+604,604,330266.0,מפתן קרית ים,קרית ים,True,True,False,True,True,True
+605,605,331017.0,"בי""ס מרכז אלון",אלונים,True,False,False,True,True,False
+606,606,338012.0,אלבסמה-לחינוך מיוחד.,ירושלים,True,False,False,True,True,False
+607,607,338038.0,"בי""ס לליקויי למידה",ירושלים,True,False,False,True,True,False
+608,608,338046.0,אלעטאא,כפר קרע,True,False,False,True,True,False
+609,609,338061.0,"בי""ס לב טהור",ירושלים,True,False,False,True,True,False
+610,610,338079.0,מעגלים,ירושלים,True,False,False,True,False,False
+611,611,338095.0,אולפנת תהילה,ירושלים,True,True,True,True,True,True
+612,612,338129.0,בנות ובית יעקב,ביתר עילית,True,True,True,True,True,True
+613,613,338160.0,אור מזל וברכה,ירושלים,True,True,False,True,True,True
+614,614,338202.0,טף לטף,מודיעין עילית,True,False,False,True,True,False
+615,615,338277.0,תורת זאב,ירושלים,True,True,False,True,True,True
+616,616,338301.0,"עי""ס אלחיה סילואן",ירושלים,True,True,False,True,True,True
+617,617,338384.0,"בי""ס בית אקשטיין",פרדס חנה-כרכור,True,False,False,False,True,False
+618,618,338392.0,חטיבה חדשה,יקנעם עילית,True,False,False,False,False,False
+619,619,338418.0,"אמי""ת דביר לבנים",בית שמש,True,True,True,True,True,True
+620,620,338426.0,תיכון דמוקרטי קשת,זכרון יעקב,True,True,True,True,True,True
+621,621,338434.0,ברידג' אינטרנשיונל,ירושלים,True,True,False,True,True,True
+622,622,338509.0,"חט""ב בית אריה",בית אריה,True,False,False,False,False,False
+623,623,338525.0,"חט""ב חדש עארה",ערערה,True,True,False,True,False,True
+624,624,338541.0,תיכון גבעול,חדרה,True,True,True,True,True,True
+625,625,338616.0,"שש שנתי אמי""ת בנות",מעלה אדומים,True,True,True,True,True,True
+626,626,338624.0,נתיבי נועם מגן אברהם,ירושלים,True,False,False,True,True,False
+627,627,338657.0,"מקיף ""בית אלחכמה """,נצרת,True,True,True,True,True,True
+628,628,338673.0,ישיבת אהל יעקב,אלעד,True,True,False,True,True,True
+629,629,338715.0,מסאר,נצרת,True,True,True,True,True,True
+630,630,338731.0,אלרשיד,אום אל-פחם,True,False,False,True,True,False
+631,631,338756.0,אור תורה,בית שמש,True,True,False,True,True,True
+632,632,338772.0,מכללת אלרסאלה,שפרעם,True,True,True,True,True,True
+633,633,338830.0,עטרת עמרם אוהל אשר,אלעד,True,False,False,True,True,False
+634,634,339408.0,אדם חברה וטבע,כרמיאל,True,True,True,True,True,True
+635,635,340018.0,מקיף ליאו בק,חיפה,True,True,True,True,True,True
+636,636,340034.0,מקיף אורט,קרית מוצקין,True,True,True,True,True,True
+637,637,340042.0,"מקיף דתי ע""ש לוינסון",קרית ים,True,True,True,True,True,True
+638,638,340059.0,מקיף אורט עש גרינברג,קרית טבעון,True,True,True,True,True,True
+639,639,340091.0,התיכון המקיף נשר,נשר,True,True,True,True,True,True
+640,640,340109.0,"אולפנת בנ""ע כפר פינס",כפר פינס,True,True,True,True,True,True
+641,641,340117.0,"מקיף ע""ש רוגוזין",קרית אתא,True,True,True,True,True,True
+642,642,340125.0,אולפנית שחם,קרית אתא,True,True,True,True,True,True
+643,643,340133.0,מקיף עירוני ק. חיים,חיפה,True,True,True,True,True,True
+644,644,340158.0,עירוני ג',חיפה,True,True,True,True,True,True
+645,645,340166.0,עירוני ב' ישיבה,חיפה,True,True,True,True,True,True
+646,646,340174.0,עירוני א',חיפה,True,True,True,True,True,True
+647,647,340190.0,כל ישראל חברים,חיפה,True,True,True,True,True,True
+648,648,340208.0,עירוני חוגים,חיפה,True,True,True,True,True,True
+649,649,340216.0,התיכון הריאלי העברי,חיפה,True,True,True,True,True,True
+650,650,340232.0,ישיבת בני עקיבא יבנה,חיפה,True,True,True,True,True,True
+651,651,340240.0,"אולפת אמי""ת עירוני ו",חיפה,True,True,True,True,True,True
+652,652,340273.0,ברנקו וייס תחכמוני חדרה,חדרה,True,True,True,True,False,True
+653,653,340281.0,תיכון חדרה,חדרה,True,True,True,True,True,True
+654,654,340315.0,עירוני ה',חיפה,True,True,True,True,True,True
+655,655,340331.0,תיכון בית יעקב,חיפה,True,True,True,True,True,True
+656,656,340349.0,"תיכון מקיף ע""ש רודמן",קרית ים,True,True,False,True,False,True
+657,657,340356.0,"ישיבת בנ""ע חדרה",חדרה,True,True,True,True,True,True
+658,658,340380.0,"אולפנת בנ""ע סגולה",קרית מוצקין,True,True,True,True,True,True
+659,659,340521.0,קרית המתיבתא,חדרה,True,True,False,True,True,True
+660,660,340547.0,ישיבה לצעירים,זכרון יעקב,True,True,False,True,True,True
+661,661,340554.0,מרכז חינוך לבנות,זכרון יעקב,True,True,True,True,True,True
+662,662,340570.0,יחל ישראל,חיפה,True,True,False,True,True,True
+663,663,340588.0,ישיבת כנסת חזקיהו,רכסים,True,True,False,True,True,True
+664,664,340596.0,הדמוקרטי חדרה,חדרה,True,True,True,True,True,True
+665,665,340604.0,גימנסיה כרמל אלנאג'אח,חיפה,True,True,True,True,True,True
+666,666,340612.0,תיכון חיפה,חיפה,True,True,True,True,True,True
+667,667,340653.0,גימנסיה חדרה,חדרה,True,True,True,True,True,True
+668,668,340679.0,אוהל יהושע,חיפה,True,True,False,True,True,True
+669,669,340695.0,תיכון לבנות בית יעקב,רכסים,True,True,False,True,True,True
+670,670,340711.0,אור חדש - בנות,רכסים,True,True,True,True,True,True
+671,671,340737.0,אולפנת צביה חיפה,חיפה,True,True,True,True,True,True
+672,672,340778.0,אנקורי קרית ביאליק,קרית ביאליק,True,True,True,True,True,True
+673,673,340802.0,ישיבת תומכי תמימים,חיפה,True,True,False,True,True,True
+674,674,340810.0,אהלי שמואל,רכסים,True,True,False,True,True,True
+675,675,342113.0,מקיף רוגוזין ב,קרית אתא,True,False,False,False,False,False
+676,676,342170.0,"אולפנית אמי""ת או""ע",אור עקיבא,True,True,True,True,True,True
+677,677,342329.0,ישיבת אהבת תורה,מודיעין עילית,True,True,False,True,True,True
+678,678,342337.0,תיכון אסקנדר,אום אל-פחם,True,True,False,True,True,True
+679,679,342352.0,תיכון קטאין אלשומר,אום אל-פחם,True,True,True,True,True,True
+680,680,342394.0,גיל אלמוסתקבל,ירושלים,True,True,False,True,True,True
+681,681,343970.0,על יסודי מאר מטרי,ירושלים,True,True,False,True,True,True
+682,682,343996.0,מסילת יעקב,ירושלים,True,True,False,True,True,True
+683,683,344028.0,חטב עמלנית רגבים,חיפה,True,False,False,True,True,False
+684,684,344036.0,חטב עמלנית קורצ'ק,חיפה,True,False,False,True,True,False
+685,685,344044.0,חטב עמל' אבן גבירול,חיפה,True,False,False,True,True,False
+686,686,344085.0,רמת הדסה,קרית טבעון,True,True,True,True,True,True
+687,687,344093.0,חטב ליאו בק,חיפה,True,True,False,False,False,False
+688,688,344101.0,מקיף מופת בסמת,חיפה,True,True,True,True,True,True
+689,689,344119.0,ישיבת ברסלב,בני ברק,True,True,False,True,True,True
+690,690,344127.0,ישיבת תורה ושלום,בני ברק,True,True,False,True,True,True
+691,691,344150.0,בית חיה מושקא,חיפה,True,True,True,True,True,True
+692,692,344168.0,ישיבת כנסת יצחק,חדרה,True,True,False,True,True,True
+693,693,344200.0,"אולפ' בנ""ע מ. ברוך",חדרה,True,True,True,True,True,True
+694,694,344218.0,"חט""ב אורט אפק",קרית ביאליק,True,True,False,False,False,False
+695,695,344226.0,ישיבת משכן יעקב,חיפה,True,True,False,True,True,True
+696,696,344234.0,אורט רונסון עוספיה,עספיא,True,True,True,True,True,True
+697,697,344291.0,"חט""ב חדשה ברמות יצחק",נשר,True,False,False,False,False,False
+698,698,344309.0,ישיבת חסידי גור,חיפה,True,True,False,True,True,True
+699,699,344325.0,מקיף חדש,חריש,True,False,False,False,False,False
+700,700,344333.0,"חט""ב שניה- רמות יצחק",נשר,True,False,False,False,False,False
+701,701,344341.0,ישיבת תהילת שלמה,חיפה,True,True,False,True,True,True
+702,702,344366.0,"חט""ב ע""ש יצחק רבין",קרית מוצקין,True,True,False,False,False,False
+703,703,344374.0,"חט""ב יהונתן נתניהו",קרית מוצקין,True,False,False,False,False,False
+704,704,344382.0,תכון חדרה בית-אליעזר,חדרה,True,True,True,True,True,True
+705,705,344408.0,"חט""ב רוגוזין א'",קרית אתא,True,False,False,False,False,False
+706,706,344416.0,"מקיף חדש ע""ש רבין",קרית ים,True,True,True,True,True,True
+707,707,344440.0,תיכון עתידים,אור עקיבא,True,True,True,True,True,True
+708,708,344465.0,אחוזת ילדים,חיפה,True,False,False,True,True,False
+709,709,344473.0,מקיף שש שנתי,קרית אתא,True,True,True,True,True,True
+710,710,344499.0,בית יעקב-בית יפה,חדרה,True,True,False,True,True,True
+711,711,344507.0,דגן,חיפה,True,True,False,False,False,False
+712,712,344515.0,"חט""ב ממ""ד תחכמוני",חדרה,True,False,False,False,False,False
+713,713,344531.0,ישיבה לצעירים,קרית אתא,True,True,False,True,True,True
+714,714,344556.0,"חט""ב מוסמוס",מעלה עירון,True,False,False,False,False,False
+715,715,344572.0,גמנסיה קריות פ.100,קרית מוצקין,True,True,True,True,True,True
+716,716,344580.0,בית יעקב תהילה,חיפה,True,True,True,True,True,True
+717,717,344598.0,נתיבות דרור,אור עקיבא,True,True,True,True,True,True
+718,718,344911.0,אורט עירוני ד,מודיעין-מכבים-רעות,True,True,True,True,True,True
+719,719,346023.0,תיכון בית יעקב,מודיעין עילית,True,True,False,True,True,True
+720,720,346031.0,ישיבת יחל ישראל,חיפה,True,True,False,True,True,True
+721,721,346098.0,תורת משה,ירושלים,True,True,False,True,True,True
+722,722,346445.0,קנין התורה,בית שמש,True,True,False,True,True,True
+723,723,346494.0,תיכון יד ביד,ירושלים,True,True,True,True,True,True
+724,724,346502.0,זכרון דוד,בית שמש,True,True,False,True,True,True
+725,725,346510.0,תורת אליהו,מחסיה,True,True,False,True,True,True
+726,726,346635.0,פני יהושע,ירושלים,True,True,False,True,True,True
+727,727,346932.0,צור ישראל,פסגות,True,True,True,True,True,True
+728,728,347013.0,אורתודוקסי ערבי,חיפה,True,True,True,True,True,True
+729,729,347021.0,נזירות נצרת,חיפה,True,True,True,True,True,True
+730,730,347039.0,"ביה""ס האיטלקי",חיפה,True,True,True,True,True,True
+731,731,347047.0,"חט""ב ב' - אלראזי",אום אל-פחם,True,True,False,True,True,True
+732,732,347054.0,מקיף דאלית אל-כרמל,דאלית אל-כרמל,True,True,True,True,True,True
+733,733,347062.0,"חט""ב עין ג'ראר",אום אל-פחם,True,True,True,True,True,True
+734,734,347070.0,עתיד אלאהליה,אום אל-פחם,True,True,True,True,True,True
+735,735,347088.0,עיס טכנולוגי כפר קרע,כפר קרע,True,True,False,True,True,True
+736,736,347096.0,על יסודי אלחיה,"בסמ""ה",True,True,True,True,True,True
+737,737,347112.0,אבן סינא,באקה אל-גרביה,True,True,True,True,True,True
+738,738,347153.0,ניו בית עדנאן,ירכא,True,False,False,True,True,False
+739,739,347757.0,סאדברי ירושלים,ירושלים,True,False,True,True,True,True
+740,740,348011.0,תיכון טומשין אלנג'אח,באקה אל-גרביה,True,True,True,True,True,True
+741,741,348029.0,"חט""ב אבן סינא",כפר קרע,True,False,False,False,False,False
+742,742,348037.0,מקיף אם אל פחם,אום אל-פחם,True,True,True,True,True,True
+743,743,348060.0,חטב ערערה משותף,ערערה,True,False,False,False,False,False
+744,744,348102.0,אפאק,אום אל-פחם,True,False,False,True,True,False
+745,745,348185.0,"ביה""ס גת המשולש",ג'ת,True,True,True,True,True,True
+746,746,348193.0,תיכון כרמל,חיפה,True,True,True,True,True,True
+747,747,348201.0,אלמנרה,ג'סר א-זרקא,True,True,True,True,True,True
+748,748,348227.0,מקיף פרדיס,פוריידיס,True,True,True,True,True,True
+749,749,348235.0,"חט""ב אל גזאלי",אום אל-פחם,True,False,False,False,False,False
+750,750,348243.0,חטב ואדי אלנסור,אום אל-פחם,True,False,False,False,False,False
+751,751,348250.0,תיכון ח'דיג'ה,אום אל-פחם,True,True,True,True,True,True
+752,752,348276.0,מקיף נחל עירון,"בסמ""ה",True,False,False,False,False,False
+753,753,348284.0,"חט""ב כפר קרע ב'",כפר קרע,True,False,False,False,False,False
+754,754,348292.0,"חט""ב ברטעה","בסמ""ה",True,False,False,False,False,False
+755,755,348318.0,תיכון מעלה עירון,מעלה עירון,True,True,True,True,True,True
+756,756,348326.0,אלאנדלוס,באקה אל-גרביה,True,True,True,True,True,True
+757,757,348334.0,עתיד טכנולוגי פרדיס,פוריידיס,True,True,True,True,True,True
+758,758,348342.0,"עי""ס אלקאסמי",באקה אל-גרביה,True,True,True,True,True,True
+759,759,348359.0,מקיף מושריפה,מעלה עירון,True,True,True,True,True,True
+760,760,349027.0,חטב גת,ג'ת,True,False,False,False,False,False
+761,761,349928.0,ניסויי על איזורי תפן,כפר ורדים,True,True,True,True,True,True
+762,762,353441.0,אג'אל,נצרת,True,False,False,True,True,False
+763,763,353581.0,"אולפנא אמי""ת",צפת,True,True,True,True,True,True
+764,764,353599.0,אהבת ישראל,בית שמש,True,True,True,True,True,True
+765,765,353706.0,הרים,בנימינה-גבעת עדה,True,False,False,True,True,False
+766,766,356212.0,תיכון זכרון יעקב,זכרון יעקב,True,True,True,True,True,True
+767,767,358127.0,המגשימים,ירושלים,True,False,False,True,True,False
+768,768,358648.0,עטרת התורה,ירושלים,True,False,False,True,False,False
+769,769,359034.0,אלחיאה,מג'ד אל-כרום,True,False,False,True,True,False
+770,770,359059.0,סמינר חסידי ברסלב,ירושלים,True,True,True,True,True,True
+771,771,359067.0,עטרת התורה,ירושלים,True,False,False,True,True,False
+772,772,359174.0,רנד,אכסאל,True,False,False,True,True,False
+773,773,359182.0,"תיכון רנד לחנ""מ",אכסאל,True,False,False,True,True,False
+774,774,359323.0,אפוסקופי מאר אליאס,חיפה,True,True,True,True,True,True
+775,775,359489.0,"חט""ב - שכונה צפונית",טורעאן,True,False,False,False,False,False
+776,776,360040.0,מקיף מבואות עירון,עין שמר,True,True,True,True,True,True
+777,777,360123.0,מקיף גוונים,עין שמר,True,True,True,True,True,True
+778,778,360149.0,מקיף אלוני יצחק,אלוני יצחק,True,True,True,True,True,True
+779,779,360222.0,מקיף כרמל זבולון,יגור,True,True,True,True,True,True
+780,780,360503.0,"סמט מ. חינוך ב""י",ירושלים,True,True,False,True,True,True
+781,781,360529.0,עטרת שלמה אריה,ירושלים,True,True,False,True,True,True
+782,782,360545.0,דעת משה,ירושלים,True,True,False,True,True,True
+783,783,360552.0,תורת חסד,בית שמש,True,True,False,True,True,True
+784,784,360560.0,לב אליהו,ירושלים,True,True,False,True,True,True
+785,785,360578.0,ישיבת שלום בניך,ירושלים,True,True,False,True,True,True
+786,786,360768.0,בית מלכה,יבנאל,True,True,True,True,True,True
+787,787,360784.0,חנוך לנער,צפת,True,True,False,True,False,True
+788,788,360800.0,מקיף גבעת פרדיס,פוריידיס,True,True,True,True,True,True
+789,789,360826.0,ישיבה לצעירים באיאן,ביתר עילית,True,True,False,True,True,True
+790,790,360834.0,ישיבה לצעירים סלונים,ביתר עילית,True,True,False,True,True,True
+791,791,361261.0,"ישיבת ת""ת מורשה",ירושלים,True,True,False,True,True,True
+792,792,361451.0,תורת אהרון,בני ברק,True,True,False,True,True,True
+793,793,361469.0,"ישיבת אור הרמ""ז",אשדוד,True,True,False,True,True,True
+794,794,361477.0,ישיבת ברכת אריה,ירושלים,True,True,False,True,True,True
+795,795,361543.0,ישיבת חמדת משה,מודיעין עילית,True,True,False,True,True,True
+796,796,361550.0,נהורא דהורייתא,אלעד,True,True,False,True,True,True
+797,797,361667.0,ישיבת פאר אהרון,קוממיות,True,True,False,True,True,True
+798,798,361881.0,ישיבת פסגת יצחק,בית מאיר,True,True,False,True,True,True
+799,799,362103.0,חכמת התורה,מודיעין עילית,True,False,False,True,True,False
+800,800,362194.0,ישיבת נצח התורה,מודיעין עילית,True,True,False,True,True,True
+801,801,362202.0,ישיבת תנא דבי אליהו,ירושלים,True,True,False,True,True,True
+802,802,362210.0,מרכז חסידי ויז'ניץ,בני ברק,True,True,False,True,True,True
+803,803,362236.0,אורחות חיים אברהם,אשדוד,True,True,False,True,True,True
+804,804,362244.0,ישיבת אחינו לצעירים,מודיעין עילית,True,True,False,True,True,True
+805,805,362251.0,תורת חיים,מודיעין עילית,True,False,False,False,False,False
+806,806,362475.0,ישיבת תהילת שלמה,בני ברק,True,True,False,True,True,True
+807,807,362574.0,המרכז להכשרה,ירושלים,True,True,False,True,True,True
+808,808,362582.0,בנות ויזניץ,בית שמש,True,True,False,True,True,True
+809,809,362632.0,אהבת משה,ביתר עילית,True,True,False,True,True,True
+810,810,362640.0,ישיבת דברי שלמה,מודיעין עילית,True,True,False,True,True,True
+811,811,363879.0,ישיבת כנסת יצחק,מודיעין עילית,True,True,False,True,True,True
+812,812,366864.0,אהלי חיים,ירושלים,True,True,False,True,True,True
+813,813,366880.0,ברכת ישראל מאיר,ירושלים,True,True,False,True,True,True
+814,814,366971.0,קדושת תורה,ירושלים,True,True,False,True,True,True
+815,815,367748.0,תיכון פסגת אמיר,קציר,True,False,False,True,True,False
+816,816,368084.0,"בי""ס ע""י אלאספניול",ירושלים,True,True,False,True,True,True
+817,817,370023.0,תיכון יעדים לחינוך,כפר ביאליק,True,True,True,True,True,True
+818,818,370049.0,בית הספר רעות לאמנויות,חיפה,True,True,True,True,True,True
+819,819,370072.0,עמל חדרה למדעים ולאמנויות,חדרה,True,True,True,True,True,True
+820,820,370080.0,"מכללה טכ' ע""ש סיטרין",בית צבי,True,True,True,True,True,True
+821,821,370122.0,"מקיף ע""ש שיפמן",טירת כרמל,True,True,True,True,True,True
+822,822,370155.0,ימין אורד,ניר עציון,True,True,True,True,True,True
+823,823,370254.0,מקיף דתי אריאל,טירת כרמל,True,True,True,True,True,True
+824,824,370262.0,תיכון טכנולוגי האופק,אור עקיבא,True,True,True,True,True,True
+825,825,370304.0,אזורי דתי לבנות,פרדס חנה-כרכור,True,True,True,True,True,True
+826,826,370312.0,קרית חנוך אורט,קרית ביאליק,True,True,True,True,True,True
+827,827,370395.0,אורט השומרון,בנימינה-גבעת עדה,True,True,True,True,True,True
+828,828,370403.0,עתיד עירוני ד,חיפה,True,True,True,True,True,True
+829,829,370486.0,תיכון טכנולוגי נעמת,חדרה,True,True,True,True,True,True
+830,830,370494.0,"עי""ס למדעים מועאוויה","בסמ""ה",True,True,True,True,True,True
+831,831,370551.0,מעלה,ירושלים,True,True,True,True,True,True
+832,832,370569.0,"מח""ט עמל פסגות נהריה",נהריה,True,True,True,True,True,True
+833,833,370833.0,התיכון החברתי,קרית אתא,True,True,True,True,True,True
+834,834,370882.0,ישיבת שיח תורה,מודיעין עילית,True,True,False,True,True,True
+835,835,370999.0,"חט""ב דפנה",קרית ביאליק,True,True,False,False,False,False
+836,836,371112.0,תיכון מראח אלגוזלאן,יפיע,True,True,True,True,True,True
+837,837,372243.0,מקיף כאוכב,כאוכב אבו אל-היג'א,True,True,True,True,True,True
+838,838,372896.0,רינה אתגרים חינוכיים,נצרת,True,False,False,True,True,False
+839,839,372946.0,אל-אמל,משהד,True,True,True,True,True,True
+840,840,372953.0,מעיינות בית רבקה,ביתר עילית,True,True,True,True,True,True
+841,841,373142.0,עטרת רחל,טבריה,True,True,True,True,True,True
+842,842,373167.0,תורת חיים,ירושלים,True,True,False,True,True,True
+843,843,373183.0,סמינר כלל חסידי,ביתר עילית,True,True,False,True,True,True
+844,844,373209.0,קול אריה,ירושלים,True,True,False,True,True,True
+845,845,373357.0,כנפי יונה,צפת,True,True,True,True,True,True
+846,846,374199.0,"ע""ס טכנולוגי",ג'סר א-זרקא,True,True,False,True,True,True
+847,847,374249.0,תיכון ממד זכרון יעקב,זכרון יעקב,True,True,True,True,True,True
+848,848,374751.0,"בי""ס אלראזי",פוריידיס,True,False,False,True,True,False
+849,849,378018.0,תיכון עש אחמד ע.יחיא,כפר קרע,True,True,True,True,True,True
+850,850,378026.0,"חט""ב עוספיא",עספיא,True,False,False,False,False,False
+851,851,378042.0,תיכון טכנולגי נעמת,כפר קרע,True,True,True,True,True,True
+852,852,378075.0,מקיף שיזף אלמותנבי,חיפה,True,True,True,True,True,True
+853,853,378117.0,הפטריארכה הלטינית,ראמה,True,True,True,True,True,True
+854,854,378125.0,אליתים אלערבי,ירושלים,True,True,False,True,True,True
+855,855,380022.0,מקיף שפיה,מאיר שפיה,True,True,True,True,True,True
+856,856,380030.0,חקלאי פרדס-חנה,פרדס חנה-כרכור,True,True,True,True,True,True
+857,857,380048.0,כפר הנוער הדתי,כפר הנוער הדתי,True,True,True,True,True,True
+858,858,380055.0,כפר גלים,כפר גלים,True,True,True,True,True,True
+859,859,384008.0,עתיד קרית מוצקין,קרית מוצקין,True,True,True,True,True,True
+860,860,384016.0,תיכון עיוני עתיד,כפר קרע,True,True,True,True,True,True
+861,861,384040.0,אלסלאם,ג'סר א-זרקא,True,True,False,False,False,True
+862,862,384099.0,אלקיאן לקשר ותקשורת,כפר קרע,True,False,False,False,True,False
+863,863,384123.0,בית אקשטיין פרדס חנה,פרדס חנה-כרכור,True,False,False,True,True,False
+864,864,384164.0,בית אקשטיין דרור,פרדס חנה-כרכור,True,False,False,True,True,False
+865,865,384180.0,ממגד גבעות,רכסים,True,True,True,True,True,True
+866,866,384198.0,באר מרים,חדרה,True,True,True,True,True,True
+867,867,384230.0,אל אשראק,עספיא,True,True,True,True,True,True
+868,868,384305.0,"שבילים ע""ש בגין",פרדס חנה-כרכור,True,True,True,True,True,True
+869,869,384370.0,"תיכון ממ""ד",זכרון יעקב,True,True,True,True,True,True
+870,870,384412.0,"חט""ב מערבית",ג'ת,True,False,False,False,False,False
+871,871,384461.0,"חט""ב עארה",ערערה,True,False,False,False,False,False
+872,872,384479.0,חופים,חדרה,True,False,False,False,False,False
+873,873,410001.0,תיכון אלעולא,לוד,True,False,True,True,True,True
+874,874,410076.0,אולפנת - לבנות ולהבנות,יבנה,True,True,True,True,True,True
+875,875,410225.0,"תיכון ע""ש אל""מ עודד ראור",קדימה-צורן,True,True,False,True,True,True
+876,876,410480.0,בית עדנאן לאוטיסטים,ירכא,True,False,False,True,True,False
+877,877,412197.0,אפיקים,ירושלים,True,False,False,True,True,False
+878,878,416362.0,אולפנת רעות,פתח תקווה,True,False,False,False,False,False
+879,879,417204.0,תיכון להנדסה ולמדעים אורט ערבי,לוד,True,True,True,True,True,True
+880,880,420000.0,"חט""ב חדשה",אכסאל,True,False,False,False,False,False
+881,881,420018.0,על יסודי צור הדסה,צור הדסה,True,True,True,True,True,True
+882,882,420026.0,ישיבת מערב שומרון,אלקנה,True,True,True,True,True,True
+883,883,420042.0,אורט אלון עפולה,עפולה,True,True,True,True,True,True
+884,884,420059.0,עגורים מבואות חרמון,דישון,True,False,False,True,True,False
+885,885,420067.0,סאלד,כפר סבא,True,False,False,False,True,False
+886,886,420083.0,דקלים,נס ציונה,True,False,False,False,True,False
+887,887,420109.0,יהודה הלוי,נתניה,True,False,False,True,True,False
+888,888,420133.0,מח ילדים אסף הרופא,באר יעקב,True,False,False,False,True,False
+889,889,420141.0,רימונים,עפולה,True,False,False,True,True,False
+890,890,420158.0,בלקינד,ראשון לציון,True,False,False,True,True,False
+891,891,420166.0,"ביה""ס קפלן מח'ילדים",רחובות,True,False,False,False,True,False
+892,892,420174.0,נוה צאלים,רמות השבים,True,False,False,True,True,False
+893,893,420190.0,מוסד יובלים,רמלה,True,False,False,True,True,False
+894,894,420208.0,חן השומרון,שבי שומרון,True,False,False,False,False,False
+895,895,420224.0,גוונים,נתניה,True,False,False,False,True,False
+896,896,420240.0,מרכז חינוכי שניידר,פתח תקווה,True,False,False,False,True,False
+897,897,420257.0,אגם,רעננה,True,False,False,True,True,False
+898,898,420265.0,התומר,נס ציונה,True,False,False,True,True,False
+899,899,420273.0,אוהל אשר,אלעד,True,False,False,True,True,False
+900,900,420307.0,נטעים-הבניית התנהגות,לוד,True,False,False,True,True,False
+901,901,420331.0,דקל -תוחלת,לוד,True,False,False,False,True,False
+902,902,420356.0,מיוחד רעות,פתח תקווה,True,False,False,False,False,False
+903,903,420364.0,בני ארזים,ראשון לציון,True,False,False,True,True,False
+904,904,420372.0,טומשין הבית של תמר משמר,משמר השרון,True,False,False,True,True,False
+905,905,420414.0,מיוחד צורים,הוד השרון,True,False,False,True,True,False
+906,906,420448.0,"בי""ח מאיר מח ילדים",כפר סבא,True,False,False,False,True,False
+907,907,420463.0,"נירים חנ""מ",מעלה אדומים,True,False,False,False,True,False
+908,908,420471.0,עידוד,רחובות,True,False,False,True,True,False
+909,909,420489.0,"מקיף י""א",ראשון לציון,True,True,True,True,True,True
+910,910,420497.0,אבדאע,יפיע,True,False,False,True,True,False
+911,911,420505.0,"ממ""ד סיני",רמלה,True,False,False,True,True,False
+912,912,420513.0,אבן חן(מוסד בני ציון),ראש העין,True,False,False,True,True,False
+913,913,420521.0,"בי""ח גהה נעורים",פתח תקווה,True,False,False,True,True,False
+914,914,420539.0,"ביה""ס נאות אילנה",ראש העין,True,False,False,True,True,False
+915,915,420547.0,נוה הדר,נתניה,True,False,False,False,True,False
+916,916,420554.0,מפתן טירה,טירה,True,True,False,True,True,True
+917,917,420570.0,"חט""ב מערבי",בועיינה-נוג'ידאת,True,False,False,False,False,False
+918,918,420620.0,לב החינוך חסידי,ביתר עילית,True,False,False,True,True,False
+919,919,420745.0,"רנד אבו גוש לחנ""מ",אבו גוש,True,False,False,True,True,False
+920,920,420786.0,"בי""ס בית אקשטיין",בית ינאי,True,False,False,False,True,False
+921,921,420828.0,החצב,ראשון לציון,True,False,False,True,True,False
+922,922,420950.0,בית איזי שפירא,רעננה,True,False,False,False,True,False
+923,923,420968.0,צעד קדימה,ראשון לציון,True,False,False,True,True,False
+924,924,420976.0,טומשין הבית של תמר שפיים,שפיים,True,False,False,True,True,False
+925,925,421032.0,מיוחד לוטם,רחובות,True,False,False,True,True,False
+926,926,421040.0,בית חולים שלוותה,הוד השרון,True,False,False,False,True,False
+927,927,421081.0,ניצנים,גדרה,True,False,False,True,True,False
+928,928,421099.0,מיוחד מוריה,גדרה,True,False,False,True,True,False
+929,929,421107.0,רימון,לוד,True,False,False,True,True,False
+930,930,421115.0,שיקמים,ראשון לציון,True,False,False,True,True,False
+931,931,421123.0,"בי""ס בבי""ח לוינשטיין",רעננה,True,False,False,False,True,False
+932,932,421131.0,"ת""ת בית יהודה",פתח תקווה,True,False,False,True,True,False
+933,933,421149.0,"חט""ב רבין",פתח תקווה,True,False,False,False,False,False
+934,934,421172.0,"בי""ס לחנ""מ אדנים",חדרה,True,False,False,True,True,False
+935,935,421180.0,"בי""ס בית אקשטיין","יד רמב""ם",True,False,False,True,True,False
+936,936,421198.0,"בי""ס בית אקשטיין",ראשון לציון,True,False,False,True,True,False
+937,937,422097.0,מרכז חינוכי גב.יערים,גבעת יערים,True,False,False,True,True,False
+938,938,422592.0,"בי""ס אלכרום",מג'ד אל-כרום,True,False,False,True,True,False
+939,939,424556.0,א-שורק לחינוך מיוחד,עראבה,True,False,False,True,True,False
+940,940,425900.0,ארזים,ראשון לציון,True,False,False,True,True,False
+941,941,428011.0,אלאימאן,טייבה,True,False,False,False,True,False
+942,942,428029.0,מיוחד אל מנאר,טירה,True,False,False,True,True,False
+943,943,428037.0,אל-חנן מעון שקומי,טירה,True,False,False,True,True,False
+944,944,428078.0,אלג'נאן,כפר קאסם,True,False,False,True,True,False
+945,945,428086.0,רנד טירה,טירה,True,False,False,True,True,False
+946,946,430314.0,מפתן מעינות,ראש העין,True,True,False,True,False,True
+947,947,430488.0,מפתן,כפר סבא,True,True,False,True,True,True
+948,948,430678.0,מפתן ארזים,יבנה,True,True,False,True,True,True
+949,949,431171.0,תיכון טכנולוגי עמל 1,לוד,True,True,True,True,False,True
+950,950,431189.0,מרכז נוער ממלכתי,נתניה,True,True,True,True,True,True
+951,951,431205.0,"מרכז נוער ממ""ד",נתניה,True,True,True,True,True,True
+952,952,431254.0,בית חינוך טכנולוגי אמית רמלה,רמלה,True,True,True,True,True,True
+953,953,440008.0,בית אליהו,בני ברק,True,True,False,True,True,True
+954,954,440016.0,תיכון דה שליט,רחובות,True,True,True,True,True,True
+955,955,440024.0,"תיכון ע""ש אוסטרובסקי",רעננה,True,True,True,True,True,True
+956,956,440040.0,"חמ""ד אמית הלל",רחובות,True,True,True,True,True,True
+957,957,440065.0,גמנסיה ראלית עש קררי,ראשון לציון,True,True,True,True,True,True
+958,958,440073.0,"מקיף ממ""ד",ראשון לציון,True,True,True,True,True,True
+959,959,440081.0,אולפנית ישורון,פתח תקווה,True,True,True,True,True,True
+960,960,440099.0,תיכון ברנר,פתח תקווה,True,True,True,True,True,True
+961,961,440107.0,שש שנתי אחד העם,פתח תקווה,True,True,True,True,True,True
+962,962,440115.0,מקיף טשרניחובסקי,נתניה,True,True,True,True,True,True
+963,963,440131.0,תיכון בית יעקב,נתניה,True,True,True,True,True,True
+964,964,440149.0,תורני ואולפ' בר אילן,נתניה,True,True,True,True,True,True
+965,965,440172.0,תיכון כצנלסון,כפר סבא,True,True,True,True,True,True
+966,966,440180.0,מקיף הדסים,אבן יהודה,True,True,True,True,True,True
+967,967,440198.0,"דרכא ע""ש מנחם בגין",גדרה,True,True,True,True,True,True
+968,968,440206.0,תיכון דתי באר יעקב,באר יעקב,True,True,True,True,True,True
+969,969,440214.0,בית רבקה,"כפר חב""ד",True,True,True,True,True,True
+970,970,440222.0,הישיבה הגדולה יסודות,יסודות,True,True,False,True,True,True
+971,971,440230.0,כתר תורה,יבנה,True,True,False,True,True,True
+972,972,440248.0,בן-גוריון נס-ציונה,נס ציונה,True,True,True,True,True,True
+973,973,440255.0,תיכון בית חנה,נתניה,True,True,True,True,True,True
+974,974,440263.0,עיוני בית יעקב,פתח תקווה,True,True,True,True,True,True
+975,975,440289.0,מקיף יהוד,יהוד-מונוסון,True,True,True,True,True,True
+976,976,440297.0,ישיבת כפר גנים,פתח תקווה,True,True,True,True,True,True
+977,977,440305.0,מכון ש.פ.י.,יהוד-מונוסון,True,True,True,True,True,True
+978,978,440313.0,תיכון בית יעקב,רחובות,True,True,True,True,True,True
+979,979,440321.0,"ישיבת בנ""ע כפר הרואה","כפר הרא""ה",True,True,True,True,True,True
+980,980,440339.0,ישיבת בני עקיבא נחלים,נחלים,True,True,True,True,True,True
+981,981,440347.0,ישיבת בני עקיבא,נתניה,True,True,True,True,True,True
+982,982,440354.0,"תיכון מח""ט קלנסואה",קלנסווה,True,True,True,True,True,True
+983,983,440362.0,"ישיבת בנ""ע הדרום רחובות",רחובות,True,True,True,True,True,True
+984,984,440370.0,"ישיבת בנ""ע רעננה",רעננה,True,True,True,True,True,True
+985,985,440388.0,אולפנת בני עקיבא אמנה,כפר סבא,True,True,True,True,True,True
+986,986,440412.0,תיכון מקיף אלראזי,ירושלים,True,True,False,True,True,True
+987,987,440446.0,רב תחומי עמל תלמים ירושלים,ירושלים,True,True,True,True,True,True
+988,988,440479.0,אולפנא בני עקיבא צפירה,צפריה,True,True,True,True,True,True
+989,989,440487.0,ישיבת נוה הרצוג,אשדוד,True,True,True,True,True,True
+990,990,440495.0,תיכון דתי עתיד,ראש העין,True,True,True,True,True,True
+991,991,440503.0,אולפנת למרחב,פתח תקווה,True,True,True,True,True,True
+992,992,440545.0,גמנסיה עתידים לילנטל,רמלה,True,True,True,True,True,True
+993,993,440560.0,תיכון גבעת ושינגטון,בית רבן,True,True,True,True,True,True
+994,994,440586.0,בית יעקב מעיין החנוך,פתח תקווה,True,True,True,True,True,True
+995,995,440594.0,ברנקו וייס מודיעין,מודיעין-מכבים-רעות,True,True,True,True,True,True
+996,996,440636.0,ישיבת ברכת תורה,ירושלים,True,True,False,True,True,True
+997,997,440644.0,נזר התלמוד,ביתר עילית,True,True,False,True,True,True
+998,998,440651.0,שער התלמוד,ביתר עילית,True,True,False,True,True,True
+999,999,440677.0,דרכי שרה,ירושלים,True,True,True,True,True,True
+1000,1000,440727.0,ישיבת תומכי תמימים,לוד,True,True,False,True,True,True
+1001,1001,440768.0,ישיבת דברי חיים,נתניה,True,True,False,True,True,True
+1002,1002,440784.0,"ראס אלעמוד ע""ס לבנות",ירושלים,True,True,False,True,True,True
+1003,1003,440800.0,ישיבת אור ישראל,פתח תקווה,True,True,False,True,True,True
+1004,1004,440834.0,"אולפנא בהר""ן",גדרה,True,True,True,True,True,True
+1005,1005,440875.0,עירוני ד' גן נחום,ראשון לציון,True,True,True,True,True,True
+1006,1006,440883.0,אולפנא השומרון,אלקנה,True,True,True,True,True,True
+1007,1007,440909.0,אולפנת להבה,קדומים,True,True,True,True,True,True
+1008,1008,440917.0,עירוני ה' מקיף,ראשון לציון,True,True,True,True,True,True
+1009,1009,440925.0,מקיף אריאל,אריאל,True,True,True,True,True,True
+1010,1010,440933.0,תיכון בית יעקב,עמנואל,True,True,True,True,True,True
+1011,1011,440941.0,תיכון הראל,כפר סבא,True,True,True,True,True,True
+1012,1012,440958.0,ישיבת בני עקיבא השומרון,קרני שומרון,True,True,True,True,True,True
+1013,1013,440966.0,"חט""ב חצב",אלפי מנשה,True,False,False,False,False,False
+1014,1014,440982.0,"מקיף ו ע""ש יגאל אלון",ראשון לציון,True,True,True,True,True,True
+1015,1015,440990.0,אולפנאת זבולון,ראש העין,True,True,True,True,True,True
+1016,1016,441006.0,תיכון הדרים,הוד השרון,True,True,True,True,True,True
+1017,1017,441014.0,אולפנת צביה רחובות,רחובות,True,True,True,True,True,True
+1018,1018,441022.0,שער אליעזר בנות,רחובות,True,True,True,True,True,True
+1019,1019,441030.0,"תיכון ע""ש גלילי",כפר סבא,True,True,True,True,True,True
+1020,1020,441055.0,ישיבת נחלת דוד,פתח תקווה,True,True,False,True,True,True
+1021,1021,441063.0,ישיבת הבוכרים,"כפר חב""ד",True,True,False,True,True,True
+1022,1022,441089.0,"אזורי ע""ש הרצוג",בית חשמונאי,True,True,True,True,True,True
+1023,1023,441097.0,"מקיף ע""ש אלדד",נתניה,True,True,True,True,True,True
+1024,1024,441105.0,מרכז תורני טכנולוגי,נחלים,True,True,False,False,True,True
+1025,1025,441113.0,טרה סנטה,רמלה,True,True,True,True,True,True
+1026,1026,441139.0,"תיכון ע""ש גולדה מאיר",פתח תקווה,True,True,True,True,True,True
+1027,1027,441147.0,מקיף ז' רביבים,ראשון לציון,True,True,True,True,True,True
+1028,1028,441154.0,ישיבת כנסת התורה,פתח תקווה,True,True,False,True,True,True
+1029,1029,441188.0,אנקורי סניף רעננה,רעננה,True,True,True,True,True,True
+1030,1030,441196.0,עתיד למדעים לוד,לוד,True,True,True,True,True,True
+1031,1031,441204.0,ישיבת דרכי נעם,פתח תקווה,True,True,True,True,True,True
+1032,1032,441212.0,"חט""ב תיכון ריגלר",נתניה,True,True,True,True,True,True
+1033,1033,441220.0,אל ארצי,אלון מורה,True,True,True,True,True,True
+1034,1034,441238.0,"תיכון ע""ש יצחק רבין",כפר סבא,True,True,True,True,True,True
+1035,1035,441279.0,"בית חינוך ע""ש רבין",תל מונד,True,True,True,True,True,True
+1036,1036,441287.0,מקיף עירוני ח',ראשון לציון,True,True,True,True,True,True
+1037,1037,441311.0,מקיף ט',ראשון לציון,True,True,True,True,True,True
+1038,1038,441337.0,תיכון שוהם,שוהם,True,True,True,True,True,True
+1039,1039,441345.0,ישיבת חכמת שלמה,רחובות,True,True,False,True,True,True
+1040,1040,441352.0,"חט""ב נוה יונתן",רמלה,True,False,False,False,False,False
+1041,1041,441360.0,"חט""ב שחקים",רמלה,True,False,False,False,False,False
+1042,1042,441378.0,תיכון דתי איתן חדש,רמלה,True,True,True,True,True,True
+1043,1043,441386.0,ישיבת מאור מנחם,רחובות,True,True,False,True,True,True
+1044,1044,441410.0,"תיכון ע""ש אילן רמון",הוד השרון,True,True,True,True,True,True
+1045,1045,441436.0,תיכון אפיקים,פתח תקווה,True,True,True,True,True,True
+1046,1046,441444.0,"חט""ב גוונים",ראש העין,True,False,False,False,False,False
+1047,1047,441451.0,"חט""ב היובל",ראש העין,True,False,False,False,False,False
+1048,1048,441469.0,"חט""ב חדשה שוהם",שוהם,True,True,False,False,False,True
+1049,1049,441477.0,"תיכון טומשין ראשל""צ",ראשון לציון,True,True,True,True,True,True
+1050,1050,441485.0,כנסת מאיר,ראשון לציון,True,True,False,True,True,True
+1051,1051,441493.0,ישיבת תורת מנחם,נתניה,True,True,False,True,True,True
+1052,1052,441568.0,שש שנתי על יסודי משלב,מזכרת בתיה,True,True,False,False,True,True
+1053,1053,441576.0,"מקיף מ""מ קדימה",קדימה-צורן,True,False,False,False,False,False
+1054,1054,441584.0,אולפנת צביה לוד,לוד,True,True,True,True,True,True
+1055,1055,441592.0,ישיבת נהורא,מבוא חורון,True,True,True,True,True,True
+1056,1056,441618.0,אור חנה,לוד,True,True,True,True,True,True
+1057,1057,441634.0,ישיבת בני עקיבא גבעת שמואל,גבעת שמואל,True,True,True,True,True,True
+1058,1058,441667.0,"חט""ב ממ""ד בנים המר",כפר סבא,True,True,True,True,True,True
+1059,1059,441733.0,"חט""ב עידנים(פארק עופ",רמלה,True,False,False,False,False,False
+1060,1060,441758.0,מקיף י' אבני החושן,ראשון לציון,True,True,True,True,True,True
+1061,1061,441774.0,שירת משה,חמד,True,True,False,True,True,True
+1062,1062,441808.0,תיכון אביב,רעננה,True,True,True,True,True,True
+1063,1063,441816.0,בנות לאה,יבנה,True,True,True,True,True,True
+1064,1064,441824.0,ישיבת צביה לוד,לוד,True,True,True,True,True,True
+1065,1065,441832.0,ישיבת צביה פתח תקווה,פתח תקווה,True,True,True,True,True,True
+1066,1066,441857.0,ישיבה לצעירים חיצים,איתמר,True,True,True,True,True,True
+1067,1067,441865.0,עטרת הלויים,פתח תקווה,True,True,False,True,True,True
+1068,1068,441899.0,בית רבקה,נתניה,True,True,True,True,True,True
+1069,1069,441923.0,מעיין,פתח תקווה,True,True,True,True,True,True
+1070,1070,441949.0,ברנקו וייס רמלה,רמלה,True,True,True,True,True,True
+1071,1071,441956.0,נחלת שמואל,נתניה,True,True,False,True,True,True
+1072,1072,441964.0,אמרי צבי,מודיעין עילית,True,True,False,True,True,True
+1073,1073,441972.0,"דמוקרטי ע""ש יעקב חזן",כפר סבא,True,True,True,True,True,True
+1074,1074,441980.0,אולפנת צביה רבבה,רבבה,True,True,True,True,True,True
+1075,1075,442004.0,אנקורי פתח תקווה,פתח תקווה,True,True,True,True,True,True
+1076,1076,442012.0,"חט""ב עמלנית חברת נער",מרכז אזורי שוהם,True,False,False,True,True,False
+1077,1077,442020.0,"תכון ת""א שלוחת נתניה",נתניה,True,True,True,True,True,True
+1078,1078,442046.0,"חט""ב הרצוג",קדימה-צורן,True,False,False,False,False,False
+1079,1079,442061.0,אליעזר בן יהודה,נס ציונה,True,True,True,True,True,True
+1080,1080,442079.0,"פלך ע""ש רות קורמן",קרית עקרון,True,True,True,True,True,True
+1081,1081,442087.0,כנסת יחזקאל,אלעד,True,True,False,True,True,True
+1082,1082,442095.0,ישיבת צמח צדיק ויז'נ,אלעד,True,True,False,True,True,True
+1083,1083,442129.0,אור האמת,אלעד,True,True,True,True,True,True
+1084,1084,442137.0,בית יעקב מאורות,ראשון לציון,True,True,True,True,True,True
+1085,1085,442145.0,ישיבת פונוביץ,באר יעקב,True,True,False,True,True,True
+1086,1086,442152.0,אמרי מרדכי,אלעד,True,True,False,True,True,True
+1087,1087,442186.0,בית מרגלית,נתניה,True,True,True,True,True,True
+1088,1088,442202.0,מקדש מנחם,אלעד,True,True,False,True,True,True
+1089,1089,442236.0,"דרכא ע""ש אילן ואסף רמון",גדרה,True,True,True,True,True,True
+1090,1090,442244.0,תיכון רננות,פתח תקווה,True,True,True,True,True,True
+1091,1091,442251.0,מיתרים רעננה,רעננה,True,True,True,True,True,True
+1092,1092,442269.0,תיכון בית יעקב החדש,אלעד,True,True,True,True,False,True
+1093,1093,442277.0,"תיכון ע""ש נעמי שמר",גן יבנה,True,True,True,True,True,True
+1094,1094,442293.0,קריית החינוך למדעים,רחובות,True,True,True,True,True,True
+1095,1095,442301.0,תיכון במעלה אדר,פתח תקווה,True,True,True,True,True,True
+1096,1096,442319.0,ישיבת צביה קטיף,יד בנימין,True,True,True,True,True,True
+1097,1097,442335.0,ישיבת שער אליעזר,רחובות,True,True,False,True,True,True
+1098,1098,442343.0,תיכון שובו פתח תקווה,פתח תקווה,True,True,True,True,True,True
+1099,1099,442350.0,"בי""ס בית אקשטיין",מדרשת רופין,True,False,False,True,True,False
+1100,1100,442368.0,"ישיבת אמי""ת עמיחי",רחובות,True,True,True,True,True,True
+1101,1101,442376.0,אמית מדעי תורני כפר בתיה,רעננה,True,True,True,True,True,True
+1102,1102,442392.0,אולפנא ראשון לציון,ראשון לציון,True,True,True,True,True,True
+1103,1103,442400.0,"מוסדות ישיבת פ""ת",פתח תקווה,True,False,False,True,True,False
+1104,1104,442418.0,גימנסיה נתניה,נתניה,True,True,True,True,True,True
+1105,1105,442426.0,"ישיבה תיכונית אמי""ת אלירז",פתח תקווה,True,True,True,True,True,True
+1106,1106,442434.0,ראשית חכמה,אלעד,True,True,True,True,True,True
+1107,1107,442442.0,"בדרך אל בי""ס בטב""ע",בית עובד,True,False,False,True,True,False
+1108,1108,442517.0,סמינר בית מרגלית,אלעד,True,True,True,True,True,True
+1109,1109,442533.0,ישיבה קטנה תורת חיים,יד בנימין,True,True,True,True,True,True
+1110,1110,442566.0,עבד אלראוף סמארה,טירה,True,False,False,False,False,False
+1111,1111,442657.0,עמל ירמיהו ירושלים,ירושלים,True,True,True,True,True,True
+1112,1112,442681.0,ישיבת מלכות תורה,מודיעין עילית,True,True,False,True,True,True
+1113,1113,442699.0,משמרת מאיר,ביתר עילית,True,True,False,True,True,True
+1114,1114,442715.0,ישיבה תיכונית נצרת ע,נצרת עילית,True,True,True,True,True,True
+1115,1115,442723.0,עתידך ירושלים,ירושלים,True,True,True,True,True,True
+1116,1116,442749.0,תיכון לבנות בית יעקב,קרית אתא,True,True,True,True,True,True
+1117,1117,442764.0,מ.תורני דחסידי באבוב,ירושלים,True,True,False,True,True,True
+1118,1118,442772.0,דמוקרטי בלב השרון,אבן יהודה,True,True,True,True,True,True
+1119,1119,442780.0,"אמי""ת בנות מודיעין",מודיעין-מכבים-רעות,True,True,True,True,True,True
+1120,1120,442806.0,עתיד נווה נחום,באר יעקב,True,True,False,True,True,True
+1121,1121,442822.0,ברנקו וייס עין נקובה עין ראפה,עין נקובא,True,True,True,True,True,True
+1122,1122,442830.0,אבן ח'לדון,סח'נין,True,False,False,False,False,False
+1123,1123,442855.0,הרטמן בנות,ירושלים,True,True,True,True,True,True
+1124,1124,442863.0,ישיבת פאר מרדכי,ירושלים,True,True,False,True,True,True
+1125,1125,442889.0,מקיף שכונת אבו שהאב,שפרעם,True,True,False,False,True,True
+1126,1126,442897.0,אולפנית דרכא,קרית שמונה,True,True,True,True,True,True
+1127,1127,442905.0,גוונים,כפר סבא,True,False,False,False,False,False
+1128,1128,444026.0,קריית חינוך נתיבי נועם דרכא,גדרה,True,True,True,True,True,True
+1129,1129,444034.0,נוה הדסה,תל יצחק,True,True,True,True,True,True
+1130,1130,444059.0,"חט""ב שזר",כפר סבא,True,False,False,False,False,False
+1131,1131,444067.0,קרית יעקב הרצוג,כפר סבא,True,True,True,True,True,True
+1132,1132,444075.0,"חט""ב שרת",כפר סבא,True,False,False,False,False,False
+1133,1133,444109.0,"חט""ב בן צבי",פתח תקווה,True,False,False,False,False,False
+1134,1134,444117.0,"תיכון ע""ש חיים הרצוג",כפר סבא,True,True,True,True,True,True
+1135,1135,444133.0,"חט""ב אלון",רעננה,True,False,False,False,False,False
+1136,1136,444141.0,חטב עמלנית שלום,פתח תקווה,True,False,False,True,True,False
+1137,1137,444166.0,"חט""ב ברזילי- קציר א",רחובות,True,False,False,False,False,False
+1138,1138,444190.0,"חט""ב השרון",רעננה,True,False,False,False,False,False
+1139,1139,444208.0,"חט""ב אלון",כפר סבא,True,False,False,False,False,False
+1140,1140,444216.0,"חט""ב ביחד -דה שליט ב",רחובות,True,False,False,False,False,False
+1141,1141,444224.0,"חט""ב השחר",הוד השרון,True,False,False,False,False,False
+1142,1142,444232.0,"חט""ב רשיש",פתח תקווה,True,False,False,False,False,False
+1143,1143,444257.0,תיכון המעיין מקיף יב,ראשון לציון,True,True,True,True,True,True
+1144,1144,444349.0,"חט""ב ראשונים",הוד השרון,True,False,False,False,False,False
+1145,1145,444364.0,"אמי""ת המר רחובות",רחובות,True,True,True,True,True,True
+1146,1146,444372.0,חטב עמלנית קורצ'אק,פתח תקווה,True,False,False,True,True,False
+1147,1147,444398.0,"חט""ב רימון",רעננה,True,False,False,False,False,False
+1148,1148,444414.0,"חט""ב יונתן",רעננה,True,False,False,False,False,False
+1149,1149,444422.0,"חט""ב ממ' ראשונים",גני תקווה,True,False,False,False,False,False
+1150,1150,444455.0,"חט""ב ע""ש אילן רמון",כוכב יאיר,True,False,False,False,False,False
+1151,1151,444463.0,"חט""ב גולדה מאיר",נס ציונה,True,False,False,False,False,False
+1152,1152,444471.0,ישיבה לצעירים,רחובות,True,True,False,True,True,True
+1153,1153,444497.0,"חט""ב ישיבת הדרום",רחובות,True,False,False,False,False,False
+1154,1154,444505.0,ישיבת כסא רחמים,בני ברק,True,True,False,True,True,True
+1155,1155,444513.0,ישיבת בית חלקיה,בית חלקיה,True,True,False,True,True,True
+1156,1156,444562.0,תיכון'מור'מטרו-ווסט,רעננה,True,True,True,True,True,True
+1157,1157,444604.0,ישיבת תורת חסד,רחובות,True,True,False,True,True,True
+1158,1158,444612.0,"דרכא ע""ש מקסים לוי",לוד,True,True,True,True,True,True
+1159,1159,444620.0,אולפנה לבנות,גבעת שמואל,True,True,True,True,True,True
+1160,1160,444646.0,ישיבת בני עקיבא ראשון לציון,ראשון לציון,True,True,True,True,True,True
+1161,1161,444653.0,מקיף אלון-גינזבורג,יבנה,True,True,True,True,False,True
+1162,1162,444679.0,בית חינוך אמית רננים,רעננה,True,True,True,True,True,True
+1163,1163,444687.0,אנקורי,ראשון לציון,True,True,True,True,True,True
+1164,1164,444695.0,"חט""ב פסגות",יהוד-מונוסון,True,False,False,False,False,False
+1165,1165,444703.0,אולפנת דרכי נעם,פתח תקווה,True,True,True,True,True,True
+1166,1166,444711.0,ישיבת שארית יוסף,באר יעקב,True,True,False,True,True,True
+1167,1167,444729.0,"חט""ב חיים בר-לב",כפר סבא,True,False,False,False,False,False
+1168,1168,444737.0,נחשון למדעים טכנולוגיה ואומנות,מרכז אזורי שוהם,True,True,True,True,True,True
+1169,1169,444745.0,תיכון בגין,ראש העין,True,True,True,True,True,True
+1170,1170,444752.0,"חט""ב ק.הסביונים א'",יהוד-מונוסון,True,False,False,False,False,False
+1171,1171,444786.0,ישיבת שערי ציון,בני ברק,True,True,False,True,True,True
+1172,1172,444828.0,שש שנתי איש שלום,כפר יונה,True,True,True,True,True,True
+1173,1173,444836.0,"קרית חינוך ע""ש רבין",גן יבנה,True,True,True,True,True,True
+1174,1174,444844.0,מקיף דתי אזורי,שוהם,True,True,True,True,True,True
+1175,1175,444877.0,"חט""ב עתידים",הוד השרון,True,False,False,False,False,False
+1176,1176,444893.0,"חט""ב אחד העם-רמת ורבר",פתח תקווה,True,False,False,False,False,False
+1177,1177,444901.0,"חט""ב בן גוריון",פתח תקווה,True,False,False,False,False,False
+1178,1178,444919.0,"חט""ב ברנר",פתח תקווה,True,False,False,False,False,False
+1179,1179,444935.0,"ברנקו וייס מקיף ע""ש רבין",מזכרת בתיה,True,True,True,True,True,True
+1180,1180,444943.0,"מקיף ממ""ד יגאל אלון",יהוד-מונוסון,True,True,True,True,True,True
+1181,1181,444950.0,עירוני מקיף שי עגנון,נתניה,True,True,True,True,True,True
+1182,1182,447474.0,אלאמל,עין מאהל,True,False,False,True,False,False
+1183,1183,448019.0,מקיף אלמג'ד,טייבה,True,True,True,True,True,True
+1184,1184,448027.0,"עמל ע""ש אברהים קאסם טירה",טירה,True,True,True,True,True,True
+1185,1185,448050.0,מדעים ותיכון גלגוליה,ג'לג'וליה,True,True,True,True,True,True
+1186,1186,448076.0,תיכון מקיף קלנסווה,קלנסווה,True,True,True,True,True,True
+1187,1187,448100.0,מקיף ערבי,רמלה,True,True,True,True,True,True
+1188,1188,448118.0,"חט""ב א' טירה",טירה,True,False,False,False,False,False
+1189,1189,448126.0,"חט""ב אל אחווה",טייבה,True,False,False,False,False,False
+1190,1190,448134.0,מקיף עתיד אלנג'אח למדעים,טייבה,True,True,False,True,True,True
+1191,1191,448142.0,תיכון אורתודוקסי,רמלה,True,True,True,True,True,True
+1192,1192,448159.0,מקיף טומשין לוד,לוד,True,True,True,True,True,True
+1193,1193,448167.0,"חט""ב אבן סינא",כפר קאסם,True,True,True,True,True,True
+1194,1194,448175.0,"חט""ב קלנסווה",קלנסווה,True,False,False,False,False,False
+1195,1195,448183.0,"חט""ב ב' טירה",טירה,True,False,False,False,False,False
+1196,1196,448191.0,"חט""ב אלנהדא",זמר,True,False,False,False,False,False
+1197,1197,448209.0,"חט""ב אלסלאם",טייבה,True,False,False,False,False,False
+1198,1198,448217.0,"חט""ב א' אבן סינא",קלנסווה,True,False,False,False,False,False
+1199,1199,448233.0,תיכון מדעים קלנסואה,קלנסווה,True,True,True,True,True,True
+1200,1200,448241.0,"עמל ע""ש ע. עתילי טירה",טירה,True,True,True,True,True,True
+1201,1201,448266.0,על יסודי טכנולוגי,טירה,True,True,True,True,True,True
+1202,1202,448274.0,"חט""ב אלחיאת",כפר קאסם,True,False,False,False,False,False
+1203,1203,448290.0,"מח""ט תיכון טכנולוגי",כפר קאסם,True,True,True,True,True,True
+1204,1204,448316.0,"חט""ב ג'לג'וליה",ג'לג'וליה,True,False,False,False,False,False
+1205,1205,448324.0,אלהודא,רמלה,True,True,True,True,True,True
+1206,1206,448332.0,סנט ג'ורג',לוד,True,True,True,True,True,True
+1207,1207,448340.0,מקיף כפר ברא,כפר ברא,True,False,False,False,False,False
+1208,1208,450270.0,"אמי""ת בנים מודיעין",מודיעין-מכבים-רעות,True,True,True,True,True,True
+1209,1209,453605.0,בר אילן בנים,נתניה,True,True,True,True,True,True
+1210,1210,455147.0,אשירה-שיח סוד,ירושלים,True,False,False,True,True,False
+1211,1211,455162.0,ישיבת שבי חברון לצעירים,פני חבר,True,True,True,True,True,True
+1212,1212,455188.0,משיבים פתח תקווה,פתח תקווה,True,True,True,True,True,True
+1213,1213,455477.0,ואת עלית,בית שמש,True,True,True,True,True,True
+1214,1214,455931.0,מיתרים,פתח תקווה,True,False,False,True,True,False
+1215,1215,456616.0,בית אקשטיין-חוףהשרון,תל יצחק,True,False,False,False,True,False
+1216,1216,456913.0,תיכון שש שנתי,רמלה,True,True,True,True,True,True
+1217,1217,456939.0,ישיבת תורת אדם,ירושלים,True,True,False,True,True,True
+1218,1218,460006.0,תיכון רנסנס,ירושלים,True,True,False,True,True,True
+1219,1219,460022.0,תיכון אקסלנס לבנות,ירושלים,True,True,True,True,True,True
+1220,1220,460030.0,מקיף אזורי עמי אסף,בית ברל,True,True,True,True,True,True
+1221,1221,460048.0,הסמינר הירושלמי ביתר,ביתר עילית,True,True,False,True,True,True
+1222,1222,460063.0,מקיף מעין-שחר,עין החורש,True,True,True,True,True,True
+1223,1223,460097.0,תיכון תורני דרך אבות,אפרתה,True,True,True,True,True,True
+1224,1224,460113.0,קבוצת יבנה,קבוצת יבנה,True,True,True,True,True,True
+1225,1225,460121.0,אור יחזקאל מודיעין ע,מודיעין עילית,True,True,False,True,True,True
+1226,1226,460147.0,ישיבת שפע חיים צאנז,ירושלים,True,True,False,True,True,True
+1227,1227,460154.0,אולפנת חפץ חיים,חפץ חיים,True,True,True,True,True,True
+1228,1228,460162.0,רנה של תורה,כרמיאל,True,True,False,True,True,True
+1229,1229,460246.0,פניני חן,בית שמש,True,True,True,True,True,True
+1230,1230,460253.0,"מח""ט ע""ש אבן רושד",טמרה,True,True,True,True,True,True
+1231,1231,460311.0,אלזהרא אלנמודג'יה,ירושלים,True,True,False,True,True,True
+1232,1232,460360.0,ברכת אברהם פתח תקווה,פתח תקווה,True,True,False,True,True,True
+1233,1233,460386.0,ישיבת קרלין סטולין,מודיעין עילית,True,True,False,True,True,True
+1234,1234,460410.0,בני חיל שומרון,קדומים,True,True,True,True,True,True
+1235,1235,460428.0,אולפנת שעלבים,שעלבים,True,True,True,True,True,True
+1236,1236,460436.0,עולמות תכון חרד.בנות,ירושלים,True,True,True,True,True,True
+1237,1237,460451.0,ישיבת נחלת יוסף,ירושלים,True,True,False,True,True,True
+1238,1238,460469.0,מעלות שרה,מודיעין עילית,True,True,False,True,True,True
+1239,1239,460477.0,אלעזיזה,ירושלים,True,True,False,True,True,True
+1240,1240,460519.0,ישיבה לצעירים בעלז,קרית יערים,True,True,False,True,True,True
+1241,1241,460543.0,אור שערים,מודיעין עילית,True,True,True,True,True,True
+1242,1242,460550.0,אג'יאל אלקודס,ירושלים,True,True,False,True,True,True
+1243,1243,460576.0,עתיד מ.חנוך טכנולוגי,לוד,True,True,True,True,True,True
+1244,1244,460584.0,תיכון צור באהר לבנות,ירושלים,True,True,False,True,True,True
+1245,1245,460592.0,פרומיס סקול על יסודי,ירושלים,True,True,False,True,True,True
+1246,1246,460626.0,הפטריארכט הלטינית,יפיע,True,True,True,True,True,True
+1247,1247,460642.0,דרור טכנולוגי רמלה,רמלה,True,True,False,True,True,True
+1248,1248,460667.0,אולפנת אהבת ישראל,בית שמש,True,True,True,True,True,True
+1249,1249,460691.0,ישיבה תיכונית,מעלות-תרשיחא,True,True,True,True,True,True
+1250,1250,460709.0,ישיבה חיי תורה,ירושלים,True,True,False,True,True,True
+1251,1251,460717.0,נצח ישראל,בית שמש,True,True,False,True,True,True
+1252,1252,460725.0,"בית אקשטיין-כפר מל""ל","כפר מל""ל",True,False,False,True,True,False
+1253,1253,460733.0,תיכון ויזניץ אלעד,אלעד,True,True,False,True,True,True
+1254,1254,460741.0,תורת חסד,אלעד,True,True,False,True,True,True
+1255,1255,461855.0,בנות אלישיב,ירושלים,True,True,False,True,True,True
+1256,1256,462200.0,תיכון שקד,קרית טבעון,True,True,True,True,True,True
+1257,1257,462218.0,אלכרמה,חיפה,True,True,True,True,True,True
+1258,1258,462929.0,תיכון נווה חיה,נתיבות,True,True,True,True,True,True
+1259,1259,470013.0,ארץ יהודה,כפר זוהרים,True,True,True,True,True,True
+1260,1260,470021.0,טכנולוגי עירוני ויצו,רחובות,True,True,True,True,True,True
+1261,1261,470047.0,רב תחומי עמל יגאל אלון רמלה,רמלה,True,True,True,True,True,True
+1262,1262,470054.0,"אורט ע""ש מקס שיין",רחובות,True,True,True,True,True,True
+1263,1263,470070.0,"רב תחומי עמל א' פ""ת",פתח תקווה,True,True,True,True,True,True
+1264,1264,470088.0,"אולפנת בנ""ע רעות",פתח תקווה,True,True,True,True,True,True
+1265,1265,470096.0,ק.ח אורט יד ליבוביץ,נתניה,True,True,True,True,True,True
+1266,1266,470112.0,אורט שפירא אזורי למנהיגות,כפר סבא,True,True,True,True,True,True
+1267,1267,470120.0,"אורט לוד ע""ש זייל",לוד,True,True,True,True,True,True
+1268,1268,470138.0,"מקיף ע""ש מוסינזון",הוד השרון,True,True,True,True,True,True
+1269,1269,470146.0,הדסה נעורים,נעורים,True,True,True,True,True,True
+1270,1270,470187.0,תיכון תמר אריאל,נתניה,True,True,True,True,True,True
+1271,1271,470211.0,"תו""ם חרב לאת",חרב לאת,True,True,True,True,True,True
+1272,1272,470302.0,ק.תורנית טכ בית שלמה,רחובות,True,True,True,True,True,True
+1273,1273,470377.0,נריה,יבנה,True,True,True,True,True,True
+1274,1274,470443.0,רמות ים,מכמורת,True,True,True,True,True,True
+1275,1275,470526.0,תיכון טכנולוגי נעמת,הוד השרון,True,True,True,True,True,True
+1276,1276,470534.0,תיכון טכנולוגי נעמת,פתח תקווה,True,True,True,True,True,True
+1277,1277,470542.0,תיכון טכנולוגי נעמת,ראשון לציון,True,True,True,True,True,True
+1278,1278,470583.0,שלהבת,פתח תקווה,True,True,True,True,True,True
+1279,1279,470591.0,"רב תחומי עמל ב' פ""ת",פתח תקווה,True,True,True,True,True,True
+1280,1280,470625.0,מקיף חוף השרון,שפיים,True,True,True,True,True,True
+1281,1281,470641.0,תיכון טכנולוגי נעמת,לוד,True,True,True,True,True,True
+1282,1282,470815.0,שתילים ירושלים,ירושלים,True,False,False,True,True,False
+1283,1283,470849.0,תיכון טכנולוגי נעמת,רחובות,True,True,True,True,True,True
+1284,1284,470963.0,מקיף אורן-גינזבורג,יבנה,True,True,True,True,True,True
+1285,1285,471011.0,"מקיף אורט ע""ש גוטמן",נתניה,True,True,True,True,True,True
+1286,1286,471029.0,מכללת הרמלין להנדסה,נתניה,True,True,False,False,True,True
+1287,1287,471037.0,אורט התעשיה האווירית,לוד,True,True,False,False,True,True
+1288,1288,471045.0,"אורט ח""א תל נוף",מחנה תל נוף,True,True,False,False,True,True
+1289,1289,471995.0,חכמי לב,ירושלים,True,True,True,True,True,True
+1290,1290,472332.0,"בי""ס נזירות סליזיאן",נצרת,True,True,True,True,True,True
+1291,1291,472555.0,"אמי""ת מנורת המאור פ""ת",פתח תקווה,True,True,True,True,True,True
+1292,1292,473017.0,אולפנת טהר,יד בנימין,True,True,True,True,True,True
+1293,1293,473991.0,ארפאד,טייבה,True,False,False,True,False,False
+1294,1294,474460.0,רון ארד,רחובות,True,True,False,True,True,True
+1295,1295,475848.0,עלה,בני ברק,True,False,False,False,True,False
+1296,1296,476325.0,"בי""ס בינלאומי למזרח ים תיכון",רמת השרון,True,True,False,True,True,True
+1297,1297,476549.0,בית ספר תיכון רוואד,ירושלים,True,True,False,True,True,True
+1298,1298,476796.0,אליה,ביתר עילית,True,True,False,True,True,True
+1299,1299,476903.0,ישיבת מתיבתא,בית שמש,True,True,True,True,True,True
+1300,1300,477091.0,ישיבת בית אשר,ירושלים,True,True,False,True,True,True
+1301,1301,477166.0,"מקיף אלמג'ד ע""ש השיח",שגב-שלום,True,True,True,True,True,True
+1302,1302,477901.0,מקיף בית חנינה לבנות,ירושלים,True,True,False,True,True,True
+1303,1303,478016.0,רב תחומי עמל טייבה,טייבה,True,True,True,True,True,True
+1304,1304,478768.0,תורת אמך,בית שמש,True,True,False,True,True,True
+1305,1305,478784.0,בדרך אימותינו,ביתר עילית,True,True,False,True,True,True
+1306,1306,478875.0,סמינר לפידות,ירושלים,True,True,True,True,True,True
+1307,1307,479055.0,סטודיו אנקורי,תל אביב - יפו,True,False,False,True,True,True
+1308,1308,479428.0,"חט""ב עתיד",כפר יונה,True,False,False,False,False,False
+1309,1309,480004.0,שפרירים א,גבעת חיים (איחוד),True,False,False,True,True,False
+1310,1310,480012.0,"אמי""ת כפר בתיה",רעננה,True,True,True,True,True,True
+1311,1311,480020.0,"אמי""ת פתח-תקוה",פתח תקווה,True,True,True,True,True,True
+1312,1312,480038.0,גן ונוף,פתח תקווה,True,True,True,True,True,True
+1313,1313,480046.0,קרית חינוך בן גוריון,מדרשת רופין,True,True,True,True,True,True
+1314,1314,480061.0,חקלאי עיינות,עיינות,True,True,True,True,True,True
+1315,1315,480087.0,חקלאי נחלת יהודה,ראשון לציון,True,True,True,True,True,True
+1316,1316,480095.0,מקיף דרומי חדש,סתריה,True,True,True,True,True,True
+1317,1317,480103.0,"חט""ב אילן רמון",כפר סבא,True,False,False,False,False,False
+1318,1318,480129.0,בן-יקיר,"כפר הרא""ה",True,True,True,True,True,True
+1319,1319,480145.0,חקלאי בן שמן,בן שמן (כפר נוער),True,True,True,True,True,True
+1320,1320,480178.0,"מקיף ע""ש ז'בוטינסקי",באר יעקב,True,True,True,True,True,True
+1321,1321,480194.0,"מקיף י""ג",ראשון לציון,True,True,False,False,True,True
+1322,1322,482034.0,שירת הלב,כפר יעבץ,True,False,False,True,True,False
+1323,1323,482059.0,"בי""ס תיכון אורנית",אורנית,True,True,False,True,True,True
+1324,1324,482125.0,שש שנתי שיבולים,נס ציונה,True,True,False,True,True,True
+1325,1325,482166.0,אולפנה תורנית,ברכה,True,True,False,False,True,True
+1326,1326,482257.0,שש-שנתי תיכון גבעת שמואל,גבעת שמואל,True,True,False,False,True,True
+1327,1327,482265.0,חטיבה 3,ברוכין,True,True,False,False,False,True
+1328,1328,482307.0,"תיכון חב""ד בנות",רחובות,True,True,False,True,True,True
+1329,1329,482356.0,השקמים,הוד השרון,True,False,False,False,False,False
+1330,1330,482398.0,"חנ""מ",רמלה,True,False,False,False,True,False
+1331,1331,482414.0,חיים גורי,נתניה,True,False,False,False,False,False
+1332,1332,482430.0,עלי זהב,עלי זהב,True,False,False,False,False,False
+1333,1333,482489.0,"ממ""ד עמנואל",לוד,True,False,False,False,True,False
+1334,1334,484006.0,תיכון חורב רעננה,רעננה,True,True,True,True,True,True
+1335,1335,490037.0,עירוני משה שרת,נתניה,True,True,True,True,True,True
+1336,1336,490052.0,"עירוני ע""ש בן גוריון",פתח תקווה,True,True,True,True,True,True
+1337,1337,499590.0,באר החיים,מודיעין עילית,True,True,False,True,True,True
+1338,1338,499624.0,"עכו מח""ט )מרכז חינוך",עכו,True,True,True,True,True,True
+1339,1339,499681.0,"תיכון ע""ש גולדה",נס ציונה,True,True,True,True,True,True
+1340,1340,499699.0,תיכון דמוקרטי ק.אונו,קרית אונו,True,True,True,True,True,True
+1341,1341,499756.0,חמדת התורה,בית שמש,True,False,False,True,True,False
+1342,1342,499772.0,מוהרן,בני ברק,True,True,False,True,True,True
+1343,1343,499806.0,נחלת ישראל,מגדל העמק,True,True,True,True,True,True
+1344,1344,499814.0,תפארת ברוך,ירושלים,True,True,False,True,True,True
+1345,1345,499848.0,תפארת חיה,קרית גת,True,True,True,True,True,True
+1346,1346,499863.0,קול יעקב,נתיבות,True,True,False,True,True,True
+1347,1347,499939.0,לומדי אברהם,ביתר עילית,True,True,False,True,True,True
+1348,1348,499988.0,ישיבת ברסלב לצעירים-,מודיעין עילית,True,True,False,True,True,True
+1349,1349,503631.0,מרכז רפואי רעות,תל אביב - יפו,True,False,False,False,True,False
+1350,1350,508093.0,ברנקו וייס אור יהודה,אור יהודה,True,True,True,True,True,True
+1351,1351,508101.0,אור מנחם,אור יהודה,True,True,True,True,True,True
+1352,1352,508275.0,תבונה ודעת,קרית גת,True,True,False,True,True,True
+1353,1353,508283.0,בית ספר תיכון מדל אי,ירושלים,True,True,False,False,True,True
+1354,1354,508424.0,אולפנת הללי לאמנות,בית רבן,True,True,True,True,True,True
+1355,1355,510008.0,בית אקשטיין אור יהוד,אור יהודה,True,False,False,True,True,False
+1356,1356,512491.0,בנימין רוטמן כדורי,כדורי,True,False,False,True,True,False
+1357,1357,515486.0,שתילים רכים,בני ברק,True,False,False,False,True,False
+1358,1358,515502.0,"תיכונ""ט ע""ש אלתרמן",תל אביב - יפו,True,True,True,True,True,True
+1359,1359,518043.0,טביטה הכנסיה הסקוטית,תל אביב - יפו,True,False,False,True,True,True
+1360,1360,519090.0,מחט ערערה בנגב,ערערה-בנגב,True,True,False,True,True,True
+1361,1361,519108.0,"מח""ט עמל רמלה",רמלה,True,True,True,True,True,True
+1362,1362,519116.0,עמל זיו רחובות,רחובות,True,True,False,True,True,True
+1363,1363,519124.0,עמל תנופה דימונה,דימונה,True,True,False,True,True,True
+1364,1364,519223.0,זיו אור,כרמיאל,True,True,True,True,True,True
+1365,1365,519314.0,"מח""ט עמל רהט",רהט,True,True,False,True,True,True
+1366,1366,519363.0,עתיד ירכא,ירכא,True,True,False,True,True,True
+1367,1367,519405.0,ישיבת דרכי דוד,בני ברק,True,True,False,True,True,True
+1368,1368,519546.0,ישיבת בית שלמה,יבנאל,True,True,False,True,True,True
+1369,1369,519579.0,ישיבה לצעירים מאור י,רכסים,True,True,False,True,True,True
+1370,1370,519595.0,ישיבת מאורות התורה,אשדוד,True,True,False,True,True,True
+1371,1371,519603.0,ישיבת ארחות משה,בית שמש,True,True,False,True,True,True
+1372,1372,519637.0,ישיבת קול יעקב לצעיר,ביתר עילית,True,True,False,True,True,True
+1373,1373,519660.0,ישיבה לצעירים ק. שמו,חיפה,True,True,False,True,True,True
+1374,1374,519702.0,היכל אברהם,ביתר עילית,True,True,False,True,True,True
+1375,1375,519736.0,עטרת יוסף שלום,מודיעין עילית,True,True,False,True,True,True
+1376,1376,519900.0,ישיבת סקווירא,ירושלים,True,True,False,True,True,True
+1377,1377,519918.0,מבקשי תורה,בית שמש,True,True,False,True,True,True
+1378,1378,519926.0,היכל משה,בית שמש,True,True,False,True,True,True
+1379,1379,519959.0,ישיבת עטרת מתתיהו,נתניה,True,True,False,True,True,True
+1380,1380,520007.0,"עירוני מ""ב",תל אביב - יפו,True,False,False,False,False,False
+1381,1381,520023.0,מסילות,בת ים,True,False,False,True,False,False
+1382,1382,520056.0,אופק,הרצליה,True,False,False,True,True,False
+1383,1383,520072.0,עמל,חולון,True,False,False,True,True,False
+1384,1384,520098.0,"ממ""ד לבנים",הרצליה,True,True,True,True,True,True
+1385,1385,520130.0,הצרי,תל אביב - יפו,True,False,False,True,True,False
+1386,1386,520148.0,צוהר לטהר,ביתר עילית,True,False,False,True,True,False
+1387,1387,520155.0,ישיבת הדרת מנחם,ביתר עילית,True,False,False,True,True,False
+1388,1388,520171.0,אנוך,תל אביב - יפו,True,False,False,True,True,False
+1389,1389,520205.0,ברושים,תל אביב - יפו,True,False,False,True,True,False
+1390,1390,520221.0,ניב לחרשים,תל אביב - יפו,True,False,False,True,True,False
+1391,1391,520262.0,"בי""ס בית אקשטיין",גבעתיים,True,False,False,True,True,False
+1392,1392,520270.0,אלמנארה,ירושלים,True,False,False,True,True,False
+1393,1393,520288.0,עירוני נווה צדק,תל אביב - יפו,True,False,False,True,True,False
+1394,1394,520296.0,אורחות חיים,בני ברק,True,False,False,True,True,False
+1395,1395,520304.0,בכרייה אלוין ב',ירושלים,True,False,False,True,True,False
+1396,1396,520346.0,"בי""ס ללקויות למידה",נצרת,True,False,False,True,True,False
+1397,1397,520353.0,"בי""ס ללקויות למידה",טמרה,True,False,False,True,True,False
+1398,1398,520387.0,און,תל אביב - יפו,True,False,False,True,True,False
+1399,1399,520395.0,דנה,תל אביב - יפו,True,False,False,False,True,False
+1400,1400,520411.0,דרכי איש אוהל אשר,בית שמש,True,False,False,True,True,False
+1401,1401,520502.0,עוז,חולון,True,False,False,True,True,False
+1402,1402,520585.0,שחף,בת ים,True,False,False,True,True,False
+1403,1403,520593.0,עציון מד,בני ברק,True,False,False,True,True,False
+1404,1404,520601.0,"מרכז חינוכי ע""ש ויצמן",רמת גן,True,False,False,False,True,False
+1405,1405,520619.0,יעד עמלני,בת ים,True,False,False,True,True,False
+1406,1406,520627.0,עש-הרצפלד,חולון,True,False,False,True,True,False
+1407,1407,520635.0,נתיב,תל אביב - יפו,True,False,False,True,True,False
+1408,1408,520676.0,"תיכון באר עמ""י",באר טוביה,True,True,True,True,True,True
+1409,1409,520767.0,דרכי חינוך,בני ברק,True,False,False,True,True,False
+1410,1410,520858.0,"מרכז שיקום נוער ת""א",תל אביב - יפו,True,False,False,True,True,False
+1411,1411,520874.0,עלה,בני ברק,True,False,False,True,True,False
+1412,1412,520890.0,גיל,תל אביב - יפו,True,False,False,True,True,False
+1413,1413,521112.0,בני יששכר,חדרה,True,True,False,True,True,True
+1414,1414,521203.0,מעוף,פתח תקווה,True,False,False,True,True,False
+1415,1415,521237.0,קיהילתי למצויינות בית ברל,בית ברל,True,True,True,True,True,True
+1416,1416,521427.0,עתיד טכנולוגי דלית אל כרמל,דאלית אל-כרמל,True,True,False,True,True,True
+1417,1417,521476.0,"אולפנת בנ""ע שירת הים",חלמיש,True,True,True,True,True,True
+1418,1418,521898.0,המרכז לעיצוב ולטכנול,אריאל,True,True,False,False,True,True
+1419,1419,522235.0,נחלת ירושלים,ירושלים,True,True,False,True,True,True
+1420,1420,522367.0,אלאהליה אלשאמלה קלנס,קלנסווה,True,True,True,True,True,True
+1421,1421,522482.0,אלמג'ד,ירושלים,True,False,False,True,True,False
+1422,1422,523431.0,שבילי התורה,ירושלים,True,False,False,True,True,False
+1423,1423,524157.0,יהוידע,גן יבנה,True,True,True,True,True,True
+1424,1424,525089.0,אהל שרה מרכז שלמה,בני ברק,True,False,False,True,True,False
+1425,1425,525113.0,אהל שרה בית חנוך בנו,בני ברק,True,False,False,True,True,False
+1426,1426,525915.0,ונצואלה,תל אביב - יפו,True,False,False,True,True,False
+1427,1427,525923.0,תיכונית רעים,חולון,True,False,False,True,True,False
+1428,1428,526889.0,בית אקשטיין רמת גן,רמת גן,True,False,False,True,True,False
+1429,1429,526921.0,שחר,בת ים,True,False,False,False,False,False
+1430,1430,526970.0,אפיק,פתח תקווה,True,False,False,True,True,False
+1431,1431,530287.0,מפתן אלון,תל אביב - יפו,True,True,False,True,True,True
+1432,1432,530683.0,מפתן הרצליה,הרצליה,True,True,False,True,True,True
+1433,1433,530741.0,בית שי,בני ברק,True,False,False,True,True,False
+1434,1434,533208.0,"מרכז נוער ע""ש מצקין",תל אביב - יפו,True,True,True,True,True,True
+1435,1435,540021.0,תיכון תלמה ילין,גבעתיים,True,True,True,True,True,True
+1436,1436,540039.0,"מכללת אמי""ת תל-אביב",תל אביב - יפו,True,True,False,True,True,True
+1437,1437,540047.0,משכנות אברהם,רמת גן,True,True,False,True,True,True
+1438,1438,540062.0,גמנסיה עברית הרצליה,תל אביב - יפו,True,True,True,True,True,True
+1439,1439,540070.0,"תיכון חדש ע""ש רבין",תל אביב - יפו,True,True,True,True,True,True
+1440,1440,540088.0,עירוני י' אליאנס,תל אביב - יפו,True,True,True,True,True,True
+1441,1441,540112.0,עירוני א' לאמנויות,תל אביב - יפו,True,True,True,True,True,True
+1442,1442,540120.0,עירוני תורני ב' ג',תל אביב - יפו,True,True,True,True,True,True
+1443,1443,540138.0,מעייני הישועה,בני ברק,True,False,False,False,True,False
+1444,1444,540146.0,עירוני ד',תל אביב - יפו,True,True,True,True,True,True
+1445,1445,540153.0,עירוני ה',תל אביב - יפו,True,True,True,True,True,True
+1446,1446,540161.0,עירוני ו' מקיף,תל אביב - יפו,True,True,True,True,True,True
+1447,1447,540179.0,קרית חינוך יפו,תל אביב - יפו,True,True,True,True,True,True
+1448,1448,540187.0,תיכון ראשית עירוני ח,תל אביב - יפו,True,True,True,True,True,True
+1449,1449,540195.0,עירוני ט',תל אביב - יפו,True,True,True,True,True,True
+1450,1450,540203.0,תיכון אהל שם,רמת גן,True,True,True,True,True,True
+1451,1451,540211.0,"עירוני ע""ש בליך",רמת גן,True,True,True,True,True,True
+1452,1452,540237.0,תיכון בית יעקב,רמת גן,True,True,True,True,True,True
+1453,1453,540245.0,תורה ודעת,בני ברק,True,False,False,False,True,False
+1454,1454,540252.0,"אולפנת הרא""ה תורני מדעי",רמת גן,True,True,True,True,True,True
+1455,1455,540278.0,מקור ברוך,בני ברק,True,True,False,True,True,True
+1456,1456,540286.0,תיכון עש יצחק בן צבי,קרית אונו,True,True,True,True,True,True
+1457,1457,540294.0,עירוני עש פנחס אילון,חולון,True,True,True,True,True,True
+1458,1458,540302.0,עירוני דתי יבנה,חולון,True,True,True,True,True,True
+1459,1459,540310.0,מקיף שש שנתי קוגל,חולון,True,True,True,True,True,True
+1460,1460,540328.0,עירוני כללי הראשונים,הרצליה,True,True,True,True,True,True
+1461,1461,540344.0,"תיכון ע""ש קלעי",גבעתיים,True,True,True,True,True,True
+1462,1462,540351.0,עירוני א' חשמונאים,בת ים,True,True,True,True,True,True
+1463,1463,540369.0,בית וגן דרכא,בת ים,True,True,True,True,True,True
+1464,1464,540377.0,עירוני כללי,בני ברק,True,True,True,True,True,True
+1465,1465,540385.0,אולפנת צביה בני ברק,בני ברק,True,True,True,True,True,True
+1466,1466,540393.0,מוסדות חנוך אור חיים,בני ברק,True,True,False,True,True,True
+1467,1467,540401.0,"בית יעקב ע""ש י' וולף",בני ברק,True,True,False,True,True,True
+1468,1468,540427.0,שתילים,בני ברק,True,False,False,True,True,False
+1469,1469,540435.0,"חט""ב זלמן ארן",חולון,True,False,False,False,False,False
+1470,1470,540443.0,גמנסיה מודיעים,רמת גן,True,True,True,True,True,True
+1471,1471,540450.0,הייטק היי,חולון,True,True,True,True,True,True
+1472,1472,540468.0,מקיף חדש,ריינה,True,True,True,True,True,True
+1473,1473,540476.0,ישיבת הרב עמיאל,תל אביב - יפו,True,True,True,True,True,True
+1474,1474,540484.0,ישיבה תכונית בר אילן,תל אביב - יפו,True,True,True,True,True,True
+1475,1475,540492.0,עירוני מקיף רמות,בת ים,True,True,True,True,True,True
+1476,1476,540500.0,"ע""ש יצחק נבון מודיעין",מודיעין-מכבים-רעות,True,True,False,True,True,True
+1477,1477,540518.0,עירוני יא',תל אביב - יפו,True,True,True,True,True,True
+1478,1478,540526.0,ישיבת בית מדרש עליון,בני ברק,True,True,False,True,True,True
+1479,1479,540534.0,תיכון מקיף רמת גן,רמת גן,True,True,True,True,True,True
+1480,1480,540542.0,אולפנית הדר גנים,פתח תקווה,True,True,False,False,True,True
+1481,1481,540567.0,ראס אל עמוד לבנים,ירושלים,True,True,False,True,True,True
+1482,1482,540591.0,תיכון שמעון בן צבי,גבעתיים,True,True,True,True,True,True
+1483,1483,540609.0,ישיבת סלבודקה כנסת י,בני ברק,True,True,False,True,True,True
+1484,1484,540617.0,"חט""ב מוקייבלה",מוקייבלה,True,False,False,False,False,False
+1485,1485,540625.0,שועפט בנים,ירושלים,True,True,False,False,False,True
+1486,1486,540658.0,בית חנינא,ירושלים,True,True,False,True,True,True
+1487,1487,540674.0,"ישיבת ב""ע אדרת",בת ים,True,True,True,True,True,True
+1488,1488,540708.0,באר אברהם,בני ברק,True,True,False,True,True,True
+1489,1489,540716.0,ישיבת שמו שמעון,תל אביב - יפו,True,True,False,True,True,True
+1490,1490,540807.0,אנקורי,תל אביב - יפו,True,True,True,True,True,True
+1491,1491,540849.0,ישיבה תיכונית,בני ברק,True,True,True,True,True,True
+1492,1492,540856.0,תיכון בית יעקב וזניץ,בני ברק,True,True,False,True,True,True
+1493,1493,540864.0,מקיף שש שנתי הרצוג,חולון,True,True,True,True,True,True
+1494,1494,540898.0,"אולפנית בנ""ע תל אביב",תל אביב - יפו,True,True,True,True,True,True
+1495,1495,540930.0,תיכון חסידי בית יעקב,בני ברק,True,True,False,True,True,True
+1496,1496,540963.0,ישיבת אמרי אמת,בני ברק,True,True,False,True,True,True
+1497,1497,540971.0,ישיבת בית ישראל,בני ברק,True,True,False,True,True,True
+1498,1498,540989.0,מוסדות חסידי בעלזא,בני ברק,True,True,False,True,True,True
+1499,1499,541037.0,בן גוריון,הרצליה,True,False,False,False,False,False
+1500,1500,541045.0,"מקיף ע""ש יגאל אלון",רמת השרון,True,True,True,True,True,True
+1501,1501,541052.0,ישיבת קרלין סטולין,בני ברק,True,True,True,True,True,True
+1502,1502,541060.0,תיכון בית מלכה,בני ברק,True,True,False,True,True,True
+1503,1503,541086.0,ישיבת בית מאיר,בני ברק,True,True,False,True,True,True
+1504,1504,541094.0,נזר שראל,ראשון לציון,True,True,False,True,True,True
+1505,1505,541102.0,ישיבת אור גאון,בני ברק,True,True,False,True,True,True
+1506,1506,541110.0,מקיף שש שנתי ק. שרת,חולון,True,True,True,True,True,True
+1507,1507,541128.0,מרכז מוסדות נדבורנה,בני ברק,True,True,False,True,True,True
+1508,1508,541144.0,קנייני התורה,בני ברק,True,True,False,True,True,True
+1509,1509,541151.0,ישיבת ויזניץ,בני ברק,True,True,False,True,True,True
+1510,1510,541169.0,מקיף היובל,הרצליה,True,True,True,True,True,True
+1511,1511,541177.0,ישיבת מגן הילד,בני ברק,True,True,False,True,True,True
+1512,1512,541185.0,ישיבת תפארת משה,בני ברק,True,True,False,True,True,True
+1513,1513,541201.0,ישיבת חזון נחום,בני ברק,True,True,False,True,True,True
+1514,1514,541219.0,ישיבת מאור ישראל,בני ברק,True,True,False,True,True,True
+1515,1515,541235.0,בית יעקב חסידי,בני ברק,True,True,False,True,True,True
+1516,1516,541243.0,ישיבת ברכת אפרים,בני ברק,True,True,False,True,True,True
+1517,1517,541268.0,תיכון אלון,רמת גן,True,True,True,True,True,True
+1518,1518,541284.0,ישיבת גאון צבי,בני ברק,True,True,False,True,True,True
+1519,1519,541334.0,ישיבת תפארת-מרדכי,בני ברק,True,True,False,True,True,True
+1520,1520,541367.0,מקיף לאורו נלך,בני ברק,True,True,True,True,True,True
+1521,1521,541391.0,ישיבת זכרון דוד,בני ברק,True,True,False,True,True,True
+1522,1522,541409.0,חכמת שלמה,בני ברק,True,True,False,True,True,True
+1523,1523,541441.0,ישיבה קטנה למצויינים,בני ברק,True,True,False,True,True,True
+1524,1524,541458.0,ישיבת כנסת יששכר,בני ברק,True,True,False,True,True,True
+1525,1525,541466.0,שירת חנה,תל אביב - יפו,True,True,True,True,True,True
+1526,1526,541474.0,סמינר הרב מאיר,בני ברק,True,True,False,True,True,True
+1527,1527,541482.0,סמינר לבנות אלקיים,בני ברק,True,True,False,True,True,True
+1528,1528,541490.0,סמינר תהילה,בני ברק,True,True,False,True,True,True
+1529,1529,541508.0,סמינר הרב כהנא,בני ברק,True,True,False,True,True,True
+1530,1530,541532.0,תיכון טומשין חולון,חולון,True,True,True,True,True,True
+1531,1531,541540.0,ישיבת בית רבי שמעיה,בני ברק,True,True,False,True,True,True
+1532,1532,541565.0,ישיבת בית מנחם,בני ברק,True,True,False,True,True,True
+1533,1533,541573.0,ישיבת משכנות הרועים,בני ברק,True,True,False,True,True,True
+1534,1534,541581.0,הפתוח הדמוקרטי,תל אביב - יפו,True,True,True,True,True,True
+1535,1535,541599.0,שיח יצחק,בני ברק,True,True,False,True,True,True
+1536,1536,541623.0,ישיבת קול יהודה,בני ברק,True,True,False,True,True,True
+1537,1537,541631.0,ישיבת חסידי דאראג,בני ברק,True,True,False,True,True,True
+1538,1538,541656.0,אור חנה,אור יהודה,True,True,True,True,True,True
+1539,1539,541672.0,ישיבה לצעירים,בני ברק,True,True,False,True,True,True
+1540,1540,541680.0,סמינר עטרת רחל,בני ברק,True,True,True,True,True,True
+1541,1541,541722.0,ישיבת משכן התורה,בני ברק,True,True,False,True,True,True
+1542,1542,541748.0,ישיבת אורחות תורה,בני ברק,True,True,False,True,True,True
+1543,1543,541771.0,אור אברהם,בני ברק,True,True,False,True,True,True
+1544,1544,541789.0,אהל חנה,קרית אונו,True,True,True,True,True,True
+1545,1545,541805.0,מרום,רמת השרון,True,True,True,True,True,True
+1546,1546,541839.0,שער שמעון,תל אביב - יפו,True,True,True,True,True,True
+1547,1547,541847.0,ישיבת חזון נחום,בני ברק,True,True,False,True,True,True
+1548,1548,541854.0,ישיבת חזון נחום,בני ברק,True,True,False,True,True,True
+1549,1549,541862.0,מ.חינוך בית וינשטיין,בני ברק,True,True,True,True,True,True
+1550,1550,541896.0,ישיבת פוניבז',בני ברק,True,True,False,True,True,True
+1551,1551,541912.0,מוסדות תורה ושלום,בני ברק,True,True,False,True,True,True
+1552,1552,541920.0,בית דוד,חולון,True,True,True,True,True,True
+1553,1553,541979.0,תיכון יעדים,אור יהודה,True,True,True,True,True,True
+1554,1554,541987.0,ישיבת חכמי לובלין,בני ברק,True,True,False,True,True,True
+1555,1555,542019.0,בני ציון,בת ים,True,True,False,True,True,True
+1556,1556,542027.0,תיכון בית יעקב,אור יהודה,True,True,True,True,True,True
+1557,1557,542035.0,"מוזות-בי""ס תיכון לאומניות",תל אביב - יפו,True,True,True,True,True,True
+1558,1558,542050.0,חכמת שלמה דבאבוב,בני ברק,True,True,False,True,True,True
+1559,1559,542076.0,תיכון ז'קלין כהנוב,בת ים,True,True,True,True,True,True
+1560,1560,542084.0,ישיבת דברי מרדכי,בני ברק,True,True,False,True,True,True
+1561,1561,542092.0,ריימונד לאוואן,מקווה ישראל,True,True,True,True,True,True
+1562,1562,542282.0,חטב שזר,קרית אונו,True,False,False,False,False,False
+1563,1563,544031.0,ישיבת הישוב החדש,תל אביב - יפו,True,False,False,False,False,False
+1564,1564,544056.0,"ממ""ד לטכנולוגיה ולאומנויות",תל אביב - יפו,True,False,False,True,True,False
+1565,1565,544072.0,חטב עלומים,רמת השרון,True,False,False,False,False,False
+1566,1566,544080.0,"חט""ב ע""ש קלמן",רמת השרון,True,False,False,False,False,False
+1567,1567,544122.0,יד-גיורא,הרצליה,True,False,False,False,False,False
+1568,1568,544130.0,שמואל הנגיד,הרצליה,True,False,False,False,False,False
+1569,1569,544148.0,רעות,הרצליה,True,False,False,False,False,False
+1570,1570,544155.0,"חט""ב בן צבי",קרית אונו,True,False,False,False,False,False
+1571,1571,544163.0,"חט""ב גורדון",תל אביב - יפו,True,False,False,False,False,False
+1572,1572,544171.0,זאב זבוטינסקי,הרצליה,True,False,False,False,False,False
+1573,1573,544189.0,ישיבת נתיבות חיים,בני ברק,True,True,False,True,True,True
+1574,1574,544197.0,ישיבת משך חוכמה,בני ברק,True,True,False,True,True,True
+1575,1575,544205.0,ישיבת זכרון סיני,בני ברק,True,True,False,True,True,True
+1576,1576,544239.0,ישיבת אלכסנדר,בני ברק,True,True,False,True,True,True
+1577,1577,544247.0,ישיבת בית יוסף,בני ברק,True,True,False,True,True,True
+1578,1578,544254.0,ישיבת משכן שמעון,בני ברק,True,True,False,True,True,True
+1579,1579,544270.0,ישיבת בית שפירא,בני ברק,True,True,False,True,True,True
+1580,1580,544288.0,סמדר,הרצליה,True,False,False,False,False,False
+1581,1581,544312.0,אולפנת צביה הרצליה,הרצליה,True,True,True,True,True,True
+1582,1582,544346.0,ישיבת דרכי משה-אברהם,בני ברק,True,True,False,True,True,True
+1583,1583,544353.0,מקיף אפרים קציר,חולון,True,True,True,True,True,True
+1584,1584,544361.0,ישיבת אבשלום,בני ברק,True,True,False,True,True,True
+1585,1585,544379.0,ישיבת תפארת ציון,בני ברק,True,True,False,True,True,True
+1586,1586,544387.0,ישיבת פאר משה,פתח תקווה,True,True,False,True,True,True
+1587,1587,544395.0,עתיד רזיאל,הרצליה,True,True,True,True,True,True
+1588,1588,544478.0,נתיבות רבקה,בת ים,True,True,True,True,True,True
+1589,1589,544494.0,ישיבה תיכונית בנים,רמת גן,True,True,True,True,True,True
+1590,1590,544528.0,"מקיף ע""ש יצחק נבון",חולון,True,True,True,True,True,True
+1591,1591,544577.0,"חט""ב עירוני ב-ג בנות",תל אביב - יפו,True,False,False,False,False,False
+1592,1592,544593.0,"עתידים ע""ש מ. אלישיב",חולון,True,True,True,True,True,True
+1593,1593,544619.0,"בי""ס לאמנויות",תל אביב - יפו,True,False,False,False,False,False
+1594,1594,544627.0,ביס לטבע סביבה וחברה,תל אביב - יפו,True,False,False,False,False,False
+1595,1595,544635.0,"חט""ב ביה""ס הפתוח",תל אביב - יפו,True,False,False,False,False,False
+1596,1596,544668.0,אולפנת צביה בת ים,בת ים,True,True,True,True,True,True
+1597,1597,544676.0,"חט""ב רבין אזור",אזור,True,False,False,False,False,False
+1598,1598,544692.0,"ק.חינוך בנ""ע חולון",חולון,True,True,True,True,True,True
+1599,1599,544700.0,יחד,חולון,True,False,False,False,False,False
+1600,1600,547042.0,תיכון טרה סנטה יפו,תל אביב - יפו,True,True,True,True,True,True
+1601,1601,548016.0,עירוני יב',תל אביב - יפו,True,True,True,True,True,True
+1602,1602,548024.0,תיכון פרר,תל אביב - יפו,True,False,False,True,True,True
+1603,1603,548032.0,מרכז חינוך יפו,תל אביב - יפו,True,True,False,True,True,True
+1604,1604,548040.0,תיכון סנט מיכאל,תל אביב - יפו,True,True,True,True,True,True
+1605,1605,548404.0,אג'יאל,תל אביב - יפו,True,True,True,True,True,True
+1606,1606,550004.0,חלוצי דרור,בני נצרים,True,True,True,True,True,True
+1607,1607,560045.0,סמינר בית יעקב החדש,בני ברק,True,True,True,True,True,True
+1608,1608,560094.0,תיכון תל אביב,תל אביב - יפו,True,True,True,True,True,True
+1609,1609,560102.0,ישיבת קול רפאל,בת ים,True,True,False,True,True,True
+1610,1610,560110.0,קהילה,תל אביב - יפו,True,True,False,True,True,True
+1611,1611,560136.0,זומר,רמת גן,True,True,True,True,True,True
+1612,1612,560169.0,דרכי שלמה,בני ברק,True,True,False,True,True,True
+1613,1613,560177.0,בס תכון אבו טור בנות,ירושלים,True,True,False,True,True,True
+1614,1614,560219.0,סמינר גור בית שמש,בית שמש,True,True,False,True,True,True
+1615,1615,560227.0,ישיבת רכסים הקטנה,ירושלים,True,True,False,True,True,True
+1616,1616,560250.0,אור משה,בית שמש,True,True,False,True,True,True
+1617,1617,560268.0,סמינר ב.יעקב תל ציון,כוכב יעקב,True,True,True,True,True,True
+1618,1618,560300.0,בית יעקב דרכי רחל,ביתר עילית,True,True,False,True,True,True
+1619,1619,560318.0,תורת הנחל,בית שמש,True,True,False,True,True,True
+1620,1620,560342.0,סמינר תורני בית יעקב,בני ברק,True,True,True,True,True,True
+1621,1621,560359.0,סמינר ב.יעקב אור שרה,בית שמש,True,True,False,True,True,True
+1622,1622,560383.0,"ב""ס יסודי סווא רבינא",ירושלים,True,False,False,True,True,True
+1623,1623,560391.0,על יסודי בנים יד משה,בית שמש,True,True,False,True,True,True
+1624,1624,560433.0,שערי תלמוד,ביתר עילית,True,True,False,True,True,True
+1625,1625,560441.0,חדוות התורה-ישיבת אמ,ירושלים,True,True,True,True,True,True
+1626,1626,560482.0,תיכון אלמעאלי,כפר כנא,True,True,True,True,True,True
+1627,1627,560490.0,משכן התלמוד,מודיעין עילית,True,True,False,True,True,True
+1628,1628,560508.0,אולפנת אוריה,אלון שבות,True,True,True,True,True,True
+1629,1629,560516.0,אולפנת צביה תאיר בית אל,בית אל,True,True,True,True,True,True
+1630,1630,560524.0,ישיבת דרך אמונה,תירוש,True,True,True,True,True,True
+1631,1631,560532.0,לדעת חכמה,אלעד,True,True,False,True,True,True
+1632,1632,560557.0,ישיבת כנסת מרדכי,מודיעין עילית,True,True,False,True,True,True
+1633,1633,560565.0,שבילי דעת,ביתר עילית,True,True,True,True,True,True
+1634,1634,560573.0,בית עזריה,בני ברק,True,True,False,True,True,True
+1635,1635,560581.0,סמינר חסידי ירושלים,ירושלים,True,True,False,True,True,True
+1636,1636,560607.0,ישיבת חמד,בני ברק,True,True,False,True,True,True
+1637,1637,560664.0,מוסדות שפע חיים צאנז,בני ברק,True,True,False,True,True,True
+1638,1638,560680.0,אורות התלמוד,ביתר עילית,True,True,False,True,True,True
+1639,1639,560706.0,ישיבת תורת שלמה י-ם,ירושלים,True,True,False,True,True,True
+1640,1640,560722.0,על יסודי רב נתיבי,ירושלים,True,True,False,True,True,True
+1641,1641,566893.0,מרים ילן שטקליס,נתניה,True,False,False,False,False,False
+1642,1642,566901.0,נתן אלתרמן,נתניה,True,False,False,False,False,False
+1643,1643,566943.0,התנהגותי,חולון,True,False,False,False,True,False
+1644,1644,570036.0,"עמל ליידי דייויס ת""א",תל אביב - יפו,True,True,True,True,True,True
+1645,1645,570044.0,רב תחומי עמל הולץ חיל האויר,תל אביב - יפו,True,True,True,True,True,True
+1646,1646,570051.0,"עמל שבח מופת ת""א",תל אביב - יפו,True,True,True,True,True,True
+1647,1647,570069.0,"מח""ט יא",תל אביב - יפו,True,True,True,True,True,True
+1648,1648,570077.0,אורט יד סינגאלובסקי,תל אביב - יפו,True,True,True,True,True,True
+1649,1649,570085.0,בית חינוך קהילתי אורט גאולה,תל אביב - יפו,True,True,True,True,True,True
+1650,1650,570135.0,"אורט ע""ש אבין",רמת גן,True,True,True,True,True,True
+1651,1651,570168.0,מקיף אורט למדע וטכנו,חולון,True,True,True,True,True,True
+1652,1652,570176.0,אורט דתי לבנות,בני ברק,True,True,True,True,True,True
+1653,1653,570192.0,התיכון העירוני החדש,הרצליה,True,True,True,True,True,True
+1654,1654,570200.0,אורט טכניקום גבעתיים,גבעתיים,True,True,True,True,True,True
+1655,1655,570259.0,יובלים,אור יהודה,True,True,True,True,True,True
+1656,1656,570358.0,הנדסאים הרצליה,הרצליה,True,True,True,True,True,True
+1657,1657,570580.0,ישיבת אור משה,תל אביב - יפו,True,True,False,True,True,True
+1658,1658,570606.0,בית יעקב,תל אביב - יפו,True,True,True,True,True,True
+1659,1659,570705.0,תיכון טכנולוגי נעמת,תל אביב - יפו,True,True,True,True,True,True
+1660,1660,570713.0,אורט מלטון,בת ים,True,True,True,True,True,True
+1661,1661,570945.0,תיכון טכנולוגי נעמת,חולון,True,True,True,True,True,True
+1662,1662,571109.0,"אמי""ת גוש דן",רמת גן,True,True,True,True,True,True
+1663,1663,571125.0,"מרכז נער ע""ש טננבאום",הרצליה,True,True,True,True,True,True
+1664,1664,571141.0,מיתרים,חולון,True,False,False,True,True,False
+1665,1665,571158.0,תיכון המר דרכא,בת ים,True,True,True,True,True,True
+1666,1666,571174.0,אורט רמת יוסף,בת ים,True,True,True,True,True,True
+1667,1667,571224.0,תיכון חדש דרכא,בת ים,True,True,True,True,True,True
+1668,1668,571281.0,מכללת אורט סיגלובסקי,תל אביב - יפו,True,True,False,False,True,True
+1669,1669,573006.0,חטיבת בניים חדשה,קרית אונו,True,False,False,False,False,False
+1670,1670,573105.0,"יאפא אלמוסתקבל ל""ג",תל אביב - יפו,True,True,False,True,True,True
+1671,1671,575001.0,מכללה טכנולוגית שפרעם,שפרעם,True,True,True,True,True,True
+1672,1672,579490.0,"כפר הנוער אמי""ת",פתח תקווה,True,False,False,False,True,False
+1673,1673,580019.0,חקלאי הכפר הירוק,רמת השרון,True,True,True,True,True,True
+1674,1674,580027.0,מקוה ישראל דתי,מקווה ישראל,True,True,True,True,True,True
+1675,1675,580035.0,מקוה ישראל כללי,מקווה ישראל,True,True,True,True,True,True
+1676,1676,585851.0,"מח""ט אורט מרום עכו",עכו,True,True,False,True,True,True
+1677,1677,590349.0,"ישיבת חידושי הרי""מ",תל אביב - יפו,True,True,False,True,True,True
+1678,1678,603555.0,מרכז לחן,זיתן,True,True,True,True,False,True
+1679,1679,610006.0,טומשין אלמתנבי כסייפה,כסיפה,True,True,True,True,True,True
+1680,1680,610170.0,ישיבה תיכונית אילת,אילת,True,True,True,True,True,True
+1681,1681,610287.0,אוטיסטים,חורה,True,False,False,True,True,False
+1682,1682,610360.0,"בי""ס חנ""מ נווה מדבר",אבו קרינאת (יישוב),True,False,False,True,True,False
+1683,1683,611475.0,תיכון כפר אדומים,כפר אדומים,True,True,True,True,True,True
+1684,1684,611483.0,"מח""ט עמל מקס פיין",תל אביב - יפו,True,True,False,True,True,True
+1685,1685,614321.0,עמל אחוה דימונה,דימונה,True,True,True,True,True,True
+1686,1686,615344.0,שירת ברכה,שדרות,True,True,True,True,True,True
+1687,1687,615351.0,שפתי רננות,נתיבות,True,True,True,True,True,True
+1688,1688,615369.0,ישיבה לצעירים שומריה,שומריה,True,True,True,True,True,True
+1689,1689,615773.0,חפץ חיים אהל אשר-אופ,אופקים,True,False,False,True,True,False
+1690,1690,615948.0,ישיבת מקור חיים,ירושלים,True,True,True,True,True,True
+1691,1691,618686.0,לחינוך מיוחד - חדש,חורה,True,False,False,True,True,False
+1692,1692,620005.0,מקיף חדש רובע יז,אשדוד,True,True,False,True,True,True
+1693,1693,620013.0,מעיין שרה,אשקלון,True,False,False,True,True,False
+1694,1694,620047.0,מגן,באר שבע,True,False,False,True,True,False
+1695,1695,620054.0,יסודות,באר שבע,True,False,False,True,True,False
+1696,1696,620062.0,מוריה,אשקלון,True,False,False,True,True,False
+1697,1697,620088.0,"אור לנוער חב""ד",קרית מלאכי,True,False,False,True,True,False
+1698,1698,620104.0,"שחר-ע'ש קלור ז""ל",באר שבע,True,False,False,True,True,False
+1699,1699,620112.0,איתן,אשקלון,True,False,False,True,True,False
+1700,1700,620146.0,אפיקים בנגב,קוממיות,True,False,False,True,True,False
+1701,1701,620153.0,מעלות,אשדוד,True,False,False,True,True,False
+1702,1702,620187.0,גלים,אשדוד,True,False,False,True,True,False
+1703,1703,620211.0,צבר,דימונה,True,False,False,True,True,False
+1704,1704,620229.0,תפנית,בית שמש,True,False,False,True,True,False
+1705,1705,620252.0,גוונים,אשדוד,True,False,False,False,True,False
+1706,1706,620278.0,שבילים,גבעת זאב,True,False,False,True,True,False
+1707,1707,620302.0,אלבסמאת,ירושלים,True,False,False,False,True,False
+1708,1708,620328.0,מגן הלב אשדוד,אשדוד,True,False,False,True,True,False
+1709,1709,620336.0,גשר,באר שבע,True,False,False,False,True,False
+1710,1710,620344.0,הדר,שדרות,True,False,False,True,True,False
+1711,1711,620351.0,שקד,אשקלון,True,False,False,False,True,False
+1712,1712,620369.0,מרכז שיקום אשקלון,אשקלון,True,False,False,True,True,False
+1713,1713,620377.0,אמירים,אשקלון,True,False,False,False,False,False
+1714,1714,620385.0,גוונים,קרית שמונה,True,False,False,True,True,False
+1715,1715,620393.0,"ב""ח הרצוג",ירושלים,True,False,False,False,True,False
+1716,1716,620419.0,אורים,באר שבע,True,False,False,True,True,False
+1717,1717,620427.0,עלה נגב,בתי ספר של מרחבים,True,False,False,True,True,False
+1718,1718,620435.0,"בי""ס בית אקשטיין",אופקים,True,False,False,True,True,False
+1719,1719,620443.0,אמירים,ירושלים,True,False,False,False,True,False
+1720,1720,620450.0,"אלה חנ""מ",גבעת שמש,True,False,False,False,True,False
+1721,1721,620468.0,"בי""ח אסותא",אשדוד,True,False,False,False,True,False
+1722,1722,620476.0,מרכז שיקום נוער,ירושלים,True,False,False,True,True,False
+1723,1723,620526.0,ניר,אשדוד,True,False,False,True,True,False
+1724,1724,620534.0,"כיתות בי""ח סורוקה",באר שבע,True,False,False,False,True,False
+1725,1725,620559.0,רעים,באר שבע,True,False,False,False,True,False
+1726,1726,620567.0,"ת""ת דרכי יהודה",אשדוד,True,False,False,True,True,False
+1727,1727,627000.0,אל חנאן,רהט,True,False,False,True,True,False
+1728,1728,627018.0,"בי""ס לחינוך מיוחד",כסיפה,True,False,False,True,True,False
+1729,1729,627026.0,"בי""ס לחינוך מיוחד",ערערה-בנגב,True,False,False,True,True,False
+1730,1730,627034.0,"בי""ס לח. מיוחד אלאמל",רהט,True,False,False,True,True,False
+1731,1731,627042.0,יסודי ב' חינוך מיוחד,תל שבע,True,False,False,True,True,False
+1732,1732,627067.0,אפאק,תל שבע,True,False,False,True,True,False
+1733,1733,630095.0,מרכז נוער,אשקלון,True,True,True,True,True,True
+1734,1734,630160.0,מרכז נוער דתי,באר שבע,True,True,True,True,True,True
+1735,1735,630764.0,"מרכז נוער ע""ש משה קו",אשדוד,True,True,True,True,True,True
+1736,1736,630905.0,מפתן חרמון,אשדוד,True,True,False,True,True,True
+1737,1737,634113.0,מפתן בית חגי,חגי,True,True,False,True,True,True
+1738,1738,640003.0,ישיבה תיכונית חדשה,אשדוד,True,True,True,True,True,True
+1739,1739,640029.0,"ק. ח. ע""ש זאב בוים",קרית גת,True,True,True,True,True,True
+1740,1740,640037.0,עירוני א' מקיף,באר שבע,True,True,True,True,True,True
+1741,1741,640045.0,"אולפנת אמי""ת",באר שבע,True,True,True,True,True,True
+1742,1742,640052.0,מקיף עירוני גולדווטר,אילת,True,True,True,True,True,True
+1743,1743,640060.0,"אורט ע""ש ה. רונסון",אשקלון,True,True,True,True,True,True
+1744,1744,640078.0,מקיף דתי עירוני ב',אשקלון,True,True,True,True,True,True
+1745,1745,640086.0,עמל ליהמן דימונה,דימונה,True,True,True,True,True,True
+1746,1746,640102.0,"מוסדות בנ""ע אופקים",אופקים,True,True,True,True,True,True
+1747,1747,640110.0,שלהבת הדרום,דימונה,True,True,True,True,True,True
+1748,1748,640128.0,מקיף א כללי,אשדוד,True,True,True,True,True,True
+1749,1749,640136.0,"מקיף דתי ע""ש רוגוזין",אשדוד,True,True,True,True,True,True
+1750,1750,640144.0,"ב""ס חנוך מיוחד-מולדה",מולדה,True,False,False,True,True,False
+1751,1751,640151.0,"יב""ע בית יהודה",כפר מימון,True,True,True,True,True,True
+1752,1752,640169.0,דרכי משה,אשדוד,True,True,False,True,True,True
+1753,1753,640177.0,ישיבת בני עקיבא,באר שבע,True,True,True,True,True,True
+1754,1754,640185.0,ישיבת אור עציון,מרכז שפירא,True,True,True,True,True,True
+1755,1755,640193.0,עירוני ג' מקיף,באר שבע,True,True,True,True,True,True
+1756,1756,640219.0,עלה נגב מרחבים,אופקים,True,False,False,False,True,False
+1757,1757,640227.0,תיכון מקיף אורט ערד,ערד,True,True,True,True,True,True
+1758,1758,640235.0,מקיף דתי גרוס,קרית גת,True,True,True,True,True,True
+1759,1759,640243.0,עמל אפלמן דימונה,דימונה,True,True,True,True,True,True
+1760,1760,640250.0,תיכון אל סייד,אל סייד,True,True,False,True,True,True
+1761,1761,640276.0,עמל עהד חורה למצוינות,חורה,True,True,True,True,True,True
+1762,1762,640318.0,"מקיף ע""ש גוטוירט",שדרות,True,True,True,True,True,True
+1763,1763,640359.0,"אולפנת בנ""ע חן במדבר",באר שבע,True,True,True,True,True,True
+1764,1764,640367.0,תיכון בית חיה ורבקה,באר שבע,True,True,True,True,True,True
+1765,1765,640375.0,ישיבת עתניאל לצעירים,עתניאל,True,True,True,True,True,True
+1766,1766,640383.0,אולפנת קרית גת,קרית גת,True,True,True,True,True,True
+1767,1767,640391.0,אולפנת לכתך אחרי,נוה,True,True,True,True,True,True
+1768,1768,640409.0,תיכון נתיבי רחל,קרית גת,True,True,True,True,True,True
+1769,1769,640425.0,ישיבה תיכונית דרכא נתיבות,נתיבות,True,True,True,True,True,True
+1770,1770,640441.0,עומר משגב,עצמון שגב,True,False,False,True,True,False
+1771,1771,640458.0,"חט""ב מזרעה",מזרעה,True,False,False,False,False,False
+1772,1772,640466.0,אולפנת בית שאן,בית שאן,True,True,False,True,True,True
+1773,1773,640474.0,אולפנה מדעים ואמנויות,אשדוד,True,True,False,False,True,True
+1774,1774,640482.0,מקיף ד',אשדוד,True,True,True,True,True,True
+1775,1775,640490.0,"השלום ע""ש יצחק רבין",מצפה רמון,True,True,True,True,True,True
+1776,1776,640508.0,"אולפנת בנ""ע ערד",ערד,True,True,True,True,True,True
+1777,1777,640532.0,אולפנת אבן שמואל,אבן שמואל,True,True,True,True,True,True
+1778,1778,640565.0,קציר משגב,עצמון שגב,True,True,False,False,True,True
+1779,1779,640581.0,"אולפנא ע""ש הרב שאולי",אשדוד,True,True,True,True,True,True
+1780,1780,640607.0,"חט""ב אלפורעה",דריג'את,True,True,False,True,True,True
+1781,1781,640615.0,"חט""ב ב'",אבו סנאן,True,False,False,False,False,False
+1782,1782,640623.0,ישיבת בית דוד,קרית גת,True,True,True,True,True,True
+1783,1783,640631.0,מקיף דתי חבד בית חנה,קרית מלאכי,True,True,True,True,True,True
+1784,1784,640649.0,אולפנת נוה דקלים,ניצן,True,True,True,True,True,True
+1785,1785,640656.0,"מקיף ע""ש שלאון",קרית גת,True,True,True,True,True,True
+1786,1786,640664.0,בית יעקב נווה יוכבד,אופקים,True,True,True,True,True,True
+1787,1787,640672.0,מקיף ה' כללי,אשדוד,True,True,True,True,True,True
+1788,1788,640698.0,בית ישראל_אשדוד,אשדוד,True,True,False,True,True,True
+1789,1789,640714.0,ישיבת יוסף לקח,אופקים,True,True,False,True,True,True
+1790,1790,640722.0,ישיבת צמח צדיק,אשדוד,True,True,False,True,True,True
+1791,1791,640730.0,תיכון בית יעקב,ערד,True,True,False,True,True,True
+1792,1792,640748.0,"ת""ת מורשה",אשדוד,True,True,False,True,True,True
+1793,1793,640755.0,בית יעקב חסידי,אשדוד,True,True,False,True,True,True
+1794,1794,640771.0,סמינר בית יעקב החדש,באר שבע,True,True,True,True,True,True
+1795,1795,640797.0,"מקיף ""אבן רושד""",רהט,True,True,False,True,True,True
+1796,1796,640807.0,אנקורי,אשדוד,True,True,True,True,True,True
+1797,1797,640821.0,נאות שמחה,אשדוד,True,True,True,True,True,True
+1798,1798,640854.0,נחלת אפרים,דימונה,True,True,False,True,True,True
+1799,1799,640896.0,תיכון בית יעקב,אשקלון,True,True,True,True,True,True
+1800,1800,640904.0,תפארת שרה,נתיבות,True,True,True,True,True,True
+1801,1801,640938.0,מעיין חיים ושלום,אשקלון,True,True,False,True,True,True
+1802,1802,640953.0,בית מלכה,אשדוד,True,True,False,True,True,True
+1803,1803,640987.0,סמינר בית יעקב החדש,אשדוד,True,True,True,True,True,True
+1804,1804,640995.0,ישיבת תורה אור אשדוד,אשדוד,True,True,False,True,True,True
+1805,1805,641001.0,אזורי עתיד אופקים,אופקים,True,True,True,True,True,True
+1806,1806,641019.0,ישיבת מרכז תורה אור,באר שבע,True,True,False,True,True,True
+1807,1807,641050.0,אג'יאל,ערערה-בנגב,True,True,False,False,True,True
+1808,1808,641084.0,אור מרגלית,באר שבע,True,True,True,True,True,True
+1809,1809,641092.0,"בי""ס חכמת רחמים",ברכיה,True,True,False,True,True,True
+1810,1810,641118.0,ברנקו וייס באר שבע,באר שבע,True,True,True,True,True,True
+1811,1811,641142.0,גימנסיה באר שבע,באר שבע,True,True,True,True,True,True
+1812,1812,641159.0,תפארת יורם מיכאל,נתיבות,True,True,False,True,True,True
+1813,1813,641183.0,ישיבת צביה אשקלון,אשקלון,True,True,True,True,True,True
+1814,1814,641191.0,משגב האמהות,אופקים,True,True,True,True,True,True
+1815,1815,641217.0,עטרת מאיר,אשדוד,True,True,False,True,True,True
+1816,1816,641225.0,ישיבת דובר שלום,אשדוד,True,True,False,True,True,True
+1817,1817,641233.0,יש' תיכונית בלבב שלם,ירוחם,True,True,True,True,True,True
+1818,1818,641241.0,ישיבת אור מנחם,אשקלון,True,True,True,True,True,True
+1819,1819,641258.0,תיכון בנות אור חיה,אשקלון,True,True,True,True,True,True
+1820,1820,641274.0,סמינר חניכי הישיבות,אשדוד,True,True,False,True,True,True
+1821,1821,641282.0,נטעי אורה,פתח תקווה,True,True,False,True,True,True
+1822,1822,641290.0,סמינר לבנות ויזניץ,אשדוד,True,True,False,True,True,True
+1823,1823,641308.0,"ביה""ס דרכי יצחק",אשדוד,True,False,False,True,True,False
+1824,1824,641316.0,תיכון ישיבתי נרייה,בית הגדי,True,True,False,True,True,True
+1825,1825,641324.0,מדרשת קמה,ירוחם,True,True,True,True,True,True
+1826,1826,641332.0,ישיבת צביה דימונה,דימונה,True,True,True,True,True,True
+1827,1827,641357.0,ישיבה לצעירים אשדוד,אשדוד,True,True,False,True,True,True
+1828,1828,641365.0,ישיבה תיכונית נווה,נוה,True,True,True,True,True,True
+1829,1829,641373.0,מוסדות שער התורה אשדוד,אשדוד,True,True,False,True,True,True
+1830,1830,641381.0,בת מלך,בית הגדי,True,True,True,True,True,True
+1831,1831,641399.0,ישיבה תיכונית,קרית גת,True,True,True,True,True,True
+1832,1832,641407.0,אלמתנבי,ירושלים,True,True,False,False,True,True
+1833,1833,641415.0,רוואד אלקודס,ירושלים,True,True,False,False,True,True
+1834,1834,641431.0,בנימין רוטמן אשל הנשיא,אשל הנשיא,True,False,False,False,True,False
+1835,1835,641456.0,על יסודי,נחם,True,True,False,False,True,True
+1836,1836,641464.0,אבדאע לאומניות.,ירושלים,True,True,False,False,True,True
+1837,1837,641472.0,"חט""ב אלמוסרארה",עין מאהל,True,False,False,False,False,False
+1838,1838,641480.0,אולפנא לבנות שילה,שילה,True,False,False,False,True,False
+1839,1839,641498.0,ישיבה תיכונית עלי,עלי,True,False,False,False,True,False
+1840,1840,641506.0,בית חיה מושקא,מגדל העמק,True,False,False,False,False,False
+1841,1841,641514.0,עירוני ו',אשקלון,True,False,False,False,False,False
+1842,1842,641522.0,על יסודי אדם,ירושלים,True,False,False,False,True,False
+1843,1843,641530.0,ניסויי ארגנטינה,ירושלים,True,False,False,False,False,False
+1844,1844,641548.0,אולפנת בני עקיבא לכי,בני דקלים,True,False,False,False,True,False
+1845,1845,644054.0,אורים,אילת,True,False,False,True,True,False
+1846,1846,644062.0,עמל זינמן דימונה,דימונה,True,True,True,True,True,True
+1847,1847,644146.0,עלומים,אשדוד,True,False,False,True,True,False
+1848,1848,644203.0,מקיף אלנור,חורה,True,True,True,True,True,True
+1849,1849,644211.0,דקלים,באר שבע,True,False,False,True,True,False
+1850,1850,644237.0,ישיבה לצעירים גור,ערד,True,True,False,True,True,True
+1851,1851,644252.0,ישיבת צדקת יוסף,אשדוד,True,True,False,True,True,True
+1852,1852,644260.0,קרית חינוך אשדוד,אשדוד,True,True,False,True,True,True
+1853,1853,644294.0,מקיף עירוני א',אשקלון,True,True,True,True,True,True
+1854,1854,644310.0,מקיף ו',אשדוד,True,True,True,True,True,True
+1855,1855,644344.0,"תיכון חדש ע""ש רבין",קרית גת,True,True,True,True,True,True
+1856,1856,644369.0,ישיבת בית מרדכי,אשדוד,True,True,False,True,True,True
+1857,1857,644377.0,מקיף ז',אשדוד,True,True,True,True,True,True
+1858,1858,644393.0,תיכון חדש רמות,באר שבע,True,True,False,False,False,True
+1859,1859,644435.0,ישיבה תיכונית,מצפה רמון,True,True,True,True,True,True
+1860,1860,644443.0,אולפנת צביה אשקלון,אשקלון,True,True,True,True,True,True
+1861,1861,644450.0,מקיף ה דרכא,אשקלון,True,True,True,True,True,True
+1862,1862,644484.0,מקיף ח',אשדוד,True,True,True,True,True,True
+1863,1863,644492.0,"מקיף ע""ש מנחם בגין",אילת,True,True,True,True,True,True
+1864,1864,644526.0,"מקיף ע""ש יצחק רבין",באר שבע,True,True,True,True,True,True
+1865,1865,644534.0,יצחק רגר,באר שבע,True,True,True,True,True,True
+1866,1866,644542.0,מקיף דתי חדש לבנות,נתיבות,True,True,True,True,True,True
+1867,1867,644559.0,מקיף עירוני ד',אשקלון,True,True,True,True,True,True
+1868,1868,644583.0,מקיף חדש ט',אשדוד,True,True,True,True,True,True
+1869,1869,644591.0,מקיף עומר,עומר,True,True,True,True,True,True
+1870,1870,644617.0,תיכון ברנקו וייס מיתרים,מיתר,True,True,True,True,True,True
+1871,1871,644666.0,אולפנת צביה דימונה,דימונה,True,True,True,True,True,True
+1872,1872,644674.0,ישיבת תושיה לצעירים,תפרח,True,True,False,True,True,True
+1873,1873,644690.0,יצחק רבין,אילת,True,True,True,True,True,True
+1874,1874,644708.0,מקיף ע. דוד טוביהו,באר שבע,True,True,True,True,True,True
+1875,1875,644732.0,"מקיף ע""ש אריה מאיר",קרית גת,True,True,True,True,True,True
+1876,1876,644757.0,קרית חינוך-ק. מלאכי,קרית מלאכי,True,True,True,True,True,True
+1877,1877,644781.0,תיכון חדש בנים,נתיבות,True,True,True,True,True,True
+1878,1878,644807.0,מקיף דרכא,נתיבות,True,True,True,True,True,True
+1879,1879,644823.0,מקיף י',אשדוד,True,True,True,True,True,True
+1880,1880,644831.0,אומנויות,אשקלון,True,True,True,True,True,True
+1881,1881,644849.0,"ישיבת אמי""ת",באר שבע,True,True,True,True,True,True
+1882,1882,648030.0,תיכון סלמאן אלהוזייל,רהט,True,True,True,True,True,True
+1883,1883,648048.0,מקיף רהט,רהט,True,True,True,True,True,True
+1884,1884,648055.0,"חטי""ב לקייה",לקיה,True,True,False,False,False,True
+1885,1885,648063.0,מקיף שגב,שגב-שלום,True,True,True,True,True,True
+1886,1886,648071.0,מקיף טומשין ערערה,ערערה-בנגב,True,True,True,True,True,True
+1887,1887,648089.0,רב תחומי עמל אלביאן תל שבע,תל שבע,True,True,True,True,True,True
+1888,1888,648097.0,רב תחומי לקיה,לקיה,True,True,True,True,True,True
+1889,1889,648113.0,מקיף א'לנור,רהט,True,True,True,True,True,True
+1890,1890,648121.0,"מקיף ע""ש יצחק רבין",חורה,True,True,True,True,True,True
+1891,1891,648139.0,מקיף אל-פרוק,כסיפה,True,True,True,True,True,True
+1892,1892,648147.0,מקיף אלנור ערערה,ערערה-בנגב,True,True,True,True,True,True
+1893,1893,648154.0,מקיף אלחיאת,חורה,True,True,True,True,True,True
+1894,1894,648170.0,"מח""ט עמל רעות",באר שבע,True,True,False,True,True,True
+1895,1895,648204.0,אלנג'אח,רהט,True,True,True,True,True,True
+1896,1896,648220.0,תיכון אורט אבוקרינט,אבו קרינאת (יישוב),True,True,True,True,True,True
+1897,1897,648238.0,דאר אלקלם,רהט,True,True,True,True,True,True
+1898,1898,648261.0,"אקרא ע""ש עאמר צאנע",לקיה,True,True,True,True,True,True
+1899,1899,648279.0,תיכון אורט אלהואשלה,קצר א-סר,True,True,True,True,True,True
+1900,1900,648287.0,"חט""ע ביר הדאג'",ביר הדאג',True,True,True,True,True,True
+1901,1901,648303.0,מקיף אלסאלם,שגב-שלום,True,True,True,True,True,True
+1902,1902,648311.0,מקיף חדש אום בטין,אום בטין,True,True,True,True,True,True
+1903,1903,648329.0,מקיף אלתקוא,רהט,True,True,True,True,True,True
+1904,1904,648337.0,אלסאלם,חורה,True,True,True,True,True,True
+1905,1905,648345.0,תיכון אורט מולדה,מולדה,True,True,True,True,True,True
+1906,1906,660043.0,מעיין חיים ושלום,אשקלון,True,True,False,True,True,True
+1907,1907,660050.0,משכן התלמוד,אופקים,True,True,False,True,True,True
+1908,1908,660076.0,מקיף צפית,כפר מנחם,True,True,True,True,True,True
+1909,1909,660084.0,מקיף שקמה,יד מרדכי,True,True,True,True,True,True
+1910,1910,660092.0,אורט אדיבי אשקלון,אשקלון,True,True,False,True,True,True
+1911,1911,660126.0,מקיף שער הנגב,ניר עם,True,True,True,True,True,True
+1912,1912,660134.0,מקיף באר טוביה,באר טוביה,True,True,True,True,True,True
+1913,1913,660175.0,תכון ברנקו וייס-אילת,אילת,True,True,True,True,True,True
+1914,1914,660209.0,חזון בית יעקב,אלומה,True,True,True,True,True,True
+1915,1915,660217.0,ישיבת תורת ישראל,נתיבות,True,True,False,True,True,True
+1916,1916,660225.0,תיכון אורט תראבין,תראבין א-צאנע(ישוב),True,True,True,True,True,True
+1917,1917,660233.0,תיכון אורט אבו תלול,אבו תלול,True,True,True,True,True,True
+1918,1918,660266.0,בני יששכר,באר גנים,True,True,True,True,True,True
+1919,1919,660274.0,מבואות הנגב,שובל,True,True,True,True,True,True
+1920,1920,660282.0,סמינר בית יעקב החדש,נתיבות,True,True,False,True,True,True
+1921,1921,660308.0,ישיבת באר שבע,באר שבע,True,True,False,True,True,True
+1922,1922,660324.0,נופי הבשור,מגן,True,True,True,True,True,True
+1923,1923,660332.0,שערי רחמים,ירושלים,True,True,True,True,True,True
+1924,1924,660365.0,"חט""ב ממ""ד סעד דע""ת",סעד,True,False,False,False,False,False
+1925,1925,660498.0,מקיף שיטים,ספיר,True,True,True,True,True,True
+1926,1926,661884.0,"ב""ס טכנולוגי ב.חנינה",ירושלים,True,True,False,True,True,True
+1927,1927,670042.0,עמל רמות באר שבע,באר שבע,True,True,True,True,True,True
+1928,1928,670067.0,אורט אפרידר רונסון,אשקלון,True,True,True,True,True,True
+1929,1929,670208.0,אולפנת תהילת ישראל,אילת,True,True,True,True,True,True
+1930,1930,670232.0,מקיף דתי,שדרות,True,True,True,True,True,True
+1931,1931,670323.0,מרכז חנוך משיבי חיים,אשדוד,True,True,True,True,True,True
+1932,1932,670331.0,אורט ימי,אשדוד,True,True,True,True,True,True
+1933,1933,670414.0,מקיף דתי,קרית מלאכי,True,True,True,True,True,True
+1934,1934,670422.0,גימנסיה דרכא,קרית מלאכי,True,True,True,True,True,True
+1935,1935,670562.0,"ביה""ס למלאכה חב""ד",קרית מלאכי,True,True,True,True,True,True
+1936,1936,670810.0,טכני חיל האויר,באר שבע,True,True,True,True,True,True
+1937,1937,670828.0,כפר הנוער קדמה,קדמה,True,True,True,True,True,True
+1938,1938,670836.0,מכ' עמל להנדסה באר שבע,באר שבע,True,True,False,False,False,True
+1939,1939,678011.0,רב תחומי עמל הדקלים תל שבע,תל שבע,True,True,True,True,True,True
+1940,1940,680025.0,אשל הנשיא,אשל הנשיא,True,True,True,True,True,True
+1941,1941,680033.0,מקיף כפר סילבר,כפר סילבר,True,True,True,True,True,True
+1942,1942,680066.0,חקלאי כנות,כנות,True,True,True,True,True,True
+1943,1943,680082.0,"חט""ב דתי שפיר",מרכז שפירא,True,True,False,True,True,True
+1944,1944,680108.0,מקיף דתי עזתה בנות,זמרת,True,True,True,True,True,True
+1945,1945,685586.0,תיכון אורט אלסייד,אל סייד,True,True,True,True,True,True
+1946,1946,710756.0,תיכון אורית,סח'נין,True,True,True,True,True,True
+1947,1947,711051.0,"שש שנתי ע""ש יצחק שמיר",פתח תקווה,True,True,True,True,True,True
+1948,1948,711556.0,ישיבת אוצר התורה,ירושלים,True,True,False,True,True,True
+1949,1949,711564.0,דעת ותבונה,ביתר עילית,True,True,True,True,True,True
+1950,1950,711648.0,בת מלך,טבריה,True,True,True,True,True,True
+1951,1951,711762.0,ישיבת בני חיל,ירושלים,True,False,False,True,False,False
+1952,1952,711770.0,בית הספר השיטה,רחובות,True,True,True,True,True,True
+1953,1953,711903.0,דרכי חנה,אלעד,True,True,False,True,True,True
+1954,1954,712943.0,נתיבות חכמה,מודיעין עילית,True,True,False,True,True,True
+1955,1955,713131.0,תיכון חדש,כפר מנדא,True,True,True,True,True,True
+1956,1956,713594.0,רגבים בעמק,טירת צבי,True,True,True,True,True,True
+1957,1957,713743.0,אולפנת בקעת הירדן,חמרה,True,True,True,True,True,True
+1958,1958,714204.0,"בי""ס סוואחרה בנים",ירושלים,True,True,False,True,True,True
+1959,1959,714824.0,לווית חן,חולון,True,True,False,True,True,True
+1960,1960,714857.0,תיכון בית יעקב תל אב,תל אביב - יפו,True,True,False,True,True,True
+1961,1961,715219.0,אלאמאל,ירושלים,True,False,False,True,True,False
+1962,1962,715235.0,סמינר גברא אלעד,אלעד,True,True,True,True,True,True
+1963,1963,715276.0,כנסת מרדכי ויונה,ירושלים,True,True,False,True,True,True
+1964,1964,715300.0,ים התורה,ירושלים,True,True,False,True,True,True
+1965,1965,715318.0,ישיבה לצעירים אלעד,אלעד,True,True,False,True,True,True
+1966,1966,715409.0,ישיבת שערי דעת,ביתר עילית,True,True,False,True,True,True
+1967,1967,715623.0,מקיף אלסלעה,ירושלים,True,True,False,True,True,True
+1968,1968,715797.0,שערי תבונה,אלעד,True,True,False,True,True,True
+1969,1969,715920.0,אולפנת קצרין,קצרין,True,True,True,True,True,True
+1970,1970,716423.0,עטרת חן,ירושלים,True,True,True,True,True,True
+1971,1971,716605.0,תיכון פרי תואר בית י,אלעד,True,True,False,True,True,True
+1972,1972,716779.0,ישיבת נחלת אהרן קויד,בני ברק,True,True,False,True,True,True
+1973,1973,717769.0,בית יעקב בנות הרמה,בית שמש,True,True,True,True,True,True
+1974,1974,718056.0,ישיבה תיכונית אגדלך,ירושלים,True,True,False,True,True,True
+1975,1975,718189.0,נווה מדבר ניצנה,ניצנה (קהילת חינוך),True,True,False,True,True,True
+1976,1976,718924.0,זו אלנוריין,ירושלים,True,False,False,True,True,True
+1977,1977,718932.0,הליכות שלמה,אלעד,True,True,False,True,True,True
+1978,1978,718965.0,מחול,מחולה,True,True,True,True,True,True
+1979,1979,718999.0,"מכללת אורמת ע""ש י. ג",יבנה,True,True,False,False,True,True
+1980,1980,719047.0,על יסודי עולמאא אלגד,ירושלים,True,True,False,True,True,True
+1981,1981,719542.0,תיכון גני תקווה,גני תקווה,True,True,False,True,True,True
+1982,1982,719575.0,כנסת הגדולה מפעלים ח,מודיעין עילית,True,True,False,True,True,True
+1983,1983,719591.0,כפר הנוער איילת השחר,יונתן,True,True,True,True,True,True
+1984,1984,719724.0,מיטב מדעים ויהדות,חדרה,True,True,True,True,True,True
+1985,1985,719740.0,אלחנן לנכויות פיזיות קשות,אום אל-פחם,True,False,False,True,True,False
+1986,1986,719765.0,ישיבת אוהל יוסף,ירושלים,True,True,False,True,True,True
+1987,1987,719799.0,ישיבת בני אהרן,אלעד,True,True,False,True,True,True
+1988,1988,721175.0,נתיבות דעת,בית שמש,True,True,True,True,True,True
+1989,1989,721928.0,באר החיים ירושלים,ירושלים,True,True,False,True,True,True
+1990,1990,721969.0,שערי תורה,אור עקיבא,True,True,False,True,True,True
+1991,1991,722009.0,שפתי כהן,אשדוד,True,True,False,True,True,True
+1992,1992,722017.0,ישיבה קטנה ארחות מרד,כוכב השחר,True,True,False,True,True,True
+1993,1993,722025.0,עמלה של תורה,ירושלים,True,True,False,True,True,True
+1994,1994,722058.0,הישיבה הגדולה עטרת ש,ראשון לציון,True,True,False,True,True,True
+1995,1995,722066.0,סמינר מורשת ירושלים,ביתר עילית,True,True,False,True,True,True
+1996,1996,722074.0,סמינר לוית חן,בית שמש,True,True,False,True,True,True
+1997,1997,722116.0,בני מלכים/ ישיבה,אלעד,True,True,False,True,True,True
+1998,1998,722124.0,חכמת דוד,אלעד,True,True,False,True,True,True
+1999,1999,722132.0,תורה בתפארתה,אלעד,True,True,False,True,True,True
+2000,2000,722140.0,עטרת שלמה ביתר,ביתר עילית,True,True,False,True,True,True
+2001,2001,722512.0,סמינר בית מלכה בית ש,בית שמש,True,True,False,True,True,True
+2002,2002,723437.0,בית בנימין,צפת,True,True,False,True,True,True
+2003,2003,723486.0,מעיין,כפר חסידים א',True,False,False,False,True,False
+2004,2004,723502.0,משעול,כפר חסידים א',True,False,False,True,True,False
+2005,2005,723684.0,אהל רחל,בני ברק,True,True,False,True,True,True
+2006,2006,724062.0,חזון דוד,מודיעין עילית,True,True,False,True,True,True
+2007,2007,724161.0,כוכבי המדבר ברנקו וי,להב,True,True,False,True,True,True
+2008,2008,724377.0,שער התלמוד,בני ברק,True,True,False,True,True,True
+2009,2009,724864.0,סמינר עטרת חיה מושקא,ביתר עילית,True,True,False,True,True,True
+2010,2010,725382.0,תומכי תמימים - ישיבה,קרית מלאכי,True,True,False,True,True,True
+2011,2011,725390.0,אלופאא,רהט,True,False,False,False,True,False
+2012,2012,725580.0,יגדיל תורה,ירושלים,True,False,False,True,True,False
+2013,2013,725689.0,שחר בוגרים,פתח תקווה,True,False,False,False,True,False
+2014,2014,727099.0,ישיבת תורת ישראל,ירושלים,True,True,False,True,True,True
+2015,2015,727271.0,ישיבת ברית יעקב,ירושלים,True,True,False,True,True,True
+2016,2016,728691.0,ישיבת תורת מרדכי,מודיעין עילית,True,True,False,True,True,True
+2017,2017,728717.0,ישיבה דחסידי בעלזא ב,בית שמש,True,True,False,True,True,True
+2018,2018,728725.0,ישיבה לצעירים אשדוד,אשדוד,True,True,False,True,True,True
+2019,2019,728733.0,ישיבת אור אפריים,בית שמש,True,True,False,True,True,True
+2020,2020,728774.0,משכנות התלמוד,פתח תקווה,True,True,False,True,True,True
+2021,2021,728808.0,ישיבה לצעירים רכסים,רכסים,True,True,False,True,True,True
+2022,2022,728816.0,מוסדות ביאלא חלקת יה,בני ברק,True,True,False,True,True,True
+2023,2023,728832.0,משכן העדות,ירושלים,True,True,False,True,True,True
+2024,2024,728857.0,בית התלמוד שערי תורה,ירושלים,True,True,False,True,True,True
+2025,2025,728865.0,חוקי חיים,ירושלים,True,True,False,True,True,True
+2026,2026,728873.0,תורת ישראל,ירושלים,True,True,False,True,True,True
+2027,2027,729004.0,אהבת תורה,ביתר עילית,True,True,False,True,True,True
+2028,2028,729012.0,רמות זבולון,אבטין,True,True,False,True,True,True
+2029,2029,729020.0,ישיבת נעימות התורה,ביתר עילית,True,True,False,True,True,True
+2030,2030,729038.0,ישיבת דברי מלך,בית שמש,True,True,False,True,True,True
+2031,2031,729046.0,רינסנס טכנולוגי,ירושלים,True,False,False,True,True,True
+2032,2032,729053.0,אורט פסגות מגדל העמק,מגדל העמק,True,True,False,True,True,True
+2033,2033,729079.0,"עטרת שלמה בארה""ק",בני ברק,True,True,False,True,True,True
+2034,2034,729087.0,ישיבה למצוינים רחובו,רחובות,True,True,False,True,True,True
+2035,2035,729095.0,אבן האזל אלעד,אלעד,True,True,False,True,True,True
+2036,2036,729111.0,ישיבה תיכונית דובר טוב,ירושלים,True,True,False,True,True,True
+2037,2037,729178.0,בית שמואל,ירושלים,True,True,False,True,True,True
+2038,2038,729210.0,תום ודעת,ירושלים,True,True,False,True,True,True
+2039,2039,729244.0,פארק המדע,נס ציונה,True,True,False,True,True,True
+2040,2040,729285.0,אורט טכנולוגי קרית ג,קרית גת,True,True,False,True,True,True
+2041,2041,729293.0,אורט צור ערד,ערד,True,True,False,True,True,True
+2042,2042,729418.0,נתיבות הלימוד,ירושלים,True,False,False,True,True,False
+2043,2043,729558.0,סמינר גור חיפה,חיפה,True,True,False,True,True,True
+2044,2044,729566.0,ישיבת ברכת השם,בית הגדי,True,True,False,True,True,True
+2045,2045,729574.0,זיו אור נתניה,נתניה,True,True,False,True,True,True
+2046,2046,729848.0,ישיבה לצעירים פתח תק,פתח תקווה,True,True,False,True,True,True
+2047,2047,729863.0,ישיבת אהל אברהם,אלעד,True,True,False,True,True,True
+2048,2048,729871.0,תיכון עיסויה בנים,ירושלים,True,True,False,True,True,True
+2049,2049,731174.0,מכון בית יעקב למורות,מודיעין עילית,True,True,False,True,True,True
+2050,2050,731182.0,בית אקשטיין פסיפס מו,מודיעין-מכבים-רעות,True,False,False,False,True,False
+2051,2051,731190.0,מנחת חינוך אהל אשר,מודיעין עילית,True,False,False,True,True,False
+2052,2052,731687.0,בית אקשטיין יסודי ספ,רמת גן,True,False,False,False,True,False
+2053,2053,731786.0,"אורט חנוך לנער חב""ד",אופקים,True,True,False,True,True,True
+2054,2054,731901.0,דרך פיקודיך,ביתר עילית,True,True,False,True,True,True
+2055,2055,731935.0,בית אקשטיין - נתניה,נתניה,True,False,False,False,True,False
+2056,2056,732024.0,אמרי משה,ירושלים,True,True,False,True,True,True
+2057,2057,732081.0,נחלי התורה,ירושלים,True,True,False,True,True,True
+2058,2058,732529.0,"ישיבת חב""ד פתח תקוה",פתח תקווה,True,True,False,True,True,True
+2059,2059,733121.0,"מקיף ע""ש ד""ר חאלד ס",נצרת,True,False,False,True,True,True
+2060,2060,733451.0,דרכה של תורה מודיעין,מודיעין עילית,True,True,False,True,True,True
+2061,2061,733527.0,סאדברי-עמק האלה,"נתיב הל""ה",True,False,False,True,True,True
+2062,2062,733584.0,דמוקרטי בעמק- התיכון,נהלל,True,True,False,True,True,True
+2063,2063,733691.0,דגל ירושלים,נחלים,True,True,True,True,True,True
+2064,2064,733824.0,ישיבת תורת עולם,בית שמש,True,True,False,True,True,True
+2065,2065,733873.0,שתילים בני ברק,בני ברק,True,False,False,False,True,False
+2066,2066,733907.0,ופרצת-מוסדות ליו,בית שמש,True,True,False,True,True,True
+2067,2067,733956.0,בית מנחם מענדל,צפת,True,True,False,True,True,True
+2068,2068,734061.0,מעלות שמחה,חצור הגלילית,True,True,False,True,True,True
+2069,2069,734301.0,מרגליות,אשדוד,True,True,False,False,True,True
+2070,2070,734855.0,בניה,חיפה,True,True,False,True,True,True
+2071,2071,734863.0,כפר הנוער הערבי למצויינות,גבעת חביבה,True,True,False,True,True,True
+2072,2072,734954.0,עטרת התורה,ירושלים,True,False,False,False,True,False
+2073,2073,735845.0,ישיבת בית רפאל,בני ברק,True,True,False,True,True,True
+2074,2074,736256.0,ישיבה לצעירים תלציון,כוכב יעקב,True,True,False,False,True,True
+2075,2075,736975.0,מתיבתא דרבי יוחנן מע,בני ברק,True,True,False,False,True,True
+2076,2076,739011.0,בית דוד,בית שמש,True,True,False,True,True,True
+2077,2077,739029.0,קרית התורה קרית גת,קרית גת,True,True,False,True,True,True
+2078,2078,739045.0,רימון,פרדס חנה-כרכור,True,True,False,True,True,True
+2079,2079,739052.0,מרכז לתורה והוראה,פתח תקווה,True,True,False,False,True,True
+2080,2080,739078.0,ישיבת רכסים לצעירים,רכסים,True,True,False,True,True,True
+2081,2081,739185.0,ברכת שמואל,בית שמש,True,True,False,True,True,True
+2082,2082,740365.0,תיכון אלמל,סח'נין,True,True,False,True,True,True
+2083,2083,740381.0,ישיבת משכנות נעורים,יסודות,True,True,False,True,True,True
+2084,2084,740688.0,תיכון נתיבות שלום,ביתר עילית,True,True,False,True,True,True
+2085,2085,740753.0,תיכון חרדי באר יעקב,באר יעקב,True,True,False,False,True,True
+2086,2086,740779.0,בנות חיל,ירושלים,True,True,False,False,True,True
+2087,2087,741033.0,אדם ואדמה,חצבה,True,True,False,True,True,True
+2088,2088,741157.0,דעת משה,תל אביב - יפו,True,True,False,False,True,True
+2089,2089,741165.0,מתיבתא,זכרון יעקב,True,False,False,True,True,False
+2090,2090,741173.0,חנוך לנער,פתח תקווה,True,True,False,True,True,True
+2091,2091,741280.0,משכנותיך ישראך,ירושלים,True,True,False,True,True,True
+2092,2092,741348.0,בית יעקב החדש ביתר ע,ביתר עילית,True,True,False,False,True,True
+2093,2093,741496.0,תורה ודעת,בני ברק,True,True,False,False,True,False
+2094,2094,741710.0,בנות בת שבע,מודיעין עילית,True,True,False,False,True,True
+2095,2095,741892.0,בנות מלכים,ירושלים,True,True,False,True,True,True
+2096,2096,742163.0,אולפנת תפארת,מגדל העמק,True,True,False,True,True,True
+2097,2097,742189.0,התיכון התורני החדש-,רחובות,True,True,False,False,True,True
+2098,2098,742312.0,מדרסת דאר אלמערפה -,ירושלים,True,True,False,True,False,True
+2099,2099,742379.0,דעת תבונות,בני ברק,True,True,False,True,True,True
+2100,2100,742544.0,מכון בית יעקב למורות,אלעד,True,True,False,False,True,True
+2101,2101,742916.0,אור משה,תל אביב - יפו,True,False,False,False,True,False
+2102,2102,743179.0,תיכון עארה,ערערה,True,True,False,False,True,False
+2103,2103,743807.0,אוצר התורה - שיח סוד,ירושלים,True,False,False,False,True,False
+2104,2104,747444.0,אוצרות הגדולים,אשדוד,True,False,False,False,True,False
+2105,2105,770057.0,עמל אמירים אופקים,אופקים,True,True,True,True,True,True
+2106,2106,770065.0,מקיף אזורי ברנר,גבעת ברנר,True,True,True,True,True,True
+2107,2107,770073.0,מקיף חוף הכרמל,מעגן מיכאל,True,True,True,True,True,True
+2108,2108,770214.0,שפרירים ב' חטיבת ביניים,גבעת חיים (איחוד),True,False,False,False,False,False
+2109,2109,770222.0,אולפנת נווה שרה הרצוג,בני ברק,True,True,True,True,True,True
+2110,2110,770230.0,"חט""ע שפרירים-מסגרת מקדמת",גבעת חיים (איחוד),True,False,False,True,True,False
+2111,2111,770297.0,עירוני יד',תל אביב - יפו,True,True,True,True,True,True
+2112,2112,770305.0,ישיבת שעלבים,שעלבים,True,True,True,True,True,True
+2113,2113,770388.0,מרכז חינוך אורט,כפר סבא,True,True,True,True,True,True
+2114,2114,770396.0,מכללה טכנו' חיל-אויר,חיפה,True,True,True,True,True,True
+2115,2115,770412.0,בית יעקב אבות,אשדוד,True,True,True,True,True,True
+2116,2116,770453.0,"תיכון ע""ש קציר",רחובות,True,True,True,True,True,True
+2117,2117,770461.0,"מקיף ג' ע""ש רוגוזין",אשדוד,True,True,True,True,True,True
+2118,2118,770495.0,בית חנה,ירושלים,True,True,True,True,True,True
+2119,2119,770503.0,בית יעקב אהל חיה,נתיבות,True,True,True,True,True,True
+2120,2120,770529.0,"בי""ס אמריקאי בנלאומי",אבן יהודה,True,False,False,True,True,True
+2121,2121,770552.0,"מקיף דתי אמי""ת",באר שבע,True,True,True,True,True,True
+2122,2122,770586.0,"עירוני ע""ש שזר",בת ים,True,True,True,True,True,True
+2123,2123,770602.0,מעלה שחרות,יטבתה,True,True,True,True,True,True
+2124,2124,770719.0,ישיבת חנוך לנער,נתיבות,True,True,False,True,True,True
+2125,2125,770727.0,"אולפנת בנ""ע טל רמות",ירושלים,True,True,True,True,True,True
+2126,2126,770750.0,"אורט ע""ש מיטרני",חולון,True,True,True,True,True,True
+2127,2127,770768.0,"מקיף ע""ש ספיר",ירוחם,True,True,True,True,True,True
+2128,2128,770776.0,"מקיף אורט ע""ש אברט",חצור הגלילית,True,True,True,True,True,True
+2129,2129,770784.0,"קרית החינוך אמי""ת",חצור הגלילית,True,True,True,True,True,True
+2130,2130,770826.0,עירוני ו' מקיף,באר שבע,True,True,True,True,True,True
+2131,2131,770842.0,מקיף השרון עש רוטברג,רמת השרון,True,True,True,True,True,True
+2132,2132,770859.0,קרית חינוך,עכו,True,True,True,True,True,True
+2133,2133,770875.0,מכללת אורט,ירושלים,True,True,True,True,True,True
+2134,2134,770941.0,תיכון לחינוך סביבתי,מדרשת בן גוריון,True,True,True,True,True,True
+2135,2135,770990.0,מקיף אזורי מרחבים,בתי ספר של מרחבים,True,True,True,True,True,True
+2136,2136,771030.0,מוסדות מגדל אור,מגדל העמק,True,True,True,True,True,True
+2137,2137,771071.0,מקיף ג' עמית,ראשון לציון,True,True,True,True,True,True
+2138,2138,771089.0,התיכון הניסויי,ירושלים,True,True,True,True,True,True
+2139,2139,771105.0,מקיף עין גדי,עין גדי,True,True,True,True,True,True
+2140,2140,771121.0,ישיבת תורה והוראה,תל אביב - יפו,True,True,False,True,True,True
+2141,2141,771287.0,"מנו""ף",עכו,True,True,True,True,True,True
+2142,2142,800003.0,תיכון חקלאי ימה,זמר,True,True,True,True,True,True
+2143,2143,800037.0,רב תחומי כסייפה,כסיפה,True,True,True,True,True,True
+2144,2144,800052.0,"תיכון ע""ש ג'מאל טרביה",סח'נין,True,True,True,True,True,True
+2145,2145,800060.0,מקיף אחווה ירכא,ירכא,True,True,True,True,True,True
+2146,2146,800078.0,מקיף עין מאהל,עין מאהל,True,True,True,True,True,True
+2147,2147,800086.0,מקיף כפר קאסם,כפר קאסם,True,True,True,True,True,True
+2148,2148,800094.0,תיכון כפר כנא,כפר כנא,True,True,True,True,True,True
+2149,2149,800102.0,תיכון ערערה למדע וטכ,ערערה,True,True,True,True,True,True
+2150,2150,800110.0,"שש שנתי ע""ש קופטאן",דאלית אל-כרמל,True,True,False,True,False,True
+2151,2151,800128.0,רב תחומי עמל דבוריה,דבוריה,True,True,True,True,True,True
+2152,2152,800136.0,"מקיף ע""ש קאסם גאנם",מגאר,True,True,True,True,True,True
+2153,2153,800144.0,רב תחומי עמל תל שבע א',תל שבע,True,True,True,True,True,True
+2154,2154,841155.0,"חט""ב אדיגה כפר קמא",כפר כמא,True,False,False,False,False,False
+2155,2155,841213.0,אולפנת צביה-עזתה,בית הגדי,True,True,True,True,True,True
+2156,2156,841247.0,אולפנה יחודית לבנות,נוב,True,True,True,True,True,True
+2157,2157,841254.0,בית חינוך ירקון,נווה ירק,True,True,True,True,True,True
+2158,2158,841262.0,מקיף הר טוב,צרעה,True,True,True,True,True,True
+2159,2159,844043.0,עמק יפה,ניר יפה,True,False,False,True,True,False
+2160,2160,844076.0,קרית חינוך דרור,בני דרור,True,True,True,True,True,True
+2161,2161,860353.0,תיכון תמר,נטור,True,True,True,True,True,True
+2162,2162,860361.0,בית ירח א',כנרת (קבוצה),True,True,True,True,True,True
+2163,2163,872531.0,בית הספר הארצי להנדס,חיפה,True,True,False,False,True,True
+2164,2164,900076.0,טכנולוגי תורני נחלים,נחלים,True,True,True,True,True,True
+2165,2165,900126.0,אורט למינהל טכני,ראשון לציון,True,True,False,True,True,True
+2166,2166,961003.0,"היל""ה מלכישוע-חסות",מלכישוע,True,True,False,True,True,True
+2167,2167,961011.0,"היל""ה רטורנו-חסות",גבעת שמש,True,True,False,True,True,True
+2168,2168,,,,False,False,False,False,False,False
+2169,2169,722033.0,ישיבת חכמה ודעת,ירושלים,False,True,False,True,True,True
+2170,2170,234013.0,מפתן עכו,עכו,False,True,False,True,False,True
+2171,2171,519686.0,ישיבת נתיבות התורה,בית שמש,False,True,False,True,False,True
+2172,2172,728980.0,בני עלייה,בית שמש,False,True,False,True,False,True
+2173,2173,540096.0,ברכת נחום,בני ברק,False,True,False,True,False,True
+2174,2174,541318.0,ישיבת מסילת ישרים,בני ברק,False,True,False,True,False,True
+2175,2175,541359.0,ישיבת חומת ציון,בני ברק,False,True,False,True,False,True
+2176,2176,141085.0,ישיבת ברכת משה,ירושלים,False,True,False,True,False,True
+2177,2177,372318.0,חליל סכאכיני,ירושלים,False,True,False,True,False,True
+2178,2178,372938.0,ישיבת נתיב הדעת,ירושלים,False,True,False,True,False,True
+2179,2179,140905.0,אולפנא עופרה,מטה בנימין,False,True,False,False,False,False
+2180,2180,610451.0,אורחות חיים,מרחבים,False,True,False,True,False,True
+2181,2181,641100.0,משכן ראובן,נתיבות,False,True,False,True,False,True
+2182,2182,442756.0,המשכיל - שערי חכמה,פתח תקוה,False,True,False,True,False,True
+2183,2183,720987.0,ישיבה קטנה -פרי מגדי,צפת,False,True,False,True,False,True
+2184,2184,430629.0,מפתן אלונים,רחובות,False,True,False,True,False,True
+2185,2185,176149.0,מגדלות,תל אביב-יפו,False,True,True,True,False,True
+2186,2186,540690.0,אורט יד שפירא,תל אביב-יפו,False,True,False,False,False,True
+2187,2187,384115.0,שערי דעת,אור עקיבא,False,True,False,True,False,True
+2188,2188,442111.0,תיכון קהילתי אהל תמר,אלעד,False,True,False,True,False,True
+2189,2189,499822.0,ישיבה לצעירים אלעד,אלעד,False,True,False,True,False,True
+2190,2190,476986.0,מכללה טכנו חיל חימוש,באר יעקב,False,True,False,True,False,True
+2191,2191,660290.0,פסגות - עמל באר שבע,באר שבע,False,True,False,True,False,True
+2192,2192,346072.0,מנחת ישראל,בית שמש,False,True,False,True,False,True
+2193,2193,366856.0,אומנות ודעת,בית שמש,False,True,False,True,False,True
+2194,2194,440669.0,בית יעקב שבילי בינה,בית שמש,False,True,False,True,False,True
+2195,2195,460683.0,תורת אליהו,בית שמש,False,True,False,True,False,True
+2196,2196,804237.0,קול יעקב חי,בית שמש,False,True,False,True,False,True
+2197,2197,560144.0,"עטרת שלמה בארה""ק",בני ברק,False,True,False,True,False,True
+2198,2198,370825.0,נתיב אור,חדרה,False,True,False,True,False,True
+2199,2199,379826.0,מרכז טכנולוגי אזורי,חיפה,False,True,False,False,False,False
+2200,2200,141259.0,ישיבת משכן ישראל,ירושלים,False,True,False,True,False,True
+2201,2201,186783.0,"ביה""ס עי""ס אלחיה",ירושלים,False,True,False,True,False,True
+2202,2202,188854.0,"עי""ס סואחרה אלעבידיה",ירושלים,False,True,False,True,False,True
+2203,2203,190116.0,עמלה של תורה,ירושלים,False,True,False,True,False,True
+2204,2204,234039.0,נתיבי קודש,ירושלים,False,True,False,True,False,True
+2205,2205,288084.0,"בי""ס אמירה בסמה",ירושלים,False,True,False,True,False,True
+2206,2206,331058.0,אוזר ישראל,ירושלים,False,True,False,True,False,True
+2207,2207,346478.0,ישיבת ליקווד לצעירים,ירושלים,False,True,False,True,False,True
+2208,2208,373159.0,דרך המלך,ירושלים,False,True,False,True,False,True
+2209,2209,440461.0,אור אברהם טשכנוב,ירושלים,False,True,False,True,False,True
+2210,2210,440776.0,תהלות אליהו,ירושלים,False,True,False,True,False,True
+2211,2211,460535.0,"עי""ס סמהר לבנות",ירושלים,False,True,False,True,False,True
+2212,2212,460675.0,על יסודי אומליסון,ירושלים,False,True,False,False,False,True
+2213,2213,499566.0,ישיבת בארות החיים,ירושלים,False,True,False,True,False,True
+2214,2214,499632.0,אמרי משה,ירושלים,False,True,False,True,False,True
+2215,2215,499905.0,בית התפוצות,ירושלים,False,True,False,True,False,True
+2216,2216,519629.0,זיו התורה,ירושלים,False,True,False,True,False,True
+2217,2217,560243.0,בית ספר מכון להוראה,ירושלים,False,True,False,True,False,True
+2218,2218,560284.0,פאר יעקב,ירושלים,False,True,False,True,False,True
+2219,2219,560367.0,בית מרדכי,ירושלים,False,True,False,True,False,True
+2220,2220,560698.0,מנחם ציון,ירושלים,False,True,False,True,False,True
+2221,2221,715359.0,בית רבקה,ירושלים,False,True,False,True,False,True
+2222,2222,770834.0,מקיף דתי ג'ינוגלי,ירושלים,False,True,True,True,False,True
+2223,2223,230276.0,"מח""ט מגדל העמק",מגדל העמק,False,True,False,True,False,True
+2224,2224,560375.0,דרכה של תורה,מודיעין עילית,False,True,False,True,False,True
+2225,2225,441675.0,ישיבה לצעירים יסודות,נחל שורק,False,True,False,True,False,True
+2226,2226,244400.0,תומר דבורה,צפת,False,True,False,True,False,True
+2227,2227,560474.0,ישיבה אורות מרדכי,צפת,False,True,False,False,False,True
+2228,2228,141473.0,מאורות התורה,קרית יערים,False,True,True,True,False,True
+2229,2229,640680.0,ישיבת תומכי תמימים,קרית מלאכי,False,True,False,True,False,True
+2230,2230,441253.0,"תיכון ת""א ראשל""צ מע'",ראשון לציון,False,True,False,True,False,True
+2231,2231,440156.0,תיכון אזורי רמלה לוד,רמלה,False,True,True,True,False,True
+2232,2232,442384.0,"תיכון ע""ש רועי קליין",רעננה,False,True,True,True,False,True
+2233,2233,541797.0,"ביה""ס חינוך לנוער",תל אביב-יפו,False,True,False,True,False,True
+2234,2234,544429.0,ישיבת ברכת יצחק,אור יהודה,False,True,False,False,False,False
+2235,2235,640847.0,היכל התורה,אשדוד,False,True,False,False,False,False
+2236,2236,640946.0,"תיכון ת""א של' אשקלון",אשקלון,False,True,False,True,False,True
+2237,2237,519355.0,עתיד רמת חובב,באר שבע,False,True,False,False,False,False
+2238,2238,670299.0,תיכון תלם,באר שבע,False,True,False,True,False,True
+2239,2239,351023.0,אוהלי מנחם,בית שמש,False,True,False,False,False,False
+2240,2240,362160.0,ישיבת חמדת התורה,בית שמש,False,True,False,True,False,True
+2241,2241,460204.0,אורחות התלמוד,בית שמש,False,True,False,False,False,False
+2242,2242,460287.0,קדושת לוי,בית שמש,False,True,False,True,False,True
+2243,2243,190090.0,מדרש יחיאל,ביתר עילית,False,True,False,True,False,True
+2244,2244,363143.0,היכל אברהם,ביתר עילית,False,True,False,False,False,False
+2245,2245,372920.0,ישיבת תפארת חיים,ביתר עילית,False,True,False,False,False,False
+2246,2246,454330.0,סמינר תבונות,ביתר עילית,False,True,False,True,False,True
+2247,2247,460352.0,ישיבת תפארת יצחק,ביתר עילית,False,True,False,False,False,False
+2248,2248,541078.0,היכל אברהם אלימלך,בני ברק,False,True,False,True,False,True
+2249,2249,541417.0,ישיבת יד אזוב,בני ברק,False,True,False,False,False,False
+2250,2250,544445.0,מרכז תורני קב ונקי,בני ברק,False,True,False,False,False,False
+2251,2251,541763.0,התיכוניה העירונית,בת ים,False,True,False,True,False,True
+2252,2252,174441.0,"בי""ס שדה בר",גוש עציון,False,True,False,False,False,False
+2253,2253,357491.0,תפארת תמימים,חדרה,False,True,False,True,False,True
+2254,2254,521377.0,מדעים ויהדות בנות,חדרה,False,True,False,False,False,False
+2255,2255,340646.0,"תיכון ת""א שלוחת חיפה",חיפה,False,True,False,True,False,True
+2256,2256,560649.0,בת מלך,טבריה,False,True,False,True,False,True
+2257,2257,141184.0,ישיבת מענה שמחה,ירושלים,False,True,False,False,False,False
+2258,2258,141226.0,בית מדרש אור השלום,ירושלים,False,True,False,False,False,False
+2259,2259,141788.0,ישיבת שערי תורה,ירושלים,False,True,False,True,False,True
+2260,2260,141994.0,תיכון תל אביב,ירושלים,False,True,False,True,False,True
+2261,2261,144345.0,ישיבת אונגוואר,ירושלים,False,True,False,False,False,False
+2262,2262,148106.0,מקיף בית צפאפא,ירושלים,False,True,False,False,False,True
+2263,2263,160184.0,ים התורה,ירושלים,False,True,False,True,False,True
+2264,2264,160515.0,אבן ישראל,ירושלים,False,True,False,True,False,True
+2265,2265,163824.0,ישיבת אמרי שפר,ירושלים,False,True,False,True,False,True
+2266,2266,176057.0,עטרת חן,ירושלים,False,True,False,True,False,True
+2267,2267,176156.0,"ביה""ס ע""ש דביקו",ירושלים,False,True,False,True,False,True
+2268,2268,177295.0,ארשת בית יעקב,ירושלים,False,True,False,True,False,True
+2269,2269,183236.0,מקיף א' ראס אלעאמוד,ירושלים,False,True,False,False,False,True
+2270,2270,199927.0,ישיבת נזר התורה,ירושלים,False,True,False,False,False,False
+2271,2271,331033.0,תורת אוהל יצחק,ירושלים,False,True,False,True,False,True
+2272,2272,338111.0,ישיבת היכל שלום,ירושלים,False,True,False,True,False,True
+2273,2273,361386.0,ברכת אהרון,ירושלים,False,True,False,True,False,True
+2274,2274,363150.0,ישיבת פאר יעקב,ירושלים,False,True,False,True,False,True
+2275,2275,364786.0,זכרון אמיר יהודה י-ם,ירושלים,False,True,False,True,False,True
+2276,2276,366872.0,דרכי תורה,ירושלים,False,True,False,False,False,True
+2277,2277,366898.0,תפארת החינוך,ירושלים,False,True,False,True,False,True
+2278,2278,442707.0,אהבת תורה,ירושלים,False,True,False,True,False,True
+2279,2279,455451.0,שלחן המלך,ירושלים,False,True,False,True,False,True
+2280,2280,460170.0,בניין שלמה וירושלים,ירושלים,False,True,False,False,False,False
+2281,2281,460329.0,אלמוסתקבל א-טור תכון,ירושלים,False,True,False,True,False,True
+2282,2282,460485.0,תכון אלגבל אלנמודגיה,ירושלים,False,True,False,True,False,True
+2283,2283,521187.0,ישיבת בית אשר,ירושלים,False,True,False,True,False,True
+2284,2284,560185.0,בית השם נהלך,ירושלים,False,True,False,False,False,False
+2285,2285,560235.0,תורת משה-זכרוןקדושים,ירושלים,False,True,False,True,False,True
+2286,2286,560326.0,ישיבת כנסת שלמה,ירושלים,False,True,False,False,False,False
+2287,2287,560672.0,נר יוסף,ירושלים,False,True,False,True,False,True
+2288,2288,710418.0,בית ספר עתיד,ירושלים,False,True,False,True,False,True
+2289,2289,441261.0,"תיכון ת""א_כפר-סבא",כפר סבא,False,True,False,True,False,True
+2290,2290,248799.0,תכון אורית ליד מכללה,סח'נין,False,True,False,True,False,True
+2291,2291,476382.0,בית החינוך הדמוקרטי,פרדס חנה-כרכור,False,True,False,False,False,False
+2292,2292,430272.0,מפתן ברק,פתח תקוה,False,True,False,True,False,True
+2293,2293,460618.0,לא תיטוש,פתח תקוה,False,True,False,False,False,False
+2294,2294,238535.0,ישראל אריה לייב,צפת,False,True,False,False,False,False
+2295,2295,460295.0,ישועה וחיים,צפת,False,True,False,False,False,False
+2296,2296,460261.0,אולפנת גילה בקצרין,קצרין,False,True,False,True,False,True
+2297,2297,660241.0,ישיבת קרית מלאכי,קרית מלאכי,False,True,False,True,False,True
+2298,2298,410159.0,חדר ראשון לציון,ראשון לציון,False,True,False,True,False,True
+2299,2299,660001.0,אבו שחאדה,רהט,False,True,False,True,False,True
+2300,2300,660118.0,"ב""ס טכנולוגי עמל רהט",רהט,False,True,False,False,False,True
+2301,2301,442038.0,"תכון ת""א שלוחת ראשלצ",רחובות,False,True,False,True,False,True
+2302,2302,441915.0,דורשי יחודך,שומרון,False,True,False,False,False,False
+2303,2303,541730.0,"תיכון ת""א",תל אביב-יפו,False,True,False,True,False,True
+2304,2304,570663.0,"תורה ומלאכה ע""ש פנקס",תל אביב-יפו,False,True,False,False,False,False
+2305,2305,644328.0,עירוני ח' מקיף,באר שבע,False,True,False,True,False,True
+2306,2306,140616.0,ישיבת נר ישראל גור,ירושלים,False,True,False,False,False,False
+2307,2307,164681.0,שערי בינה,ירושלים,False,True,False,False,False,False
+2308,2308,346940.0,ישיבת משנת תורה,ירושלים,False,True,False,False,False,False
+2309,2309,360537.0,כנסת יעקב,ירושלים,False,True,False,False,False,False
+2310,2310,455675.0,אוהלי יעקב,ירושלים,False,True,False,True,False,True
+2311,2311,530006.0,מפתן בני ציון,ירושלים,False,True,False,True,False,True
+2312,2312,660316.0,נתיבות להצלחה,נתיבות,False,True,False,True,False,True
+2313,2313,460105.0,רמות חפר,עמק חפר,False,True,False,True,False,True
+2314,2314,420562.0,גולדה,פתח תקוה,False,True,False,False,False,True
+2315,2315,473215.0,מיטב ראשון לציון,ראשון לציון,False,True,False,False,False,True
+2316,2316,442327.0,שירת רבקה ורחל,רחובות,False,True,False,True,False,True
+2317,2317,610691.0,ניצנה,רמת נגב,False,True,False,True,False,True
+2318,2318,120006.0,מרכז לשיקום נוער,ירושלים,False,False,False,True,False,False
+2319,2319,131086.0,כפר שמעון,מטה יהודה,False,False,False,True,False,False
+2320,2320,141382.0,ישיבת בני-חיל,ירושלים,False,False,False,True,False,True
+2321,2321,228635.0,מרכז שיקום נצרת,נצרת,False,False,False,True,False,False
+2322,2322,244137.0,חטב עמלנית אילנות,נהריה,False,False,False,True,False,False
+2323,2323,361865.0,"ע""י דאר אלהודא",ירושלים,False,False,False,True,False,True
+2324,2324,420638.0,דרכי חיים,ירושלים,False,False,False,True,True,False
+2325,2325,620096.0,בית יוסף,אשדוד,False,False,False,True,False,False
+2326,2326,722272.0,אור משה,בית שמש,False,False,False,True,True,False
+2327,2327,184010.0,פריר בית חנינא,ירושלים,False,False,False,False,True,False
+2328,2328,184093.0,ישיבת פורת יוסף,ירושלים,False,False,False,False,True,False
+2329,2329,320119.0,ברכה - כתות חולים,חיפה,False,False,False,False,True,False
+2330,2330,384487.0,הלל יפה,חדרה,False,False,False,False,True,False
+2331,2331,384529.0,חינוך מיוחד,קרית ביאליק,False,False,False,False,True,False
+2332,2332,411777.0,סולם,בית שמש,False,False,False,False,True,False
+2333,2333,412676.0,דאר אל חכמה,ירושלים,False,False,False,False,True,False
+2334,2334,440693.0,אלראזי,ירושלים,False,False,False,False,True,False
+2335,2335,475616.0,דרך החינוך,מודיעין עילית,False,False,False,False,True,False
+2336,2336,475780.0,עלה ירושלים,ירושלים,False,False,False,False,True,False
+2337,2337,475871.0,רועי קריב מרכז להורא,תל אביב - יפו,False,False,False,False,True,False
+2338,2338,482141.0,אל סביל,רמלה,False,False,False,False,True,False
+2339,2339,482505.0,העוגן לב השרון,צור משה,False,False,False,False,True,False
+2340,2340,482513.0,נפלאות,כפר יונה,False,False,False,False,True,False
+2341,2341,581207.0,מרכז חינוכי וולפסון,חולון,False,False,False,False,True,False
+2342,2342,581215.0,שחקים,חולון,False,False,False,False,True,False
+2343,2343,582007.0,פלך,תל אביב - יפו,False,False,False,False,True,False
+2344,2344,620260.0,יובלים,ירושלים,False,False,False,False,True,False
+2345,2345,623850.0,כרם גפנים,כרמיאל,False,False,False,False,True,False
+2346,2346,728741.0,אור יהושע נתיבות התו,בית שמש,False,False,False,False,True,False
+2347,2347,732735.0,תיכון קדם,ערד,False,False,False,False,True,False
+2348,2348,733725.0,מכללה איזורית כסרא ס,כסרא-סמיע,False,False,False,False,True,False
+2349,2349,734582.0,בנין שלם,ירושלים,False,False,False,False,True,False
+2350,2350,738575.0,ישבת תפארת ישראל,מודיעין עילית,False,False,False,False,True,False
+2351,2351,739060.0,חיים אליהו,חיפה,False,False,False,False,True,False
+2352,2352,740894.0,מרכז עתיד לוגי טק,באר יעקב,False,False,False,False,True,False
+2353,2353,741140.0,בית אקשטיין יד רמבם,יד רמבם,False,False,False,False,True,False
+2354,2354,742759.0,דרכי הלל,חדרה,False,False,False,False,True,False
+2355,2355,744110.0,נוף הגליל,נוף הגליל,False,False,False,False,True,False
+2356,2356,744201.0,איילת השחר,אילת,False,False,False,False,True,False
+2357,2357,744565.0,בית הספר הבינלאומי ב,גבעת חביבה,False,False,False,False,True,False
+2358,2358,745208.0,מורשה,אשדוד,False,False,False,False,True,False
+2359,2359,745877.0,עטרת התלמוד,תל אביב - יפו,False,False,False,False,True,False
+2360,2360,745901.0,בנות מלך,נתניה,False,False,False,False,True,False
+2361,2361,745919.0,תורת חיים,בני ברק,False,False,False,False,True,False
+2362,2362,746115.0,טללי אורות,נשר,False,False,False,False,True,False
+2363,2363,746404.0,ישיבת בני עקיבא מכלו,מעלה לבונה,False,False,False,False,True,False
+2364,2364,746669.0,ישיבת צביה כרמי קטיף,נגוהות,False,False,False,False,True,False
+2365,2365,746784.0,תיכון ויזניץ מודיעין,מודיעין עילית,False,False,False,False,True,False
+2366,2366,747329.0,דורשי ציון,ביתר עילית,False,False,False,False,True,False
+2367,2367,747337.0,תפארת משה,ביתר עילית,False,False,False,False,True,False
+2368,2368,747402.0,דאוחת אלאבדאע,ירושלים,False,False,False,False,True,False
+2369,2369,747469.0,אהלים של תורה,בית שמש,False,False,False,False,True,False
+2370,2370,747477.0,ישיבת כח התורה,אלעד,False,False,False,False,True,False
+2371,2371,747493.0,ישיבת תפארת התורה,בית שמש,False,False,False,False,True,False
+2372,2372,747501.0,עטרת שלמה אלעד,אלעד,False,False,False,False,True,False
+2373,2373,747519.0,ישיבת חסד לאברהם,בני ברק,False,False,False,False,True,False
+2374,2374,747535.0,ישיבת ברסלב ביתר,ביתר עילית,False,False,False,False,True,False
+2375,2375,747576.0,משכנות התלמוד,פתח תקווה,False,False,False,False,True,False
+2376,2376,747584.0,בית יצחק,ירושלים,False,False,False,False,True,False
+2377,2377,747592.0,דרכי חיים,ירושלים,False,False,False,False,True,False
+2378,2378,747618.0,אהל תורה,ירושלים,False,False,False,False,True,False
+2379,2379,748004.0,תיכון גור קרית גת,קרית גת,False,False,False,False,True,False
+2380,2380,748301.0,אור החינוך,אלעד,False,False,False,False,True,False
+2381,2381,748319.0,שתילים צפריה,צפריה,False,False,False,False,True,False
+2382,2382,748574.0,רגבים בנימין,מעלה מכמש,False,False,False,False,True,False
+2383,2383,748699.0,שפע חיים צאנז,אלעד,False,False,False,False,True,False
+2384,2384,748897.0,סוגה בשושנים,טבריה,False,False,False,False,True,False
+2385,2385,749028.0,תיכון אהל משה,זמרת,False,False,False,False,True,False
+2386,2386,749077.0,סמינר שושנים,ירושלים,False,False,False,False,True,False
+2387,2387,749200.0,סמינר בית יעקב תפארת,אשדוד,False,False,False,False,True,False
+2388,2388,749481.0,סמינר בינת החינוך,ירושלים,False,False,False,False,True,False
+2389,2389,749572.0,ישיבה לצעירים - בית,צפת,False,False,False,False,True,False
+2390,2390,749630.0,ממדבר מתנה - ניצנה,ניצנה (קהילת חינוך),False,False,False,False,True,False
+2391,2391,749770.0,ישיבת ברסלב אור מוהר,יבנאל,False,False,False,False,True,False
+2392,2392,749796.0,מגן הלב,אשדוד,False,False,False,False,True,False
+2393,2393,749887.0,נשמת התורה,ירושלים,False,False,False,False,True,False
+2394,2394,749895.0,בנות ציון,בני ברק,False,False,False,False,True,False
+2395,2395,754432.0,ישיבה לצעירים עפולה,עפולה,False,False,False,False,True,False
+2396,2396,754721.0,דאר אל חכמה,ירושלים,False,False,False,False,True,False
+2397,2397,754804.0,ישיבת באר יצחק- מודי,מודיעין עילית,False,False,False,False,True,False
+2398,2398,755066.0,ישיבת בנע בר יוחאי מירון,מירון,False,False,False,False,True,False
+2399,2399,755074.0,אורט מעין חי ישיבה ט,רחובות,False,False,False,False,True,False
+2400,2400,755173.0,המכללה למינהל מיסודה,אילת,False,False,False,False,True,False
+2401,2401,755181.0,תיכון אזורי רמת הנגב,משאבי שדה,False,False,False,False,True,False
+2402,2402,755223.0,תיכון קורצאק ,באר שבע,False,False,False,False,True,False
+2403,2403,755231.0,הישיבה לצעירים,אשדוד,False,False,False,False,True,False
+2404,2404,755397.0,אורט משכן משה ביתר ע,ביתר עילית,False,False,False,False,True,False
+2405,2405,755587.0,בית ספר תיכון אלפורק,ירושלים,False,False,False,False,True,False
+2406,2406,755603.0,כנסת תורת חיים,בית שמש,False,False,False,False,True,False
+2407,2407,755868.0,בנות חנה,ביתר עילית,False,False,False,False,True,False
+2408,2408,756049.0,ישיבת ראדין,נתניה,False,False,False,False,True,False
+2409,2409,756205.0,שובו מיטב ראשלצ,ראשון לציון,False,False,False,False,True,False
+2410,2410,756353.0,נחלת אפרים,נתיבות,False,False,False,False,True,False
+2411,2411,756379.0,תפארת יוסף,רמלה,False,False,False,False,True,False
+2412,2412,756577.0,מעלות ירושלים,בית שמש,False,False,False,False,True,False
+2413,2413,756585.0,איילת השחר,בית שמש,False,False,False,False,True,False
+2414,2414,756619.0,שובו מיטב נתניה,נתניה,False,False,False,False,True,False
+2415,2415,756742.0,בית ספר תיכון אלאנגא,ירושלים,False,False,False,False,True,False
+2416,2416,756775.0,בית ספר תיכון אלפורק,ירושלים,False,False,False,False,True,False
+2417,2417,756833.0,שערי אשר,תל אביב - יפו,False,False,False,False,True,False
+2418,2418,756999.0,עתיד כרמיאל,כרמיאל,False,False,False,False,True,False
+2419,2419,757591.0,אורייתא,ירושלים,False,False,False,False,True,False
+2420,2420,757609.0,בית ספר תיכון סמירא,ירושלים,False,False,False,False,True,False
+2421,2421,757641.0,מכון בית יעקב למורות,ירושלים,False,False,False,False,True,False
+2422,2422,757666.0,אולפנת עטרת רחל,ירושלים,False,False,False,False,True,False
+2423,2423,757831.0,עמל התורה הקדושה,בני ברק,False,False,False,False,True,False
+2424,2424,758052.0,אהל אברהם,בני ברק,False,False,False,False,True,False
+2425,2425,758060.0,ישיבת בני ראובן,אלעד,False,False,False,False,True,False
+2426,2426,758078.0,שערי אור עקיבא,אור עקיבא,False,False,False,False,True,False
+2427,2427,758094.0,סמינר יצהר,כפר סבא,False,False,False,False,True,False
+2428,2428,758102.0,בנות שרה,אלעד,False,False,False,False,True,False
+2429,2429,758110.0,אור אפרים אלעד,אלעד,False,False,False,False,True,False
+2430,2430,758136.0,המכינה התורנית מגיני,בת ים,False,False,False,False,True,False
+2431,2431,758151.0,ישיבה לצעירים עפולה,עפולה,False,False,False,False,True,False
+2432,2432,758169.0,דרך תבונות,בני ברק,False,False,False,False,True,False
+2433,2433,758177.0,אגודת אוהל זהר התורה,אשדוד,False,False,False,False,True,False
+2434,2434,758185.0,אוהל תורה,ירושלים,False,False,False,False,True,False
+2435,2435,758243.0,טל ישראל,ירושלים,False,False,False,False,True,False
+2436,2436,758250.0,ישיבת נתיבות מרדכי,ירושלים,False,False,False,False,True,False
+2437,2437,758342.0,הישיבה לצעירים בית ש,בית שמש,False,False,False,False,True,False
+2438,2438,758417.0,ישיבת שערי דעה,מודיעין עילית,False,False,False,False,True,False
+2439,2439,758466.0,תורת יעקב,בת ים,False,False,False,False,True,False
+2440,2440,759019.0,עטרת תמר,חיפה,False,False,False,False,True,False
+2441,2441,759043.0,סמינר בנות לאה אסתר,בני ברק,False,False,False,False,True,False
+2442,2442,759118.0,שתילים כרמיאל,כרמיאל,False,False,False,False,True,False
+2443,2443,759399.0,תיכון דמוקרטי,הוד השרון,False,False,False,False,True,False
+2444,2444,759688.0,שבות ישראל,אפרת,False,False,False,False,True,False
+2445,2445,760116.0,הדרת משה,ירושלים,False,False,False,False,True,False
+2446,2446,761205.0,נועם תיכון טכנולגי,ביתר עילית,False,False,False,False,True,False
+2447,2447,761353.0,סמינר בנות מלכה,מודיעין עילית,False,False,False,False,True,False
+2448,2448,761379.0,תורת חיים,אלעד,False,False,False,False,True,False
+2449,2449,761395.0,ישיבת מצפה רחובות,רחובות,False,False,False,False,True,False
+2450,2450,761858.0,מבקשי תורה,בית שמש,False,False,False,False,True,False
+2451,2451,770040.0,המשותף חוף הכרמל,מעגן מיכאל,False,False,False,False,True,False
+2452,2452,795831.0,מוסדות נחלת חיים בית,ביתר עילית,False,False,False,False,True,False
+2453,2453,713685.0,רותם,מצפה רמון,False,False,False,False,False,True
